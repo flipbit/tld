@@ -1959,5 +1959,9 @@
   {
     "tld": "glass",
     "h": "whois.nic.glass"
+  },
+  {
+    "tld": "gle",
+    "h": "whois.nic.google"
   }
 ]
