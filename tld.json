@@ -1239,5 +1239,9 @@
   {
     "tld": "date",
     "h": "whois.nic.date"
+  },
+  {
+    "tld": "dating",
+    "h": "whois.nic.dating"
   }
 ]
