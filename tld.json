@@ -5157,5 +5157,9 @@
   {
     "tld": "whoswho",
     "h": "whois.nic.whoswho"
+  },
+  {
+    "tld": "wien",
+    "h": "whois.nic.wien"
   }
 ]
