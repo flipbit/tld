@@ -3661,5 +3661,9 @@
   {
     "tld": "photos",
     "h": "whois.nic.photos"
+  },
+  {
+    "tld": "physio",
+    "h": "whois.nic.physio"
   }
 ]
