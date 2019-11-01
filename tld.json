@@ -5101,5 +5101,9 @@
   {
     "tld": "wang",
     "h": "whois.gtld.knet.cn"
+  },
+  {
+    "tld": "wanggou",
+    "h": "whois.nic.wanggou"
   }
 ]
