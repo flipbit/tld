@@ -1500,5 +1500,9 @@
   {
     "tld": "engineering",
     "h": "whois.nic.engineering"
+  },
+  {
+    "tld": "enterprises",
+    "h": "whois.nic.enterprises"
   }
 ]
