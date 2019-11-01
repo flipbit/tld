@@ -2859,5 +2859,9 @@
   {
     "tld": "loan",
     "h": "whois.nic.loan"
+  },
+  {
+    "tld": "loans",
+    "h": "whois.nic.loans"
   }
 ]
