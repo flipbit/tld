@@ -3079,5 +3079,9 @@
   },
   {
     "tld": "mh"
+  },
+  {
+    "tld": "miami",
+    "h": "whois.nic.miami"
   }
 ]
