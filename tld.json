@@ -4124,5 +4124,9 @@
   },
   {
     "tld": "sas"
+  },
+  {
+    "tld": "save",
+    "h": "whois.nic.save"
   }
 ]
