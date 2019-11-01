@@ -2371,5 +2371,9 @@
   {
     "tld": "infiniti",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "info",
+    "h": "whois.afilias.net"
   }
 ]
