@@ -4184,5 +4184,9 @@
   {
     "tld": "science",
     "h": "whois.nic.science"
+  },
+  {
+    "tld": "scjohnson",
+    "h": "whois.nic.scjohnson"
   }
 ]
