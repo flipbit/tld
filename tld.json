@@ -4669,5 +4669,9 @@
   {
     "tld": "temasek",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "tennis",
+    "h": "whois.nic.tennis"
   }
 ]
