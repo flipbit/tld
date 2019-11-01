@@ -350,5 +350,9 @@
   {
     "tld": "aw",
     "h": "whois.nic.aw"
+  },
+  {
+    "tld": "aws",
+    "h": "whois.nic.aws"
   }
 ]
