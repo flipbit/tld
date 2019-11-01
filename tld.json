@@ -5015,5 +5015,9 @@
   {
     "tld": "vin",
     "h": "whois.nic.vin"
+  },
+  {
+    "tld": "vip",
+    "h": "whois.nic.vip"
   }
 ]
