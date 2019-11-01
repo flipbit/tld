@@ -310,5 +310,9 @@
   {
     "tld": "au",
     "h": "whois.auda.org.au"
+  },
+  {
+    "tld": "auction",
+    "h": "whois.nic.auction"
   }
 ]
