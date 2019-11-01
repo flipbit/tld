@@ -623,5 +623,9 @@
   },
   {
     "tld": "booking"
+  },
+  {
+    "tld": "bosch",
+    "h": "whois.nic.bosch"
   }
 ]
