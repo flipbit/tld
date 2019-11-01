@@ -2735,5 +2735,9 @@
   {
     "tld": "law",
     "h": "whois.nic.law"
+  },
+  {
+    "tld": "lawyer",
+    "h": "whois.nic.lawyer"
   }
 ]
