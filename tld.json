@@ -3295,5 +3295,9 @@
   {
     "tld": "natura",
     "h": "whois.gtlds.nic.br"
+  },
+  {
+    "tld": "navy",
+    "h": "whois.nic.navy"
   }
 ]
