@@ -545,5 +545,9 @@
   {
     "tld": "bj",
     "h": "whois.nic.bj"
+  },
+  {
+    "tld": "black",
+    "h": "whois.afilias.net"
   }
 ]
