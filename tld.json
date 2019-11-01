@@ -1110,5 +1110,9 @@
   {
     "tld": "cooking",
     "h": "whois.nic.cooking"
+  },
+  {
+    "tld": "cookingchannel",
+    "h": "whois.nic.cookingchannel"
   }
 ]
