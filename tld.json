@@ -742,5 +742,9 @@
   {
     "tld": "cafe",
     "h": "whois.nic.cafe"
+  },
+  {
+    "tld": "cal",
+    "h": "whois.nic.google"
   }
 ]
