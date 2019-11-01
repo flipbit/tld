@@ -203,5 +203,9 @@
   },
   {
     "tld": "amica"
+  },
+  {
+    "tld": "amsterdam",
+    "h": "whois.nic.amsterdam"
   }
 ]
