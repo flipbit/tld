@@ -4266,5 +4266,9 @@
   {
     "tld": "sh",
     "h": "whois.nic.sh"
+  },
+  {
+    "tld": "shangrila",
+    "h": "whois.nic.shangrila"
   }
 ]
