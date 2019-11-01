@@ -2524,5 +2524,9 @@
   {
     "tld": "joburg",
     "h": "joburg-whois.registry.net.za"
+  },
+  {
+    "tld": "jot",
+    "h": "whois.nic.jot"
   }
 ]
