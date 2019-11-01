@@ -990,5 +990,9 @@
   {
     "tld": "claims",
     "h": "whois.nic.claims"
+  },
+  {
+    "tld": "cleaning",
+    "h": "whois.nic.cleaning"
   }
 ]
