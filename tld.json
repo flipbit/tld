@@ -1243,5 +1243,9 @@
   {
     "tld": "dating",
     "h": "whois.nic.dating"
+  },
+  {
+    "tld": "datsun",
+    "h": "whois.nic.gmo"
   }
 ]
