@@ -3232,5 +3232,9 @@
   {
     "tld": "mtn",
     "h": "whois.nic.mtn"
+  },
+  {
+    "tld": "mtr",
+    "h": "whois.nic.mtr"
   }
 ]
