@@ -1879,5 +1879,9 @@
   },
   {
     "tld": "gb"
+  },
+  {
+    "tld": "gbiz",
+    "h": "whois.nic.google"
   }
 ]
