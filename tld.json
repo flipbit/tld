@@ -2668,5 +2668,9 @@
   {
     "tld": "kyoto",
     "h": "whois.nic.kyoto"
+  },
+  {
+    "tld": "kz",
+    "h": "whois.nic.kz"
   }
 ]
