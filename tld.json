@@ -691,5 +691,9 @@
   {
     "tld": "bugatti",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "build",
+    "h": "whois.nic.build"
   }
 ]
