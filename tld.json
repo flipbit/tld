@@ -4765,5 +4765,9 @@
   {
     "tld": "to",
     "h": "whois.tonic.to"
+  },
+  {
+    "tld": "today",
+    "h": "whois.nic.today"
   }
 ]
