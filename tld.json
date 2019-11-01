@@ -4113,5 +4113,9 @@
   {
     "tld": "sanofi",
     "h": "whois.nic.sanofi"
+  },
+  {
+    "tld": "sap",
+    "h": "whois.nic.sap"
   }
 ]
