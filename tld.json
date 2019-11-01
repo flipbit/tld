@@ -4536,5 +4536,9 @@
   {
     "tld": "supply",
     "h": "whois.nic.supply"
+  },
+  {
+    "tld": "support",
+    "h": "whois.nic.support"
   }
 ]
