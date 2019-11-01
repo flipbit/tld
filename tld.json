@@ -5867,5 +5867,9 @@
   {
     "tld": "you",
     "h": "whois.nic.you"
+  },
+  {
+    "tld": "youtube",
+    "h": "whois.nic.google"
   }
 ]
