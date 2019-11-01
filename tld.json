@@ -1771,5 +1771,9 @@
   {
     "tld": "forum",
     "h": "whois.nic.forum"
+  },
+  {
+    "tld": "foundation",
+    "h": "whois.nic.foundation"
   }
 ]
