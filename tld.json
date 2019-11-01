@@ -877,5 +877,9 @@
   {
     "tld": "center",
     "h": "whois.nic.center"
+  },
+  {
+    "tld": "ceo",
+    "h": "whois.nic.ceo"
   }
 ]
