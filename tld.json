@@ -1927,5 +1927,9 @@
   {
     "tld": "gh",
     "url": "http://www.nic.gh/customer/search_c.htm"
+  },
+  {
+    "tld": "gi",
+    "h": "whois2.afilias-grs.net"
   }
 ]
