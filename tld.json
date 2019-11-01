@@ -1562,5 +1562,9 @@
   {
     "tld": "events",
     "h": "whois.nic.events"
+  },
+  {
+    "tld": "everbank",
+    "h": "whois.nic.everbank"
   }
 ]
