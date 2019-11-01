@@ -1633,5 +1633,9 @@
   {
     "tld": "fedex",
     "h": "whois.nic.fedex"
+  },
+  {
+    "tld": "feedback",
+    "h": "whois.nic.feedback"
   }
 ]
