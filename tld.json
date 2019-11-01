@@ -2817,5 +2817,9 @@
   {
     "tld": "limited",
     "h": "whois.nic.limited"
+  },
+  {
+    "tld": "limo",
+    "h": "whois.nic.limo"
   }
 ]
