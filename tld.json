@@ -631,5 +631,9 @@
   {
     "tld": "bostik",
     "h": "whois-bostik.nic.fr"
+  },
+  {
+    "tld": "boston",
+    "h": "whois.nic.boston"
   }
 ]
