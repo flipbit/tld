@@ -2479,5 +2479,9 @@
   {
     "tld": "jcp",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "je",
+    "h": "whois.je"
   }
 ]
