@@ -800,5 +800,9 @@
   {
     "tld": "care",
     "h": "whois.nic.care"
+  },
+  {
+    "tld": "career",
+    "h": "whois.nic.career"
   }
 ]
