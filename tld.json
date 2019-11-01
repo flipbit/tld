@@ -3623,5 +3623,8 @@
   {
     "tld": "pf",
     "h": "whois.registry.pf"
+  },
+  {
+    "tld": "pfizer"
   }
 ]
