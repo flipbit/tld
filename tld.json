@@ -4168,5 +4168,9 @@
   {
     "tld": "scholarships",
     "h": "whois.nic.scholarships"
+  },
+  {
+    "tld": "school",
+    "h": "whois.nic.school"
   }
 ]
