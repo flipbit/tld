@@ -4590,5 +4590,9 @@
   },
   {
     "tld": "sz"
+  },
+  {
+    "tld": "tab",
+    "h": "whois.nic.tab"
   }
 ]
