@@ -3629,5 +3629,9 @@
   },
   {
     "tld": "pg"
+  },
+  {
+    "tld": "ph",
+    "url": "http://www.dot.ph/whois"
   }
 ]
