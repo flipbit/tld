@@ -2922,5 +2922,9 @@
   {
     "tld": "ltda",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "lu",
+    "h": "whois.dns.lu"
   }
 ]
