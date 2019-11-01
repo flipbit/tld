@@ -2121,5 +2121,9 @@
   },
   {
     "tld": "hair"
+  },
+  {
+    "tld": "hamburg",
+    "h": "whois.nic.hamburg"
   }
 ]
