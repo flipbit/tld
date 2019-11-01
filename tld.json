@@ -843,5 +843,9 @@
   {
     "tld": "catering",
     "h": "whois.nic.catering"
+  },
+  {
+    "tld": "catholic",
+    "h": "whois.nic.catholic"
   }
 ]
