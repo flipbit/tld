@@ -2676,5 +2676,9 @@
   {
     "tld": "la",
     "h": "whois.nic.la"
+  },
+  {
+    "tld": "lacaixa",
+    "h": "whois.nic.lacaixa"
   }
 ]
