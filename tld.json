@@ -1002,5 +1002,9 @@
   {
     "tld": "clinic",
     "h": "whois.nic.clinic"
+  },
+  {
+    "tld": "clinique",
+    "h": "whois.nic.clinique"
   }
 ]
