@@ -271,5 +271,9 @@
   {
     "tld": "arpa",
     "h": "whois.iana.org"
+  },
+  {
+    "tld": "art",
+    "h": "whois.nic.art"
   }
 ]
