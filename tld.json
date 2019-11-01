@@ -1162,5 +1162,9 @@
   {
     "tld": "creditunion",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "cricket",
+    "h": "whois.nic.cricket"
   }
 ]
