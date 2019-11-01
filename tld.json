@@ -2882,5 +2882,9 @@
   {
     "tld": "london",
     "h": "whois.nic.london"
+  },
+  {
+    "tld": "lotte",
+    "h": "whois.nic.lotte"
   }
 ]
