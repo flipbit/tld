@@ -2187,5 +2187,9 @@
   {
     "tld": "hiv",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "hk",
+    "h": "whois.hkirc.hk"
   }
 ]
