@@ -2463,5 +2463,9 @@
   {
     "tld": "iveco",
     "h": "whois.nic.iveco"
+  },
+  {
+    "tld": "jaguar",
+    "h": "whois.nic.jaguar"
   }
 ]
