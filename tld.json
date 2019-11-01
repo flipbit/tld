@@ -4349,5 +4349,9 @@
   {
     "tld": "ski",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "skin",
+    "h": "whois.nic.skin"
   }
 ]
