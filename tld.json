@@ -5225,5 +5225,9 @@
   },
   {
     "tld": "xbox"
+  },
+  {
+    "tld": "xerox",
+    "h": "whois.nic.xerox"
   }
 ]
