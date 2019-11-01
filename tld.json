@@ -1610,5 +1610,9 @@
   {
     "tld": "fan",
     "h": "whois.nic.fan"
+  },
+  {
+    "tld": "fans",
+    "h": "whois.nic.fans"
   }
 ]
