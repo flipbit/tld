@@ -1648,5 +1648,9 @@
   {
     "tld": "fi",
     "h": "whois.fi"
+  },
+  {
+    "tld": "fiat",
+    "h": "whois.afilias-srs.net"
   }
 ]
