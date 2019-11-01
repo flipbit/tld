@@ -4462,5 +4462,9 @@
   {
     "tld": "ss",
     "h": "whois.nic.ss"
+  },
+  {
+    "tld": "st",
+    "h": "whois.nic.st"
   }
 ]
