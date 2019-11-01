@@ -3328,5 +3328,8 @@
   {
     "tld": "network",
     "h": "whois.nic.network"
+  },
+  {
+    "tld": "neustar"
   }
 ]
