@@ -4936,5 +4936,9 @@
   {
     "tld": "uy",
     "h": "whois.nic.org.uy"
+  },
+  {
+    "tld": "uz",
+    "h": "whois.cctld.uz"
   }
 ]
