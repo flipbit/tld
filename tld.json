@@ -3800,5 +3800,9 @@
   {
     "tld": "progressive",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "promo",
+    "h": "whois.afilias.net"
   }
 ]
