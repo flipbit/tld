@@ -1006,5 +1006,9 @@
   {
     "tld": "clinique",
     "h": "whois.nic.clinique"
+  },
+  {
+    "tld": "clothing",
+    "h": "whois.nic.clothing"
   }
 ]
