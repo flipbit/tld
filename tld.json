@@ -386,5 +386,9 @@
   },
   {
     "tld": "bananarepublic"
+  },
+  {
+    "tld": "band",
+    "h": "whois.nic.band"
   }
 ]
