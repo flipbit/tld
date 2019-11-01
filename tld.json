@@ -1721,5 +1721,9 @@
   },
   {
     "tld": "flir"
+  },
+  {
+    "tld": "florist",
+    "h": "whois.nic.florist"
   }
 ]
