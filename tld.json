@@ -4896,5 +4896,9 @@
   {
     "tld": "ubs",
     "h": "whois.nic.ubs"
+  },
+  {
+    "tld": "uconnect",
+    "h": "whois.afilias-srs.net"
   }
 ]
