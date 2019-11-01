@@ -651,5 +651,9 @@
   {
     "tld": "br",
     "h": "whois.registro.br"
+  },
+  {
+    "tld": "bradesco",
+    "h": "whois.nic.bradesco"
   }
 ]
