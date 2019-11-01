@@ -4488,5 +4488,9 @@
   {
     "tld": "stc",
     "h": "whois.nic.stc"
+  },
+  {
+    "tld": "stcgroup",
+    "h": "whois.nic.stcgroup"
   }
 ]
