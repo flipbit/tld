@@ -504,5 +504,8 @@
   {
     "tld": "bg",
     "h": "whois.register.bg"
+  },
+  {
+    "tld": "bh"
   }
 ]
