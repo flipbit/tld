@@ -1294,5 +1294,9 @@
   {
     "tld": "delta",
     "h": "whois.nic.delta"
+  },
+  {
+    "tld": "democrat",
+    "h": "whois.nic.democrat"
   }
 ]
