@@ -5237,5 +5237,9 @@
   {
     "tld": "xihuan",
     "h": "whois.teleinfo.cn"
+  },
+  {
+    "tld": "xin",
+    "h": "whois.nic.xin"
   }
 ]
