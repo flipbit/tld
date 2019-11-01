@@ -3690,5 +3690,9 @@
   },
   {
     "tld": "ping"
+  },
+  {
+    "tld": "pink",
+    "h": "whois.afilias.net"
   }
 ]
