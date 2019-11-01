@@ -1868,5 +1868,9 @@
   },
   {
     "tld": "gap"
+  },
+  {
+    "tld": "garden",
+    "h": "whois.nic.garden"
   }
 ]
