@@ -3339,5 +3339,9 @@
   {
     "tld": "newholland",
     "h": "whois.nic.newholland"
+  },
+  {
+    "tld": "news",
+    "h": "whois.nic.news"
   }
 ]
