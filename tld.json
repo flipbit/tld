@@ -473,5 +473,9 @@
   {
     "tld": "beauty",
     "h": "whois.nic.beauty"
+  },
+  {
+    "tld": "beer",
+    "h": "whois.nic.beer"
   }
 ]
