@@ -372,5 +372,9 @@
   {
     "tld": "ba",
     "url": "http://nic.ba/lat/menu/view/13"
+  },
+  {
+    "tld": "baby",
+    "h": "whois.nic.baby"
   }
 ]
