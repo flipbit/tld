@@ -4508,5 +4508,9 @@
   {
     "tld": "stream",
     "h": "whois.nic.stream"
+  },
+  {
+    "tld": "studio",
+    "h": "whois.nic.studio"
   }
 ]
