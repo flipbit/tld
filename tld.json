@@ -2755,5 +2755,9 @@
   {
     "tld": "lease",
     "h": "whois.nic.lease"
+  },
+  {
+    "tld": "leclerc",
+    "h": "whois-leclerc.nic.fr"
   }
 ]
