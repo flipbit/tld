@@ -58,5 +58,9 @@
   {
     "tld": "aco",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "actor",
+    "h": "whois.nic.actor"
   }
 ]
