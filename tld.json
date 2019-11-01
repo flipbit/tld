@@ -365,5 +365,8 @@
   {
     "tld": "az",
     "url": "http://www.nic.az/"
+  },
+  {
+    "tld": "azure"
   }
 ]
