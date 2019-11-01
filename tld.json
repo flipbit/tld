@@ -279,5 +279,9 @@
   {
     "tld": "arte",
     "h": "whois.nic.arte"
+  },
+  {
+    "tld": "as",
+    "h": "whois.nic.as"
   }
 ]
