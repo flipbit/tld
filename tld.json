@@ -3687,5 +3687,8 @@
   {
     "tld": "pin",
     "h": "whois.nic.pin"
+  },
+  {
+    "tld": "ping"
   }
 ]
