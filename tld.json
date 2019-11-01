@@ -4338,5 +4338,8 @@
   {
     "tld": "site",
     "h": "whois.nic.site"
+  },
+  {
+    "tld": "sj"
   }
 ]
