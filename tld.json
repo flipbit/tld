@@ -1286,5 +1286,9 @@
   },
   {
     "tld": "dell"
+  },
+  {
+    "tld": "deloitte",
+    "h": "whois.nic.deloitte"
   }
 ]
