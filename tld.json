@@ -1290,5 +1290,9 @@
   {
     "tld": "deloitte",
     "h": "whois.nic.deloitte"
+  },
+  {
+    "tld": "delta",
+    "h": "whois.nic.delta"
   }
 ]
