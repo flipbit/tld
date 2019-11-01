@@ -1629,5 +1629,9 @@
   {
     "tld": "fast",
     "h": "whois.nic.fast"
+  },
+  {
+    "tld": "fedex",
+    "h": "whois.nic.fedex"
   }
 ]
