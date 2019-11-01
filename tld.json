@@ -287,5 +287,9 @@
   {
     "tld": "asda",
     "h": "whois.nic.asda"
+  },
+  {
+    "tld": "asia",
+    "h": "whois.nic.asia"
   }
 ]
