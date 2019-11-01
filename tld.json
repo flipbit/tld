@@ -861,5 +861,9 @@
   {
     "tld": "cbs",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "cc",
+    "h": "ccwhois.verisign-grs.com"
   }
 ]
