@@ -2245,5 +2245,9 @@
   {
     "tld": "host",
     "h": "whois.nic.host"
+  },
+  {
+    "tld": "hosting",
+    "h": "whois.uniregistry.net"
   }
 ]
