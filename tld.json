@@ -1184,5 +1184,9 @@
   {
     "tld": "csc",
     "h": "whois.nic.csc"
+  },
+  {
+    "tld": "cu",
+    "url": "http://www.nic.cu/"
   }
 ]
