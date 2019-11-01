@@ -3166,5 +3166,9 @@
   {
     "tld": "money",
     "h": "whois.nic.money"
+  },
+  {
+    "tld": "monster",
+    "h": "whois.nic.monster"
   }
 ]
