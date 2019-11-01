@@ -2976,5 +2976,9 @@
   {
     "tld": "man",
     "h": "whois.nic.man"
+  },
+  {
+    "tld": "management",
+    "h": "whois.nic.management"
   }
 ]
