@@ -5097,5 +5097,9 @@
   {
     "tld": "walter",
     "h": "whois.nic.walter"
+  },
+  {
+    "tld": "wang",
+    "h": "whois.gtld.knet.cn"
   }
 ]
