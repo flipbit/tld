@@ -85,5 +85,9 @@
   {
     "tld": "aeg",
     "h": "whois.nic.aeg"
+  },
+  {
+    "tld": "aero",
+    "h": "whois.aero"
   }
 ]
