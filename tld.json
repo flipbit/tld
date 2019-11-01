@@ -1018,5 +1018,9 @@
   {
     "tld": "club",
     "h": "whois.nic.club"
+  },
+  {
+    "tld": "clubmed",
+    "h": "whois.nic.clubmed"
   }
 ]
