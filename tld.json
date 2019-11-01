@@ -3880,5 +3880,9 @@
   {
     "tld": "re",
     "h": "whois.nic.re"
+  },
+  {
+    "tld": "read",
+    "h": "whois.nic.read"
   }
 ]
