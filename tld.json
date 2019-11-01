@@ -889,5 +889,9 @@
   {
     "tld": "cf",
     "h": "whois.dot.cf"
+  },
+  {
+    "tld": "cfa",
+    "h": "whois.nic.cfa"
   }
 ]
