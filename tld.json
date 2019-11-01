@@ -986,5 +986,9 @@
   {
     "tld": "cl",
     "h": "whois.nic.cl"
+  },
+  {
+    "tld": "claims",
+    "h": "whois.nic.claims"
   }
 ]
