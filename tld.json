@@ -1582,5 +1582,9 @@
   {
     "tld": "express",
     "h": "whois.nic.express"
+  },
+  {
+    "tld": "extraspace",
+    "h": "whois.afilias-srs.net"
   }
 ]
