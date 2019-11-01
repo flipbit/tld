@@ -4876,5 +4876,9 @@
   {
     "tld": "tvs",
     "h": "whois.nic.tvs"
+  },
+  {
+    "tld": "tw",
+    "h": "whois.twnic.net.tw"
   }
 ]
