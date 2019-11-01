@@ -2467,5 +2467,9 @@
   {
     "tld": "jaguar",
     "h": "whois.nic.jaguar"
+  },
+  {
+    "tld": "java",
+    "h": "whois.nic.java"
   }
 ]
