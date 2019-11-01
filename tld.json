@@ -1337,5 +1337,9 @@
   {
     "tld": "direct",
     "h": "whois.nic.direct"
+  },
+  {
+    "tld": "directory",
+    "h": "whois.nic.directory"
   }
 ]
