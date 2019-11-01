@@ -2215,5 +2215,9 @@
   {
     "tld": "holiday",
     "h": "whois.nic.holiday"
+  },
+  {
+    "tld": "homedepot",
+    "h": "whois.nic.homedepot"
   }
 ]
