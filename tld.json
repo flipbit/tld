@@ -2323,5 +2323,9 @@
   },
   {
     "tld": "ieee"
+  },
+  {
+    "tld": "ifm",
+    "h": "whois.nic.ifm"
   }
 ]
