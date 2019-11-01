@@ -4971,5 +4971,9 @@
   {
     "tld": "ventures",
     "h": "whois.nic.ventures"
+  },
+  {
+    "tld": "verisign",
+    "h": "whois.nic.verisign"
   }
 ]
