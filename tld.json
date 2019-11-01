@@ -2824,5 +2824,9 @@
   },
   {
     "tld": "lincoln"
+  },
+  {
+    "tld": "linde",
+    "h": "whois.nic.linde"
   }
 ]
