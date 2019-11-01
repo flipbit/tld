@@ -3266,5 +3266,9 @@
   {
     "tld": "mz",
     "h": "whois.nic.mz"
+  },
+  {
+    "tld": "na",
+    "h": "whois.na-nic.com.na"
   }
 ]
