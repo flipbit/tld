@@ -4979,5 +4979,9 @@
   {
     "tld": "versicherung",
     "h": "whois.nic.versicherung"
+  },
+  {
+    "tld": "vet",
+    "h": "whois.nic.vet"
   }
 ]
