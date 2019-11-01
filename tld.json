@@ -330,5 +330,9 @@
   {
     "tld": "auspost",
     "h": "whois.nic.auspost"
+  },
+  {
+    "tld": "author",
+    "h": "whois.nic.author"
   }
 ]
