@@ -1050,5 +1050,9 @@
   {
     "tld": "college",
     "h": "whois.nic.college"
+  },
+  {
+    "tld": "cologne",
+    "h": "whois.ryce-rsp.com"
   }
 ]
