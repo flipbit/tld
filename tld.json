@@ -2420,5 +2420,9 @@
   },
   {
     "tld": "ipiranga"
+  },
+  {
+    "tld": "iq",
+    "h": "whois.cmc.iq"
   }
 ]
