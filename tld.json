@@ -2937,5 +2937,9 @@
   {
     "tld": "luxe",
     "h": "whois.nic.luxe"
+  },
+  {
+    "tld": "luxury",
+    "h": "whois.nic.luxury"
   }
 ]
