@@ -4054,5 +4054,9 @@
   {
     "tld": "run",
     "h": "whois.nic.run"
+  },
+  {
+    "tld": "rw",
+    "h": "whois.ricta.org.rw"
   }
 ]
