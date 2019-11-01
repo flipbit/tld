@@ -1488,5 +1488,9 @@
   {
     "tld": "emerck",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "energy",
+    "h": "whois.nic.energy"
   }
 ]
