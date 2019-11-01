@@ -2363,5 +2363,9 @@
   {
     "tld": "inc",
     "h": "whois.nic.inc"
+  },
+  {
+    "tld": "industries",
+    "h": "whois.nic.industries"
   }
 ]
