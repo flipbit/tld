@@ -5179,5 +5179,8 @@
   {
     "tld": "wine",
     "h": "whois.nic.wine"
+  },
+  {
+    "tld": "winners"
   }
 ]
