@@ -738,5 +738,9 @@
   {
     "tld": "cab",
     "h": "whois.nic.cab"
+  },
+  {
+    "tld": "cafe",
+    "h": "whois.nic.cafe"
   }
 ]
