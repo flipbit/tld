@@ -108,5 +108,9 @@
   {
     "tld": "africa",
     "h": "africa-whois.registry.net.za"
+  },
+  {
+    "tld": "ag",
+    "h": "whois.nic.ag"
   }
 ]
