@@ -5175,5 +5175,9 @@
   },
   {
     "tld": "windows"
+  },
+  {
+    "tld": "wine",
+    "h": "whois.nic.wine"
   }
 ]
