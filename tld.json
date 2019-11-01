@@ -2532,5 +2532,10 @@
   {
     "tld": "joy",
     "h": "whois.nic.joy"
+  },
+  {
+    "tld": "jp",
+    "h": "whois.jprs.jp",
+    "fmt": "{query}/e"
   }
 ]
