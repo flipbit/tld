@@ -1026,5 +1026,9 @@
   {
     "tld": "cm",
     "h": "whois.netcom.cm"
+  },
+  {
+    "tld": "cn",
+    "h": "whois.cnnic.cn"
   }
 ]
