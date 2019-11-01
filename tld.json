@@ -1853,5 +1853,9 @@
   {
     "tld": "gallo",
     "h": "whois.nic.gallo"
+  },
+  {
+    "tld": "gallup",
+    "h": "whois.nic.gallup"
   }
 ]
