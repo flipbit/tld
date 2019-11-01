@@ -1118,5 +1118,9 @@
   {
     "tld": "cool",
     "h": "whois.nic.cool"
+  },
+  {
+    "tld": "coop",
+    "h": "whois.nic.coop"
   }
 ]
