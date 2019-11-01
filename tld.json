@@ -433,5 +433,9 @@
   {
     "tld": "bayern",
     "h": "whois.nic.bayern"
+  },
+  {
+    "tld": "bb",
+    "url": "http://whois.telecoms.gov.bb/search_domain.php"
   }
 ]
