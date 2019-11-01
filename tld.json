@@ -2731,5 +2731,9 @@
   {
     "tld": "latrobe",
     "h": "whois.nic.latrobe"
+  },
+  {
+    "tld": "law",
+    "h": "whois.nic.law"
   }
 ]
