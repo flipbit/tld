@@ -4376,5 +4376,9 @@
   {
     "tld": "smart",
     "h": "whois.nic.smart"
+  },
+  {
+    "tld": "smile",
+    "h": "whois.nic.smile"
   }
 ]
