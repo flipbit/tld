@@ -2867,5 +2867,9 @@
   {
     "tld": "locker",
     "h": "whois.nic.locker"
+  },
+  {
+    "tld": "locus",
+    "h": "whois.nic.locus"
   }
 ]
