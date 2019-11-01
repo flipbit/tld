@@ -3471,5 +3471,9 @@
   {
     "tld": "observer",
     "h": "whois.nic.observer"
+  },
+  {
+    "tld": "off",
+    "h": "whois.nic.off"
   }
 ]
