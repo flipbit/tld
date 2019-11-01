@@ -4262,5 +4262,9 @@
   {
     "tld": "sg",
     "h": "whois.sgnic.sg"
+  },
+  {
+    "tld": "sh",
+    "h": "whois.nic.sh"
   }
 ]
