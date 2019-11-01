@@ -3197,5 +3197,9 @@
   {
     "tld": "mov",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "movie",
+    "h": "whois.nic.movie"
   }
 ]
