@@ -683,5 +683,9 @@
   {
     "tld": "bt",
     "url": "http://www.nic.bt/"
+  },
+  {
+    "tld": "budapest",
+    "h": "whois.nic.budapest"
   }
 ]
