@@ -222,5 +222,8 @@
   {
     "tld": "anz",
     "h": "whois.nic.anz"
+  },
+  {
+    "tld": "ao"
   }
 ]
