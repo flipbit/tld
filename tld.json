@@ -1833,5 +1833,9 @@
   {
     "tld": "futbol",
     "h": "whois.nic.futbol"
+  },
+  {
+    "tld": "fyi",
+    "h": "whois.nic.fyi"
   }
 ]
