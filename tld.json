@@ -4884,5 +4884,9 @@
   {
     "tld": "tz",
     "h": "whois.tznic.or.tz"
+  },
+  {
+    "tld": "ua",
+    "h": "whois.ua"
   }
 ]
