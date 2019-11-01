@@ -1558,5 +1558,9 @@
   {
     "tld": "eus",
     "h": "whois.nic.eus"
+  },
+  {
+    "tld": "events",
+    "h": "whois.nic.events"
   }
 ]
