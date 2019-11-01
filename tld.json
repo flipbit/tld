@@ -4904,5 +4904,9 @@
   {
     "tld": "ug",
     "h": "whois.co.ug"
+  },
+  {
+    "tld": "uk",
+    "h": "whois.nic.uk"
   }
 ]
