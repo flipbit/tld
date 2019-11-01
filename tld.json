@@ -568,5 +568,9 @@
   {
     "tld": "blue",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "bm",
+    "url": "http://www.bermudanic.bm/cgi-bin/lansaweb?procfun+BMWHO+BMWHO2+WHO"
   }
 ]
