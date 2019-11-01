@@ -4575,5 +4575,9 @@
   {
     "tld": "sy",
     "h": "whois.tld.sy"
+  },
+  {
+    "tld": "sydney",
+    "h": "whois.nic.sydney"
   }
 ]
