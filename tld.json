@@ -3895,5 +3895,9 @@
   {
     "tld": "realty",
     "h": "whois.nic.realty"
+  },
+  {
+    "tld": "recipes",
+    "h": "whois.nic.recipes"
   }
 ]
