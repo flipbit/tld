@@ -4995,5 +4995,9 @@
   {
     "tld": "viajes",
     "h": "whois.nic.viajes"
+  },
+  {
+    "tld": "video",
+    "h": "whois.nic.video"
   }
 ]
