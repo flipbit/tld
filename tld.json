@@ -3738,5 +3738,9 @@
   {
     "tld": "pn",
     "url": "http://www.pitcairn.pn/PnRegistry/"
+  },
+  {
+    "tld": "pnc",
+    "h": "whois.nic.pnc"
   }
 ]
