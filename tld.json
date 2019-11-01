@@ -2775,5 +2775,9 @@
   {
     "tld": "lexus",
     "h": "whois.nic.lexus"
+  },
+  {
+    "tld": "lgbt",
+    "h": "whois.afilias.net"
   }
 ]
