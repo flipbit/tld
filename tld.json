@@ -1664,5 +1664,9 @@
   {
     "tld": "film",
     "h": "whois.nic.film"
+  },
+  {
+    "tld": "final",
+    "h": "whois.gtlds.nic.br"
   }
 ]
