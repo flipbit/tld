@@ -4238,5 +4238,9 @@
   {
     "tld": "ses",
     "h": "whois.nic.ses"
+  },
+  {
+    "tld": "seven",
+    "h": "whois.nic.seven"
   }
 ]
