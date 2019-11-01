@@ -4685,5 +4685,9 @@
   {
     "tld": "tg",
     "h": "whois.nic.tg"
+  },
+  {
+    "tld": "th",
+    "h": "whois.thnic.co.th"
   }
 ]
