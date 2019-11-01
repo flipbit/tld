@@ -4372,5 +4372,9 @@
   {
     "tld": "sm",
     "h": "whois.nic.sm"
+  },
+  {
+    "tld": "smart",
+    "h": "whois.nic.smart"
   }
 ]
