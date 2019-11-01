@@ -2855,5 +2855,9 @@
   {
     "tld": "llc",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "loan",
+    "h": "whois.nic.loan"
   }
 ]
