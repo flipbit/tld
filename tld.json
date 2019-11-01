@@ -2953,5 +2953,9 @@
   {
     "tld": "ma",
     "h": "whois.registre.ma"
+  },
+  {
+    "tld": "macys",
+    "h": "whois.nic.macys"
   }
 ]
