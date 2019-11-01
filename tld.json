@@ -3943,5 +3943,9 @@
   {
     "tld": "rentals",
     "h": "whois.nic.rentals"
+  },
+  {
+    "tld": "repair",
+    "h": "whois.nic.repair"
   }
 ]
