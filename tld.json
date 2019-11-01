@@ -3150,5 +3150,9 @@
   {
     "tld": "moe",
     "h": "whois.nic.moe"
+  },
+  {
+    "tld": "moi",
+    "h": "whois.nic.moi"
   }
 ]
