@@ -3505,5 +3505,9 @@
   {
     "tld": "omega",
     "h": "whois.nic.omega"
+  },
+  {
+    "tld": "one",
+    "h": "whois.nic.one"
   }
 ]
