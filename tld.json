@@ -620,5 +620,8 @@
   {
     "tld": "book",
     "h": "whois.nic.book"
+  },
+  {
+    "tld": "booking"
   }
 ]
