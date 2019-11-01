@@ -4156,5 +4156,9 @@
   {
     "tld": "scb",
     "h": "whois.nic.scb"
+  },
+  {
+    "tld": "schaeffler",
+    "h": "whois.afilias-srs.net"
   }
 ]
