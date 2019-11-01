@@ -3126,5 +3126,9 @@
   {
     "tld": "mma",
     "h": "whois-mma.nic.fr"
+  },
+  {
+    "tld": "mn",
+    "h": "whois.nic.mn"
   }
 ]
