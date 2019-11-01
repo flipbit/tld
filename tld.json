@@ -5138,5 +5138,9 @@
   {
     "tld": "wed",
     "h": "whois.nic.wed"
+  },
+  {
+    "tld": "wedding",
+    "h": "whois.nic.wedding"
   }
 ]
