@@ -5168,5 +5168,9 @@
   },
   {
     "tld": "williamhill"
+  },
+  {
+    "tld": "win",
+    "h": "whois.nic.win"
   }
 ]
