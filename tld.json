@@ -4380,5 +4380,9 @@
   {
     "tld": "smile",
     "h": "whois.nic.smile"
+  },
+  {
+    "tld": "sn",
+    "h": "whois.nic.sn"
   }
 ]
