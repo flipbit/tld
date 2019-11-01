@@ -4665,5 +4665,9 @@
   {
     "tld": "telefonica",
     "h": "whois.nic.telefonica"
+  },
+  {
+    "tld": "temasek",
+    "h": "whois.afilias-srs.net"
   }
 ]
