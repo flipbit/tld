@@ -4540,5 +4540,9 @@
   {
     "tld": "support",
     "h": "whois.nic.support"
+  },
+  {
+    "tld": "surf",
+    "h": "whois.nic.surf"
   }
 ]
