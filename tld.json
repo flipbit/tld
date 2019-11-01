@@ -1418,5 +1418,9 @@
   {
     "tld": "dubai",
     "h": "whois.nic.dubai"
+  },
+  {
+    "tld": "duck",
+    "h": "whois.nic.duck"
   }
 ]
