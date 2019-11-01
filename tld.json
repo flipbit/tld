@@ -711,5 +711,8 @@
   {
     "tld": "buzz",
     "h": "whois.nic.buzz"
+  },
+  {
+    "tld": "bv"
   }
 ]
