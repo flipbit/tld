@@ -580,5 +580,9 @@
   {
     "tld": "bmw",
     "h": "whois.nic.bmw"
+  },
+  {
+    "tld": "bn",
+    "h": "whois.bnnic.bn"
   }
 ]
