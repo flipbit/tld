@@ -2719,5 +2719,9 @@
   {
     "tld": "lasalle",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "lat",
+    "h": "whois.nic.lat"
   }
 ]
