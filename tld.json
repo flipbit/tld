@@ -3907,5 +3907,9 @@
   {
     "tld": "redstone",
     "h": "whois.nic.redstone"
+  },
+  {
+    "tld": "redumbrella",
+    "h": "whois.afilias-srs.net"
   }
 ]
