@@ -2018,5 +2018,9 @@
   {
     "tld": "goodyear",
     "h": "whois.nic.goodyear"
+  },
+  {
+    "tld": "goog",
+    "h": "whois.nic.google"
   }
 ]
