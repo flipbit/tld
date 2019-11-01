@@ -4030,5 +4030,9 @@
   {
     "tld": "room",
     "h": "whois.nic.room"
+  },
+  {
+    "tld": "rs",
+    "h": "whois.rnids.rs"
   }
 ]
