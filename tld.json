@@ -588,5 +588,9 @@
   {
     "tld": "bnpparibas",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "bo",
+    "h": "whois.nic.bo"
   }
 ]
