@@ -796,5 +796,9 @@
   {
     "tld": "cards",
     "h": "whois.nic.cards"
+  },
+  {
+    "tld": "care",
+    "h": "whois.nic.care"
   }
 ]
