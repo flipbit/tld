@@ -765,5 +765,9 @@
   {
     "tld": "camp",
     "h": "whois.nic.camp"
+  },
+  {
+    "tld": "cancerresearch",
+    "h": "whois.nic.cancerresearch"
   }
 ]
