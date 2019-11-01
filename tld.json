@@ -4192,5 +4192,9 @@
   {
     "tld": "scor",
     "h": "whois.nic.scor"
+  },
+  {
+    "tld": "scot",
+    "h": "whois.nic.scot"
   }
 ]
