@@ -162,5 +162,9 @@
   {
     "tld": "alipay",
     "h": "whois.nic.alipay"
+  },
+  {
+    "tld": "allfinanz",
+    "h": "whois.nic.allfinanz"
   }
 ]
