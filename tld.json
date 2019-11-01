@@ -2594,5 +2594,9 @@
   {
     "tld": "kia",
     "h": "whois.nic.kia"
+  },
+  {
+    "tld": "kim",
+    "h": "whois.afilias.net"
   }
 ]
