@@ -2988,5 +2988,9 @@
   {
     "tld": "map",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "market",
+    "h": "whois.nic.market"
   }
 ]
