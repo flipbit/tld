@@ -4128,5 +4128,9 @@
   {
     "tld": "save",
     "h": "whois.nic.save"
+  },
+  {
+    "tld": "saxo",
+    "h": "whois.nic.saxo"
   }
 ]
