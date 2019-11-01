@@ -4223,5 +4223,9 @@
   {
     "tld": "seek",
     "h": "whois.nic.seek"
+  },
+  {
+    "tld": "select",
+    "h": "whois.nic.select"
   }
 ]
