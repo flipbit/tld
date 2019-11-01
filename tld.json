@@ -1022,5 +1022,9 @@
   {
     "tld": "clubmed",
     "h": "whois.nic.clubmed"
+  },
+  {
+    "tld": "cm",
+    "h": "whois.netcom.cm"
   }
 ]
