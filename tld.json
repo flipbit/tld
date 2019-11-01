@@ -334,5 +334,9 @@
   {
     "tld": "author",
     "h": "whois.nic.author"
+  },
+  {
+    "tld": "auto",
+    "h": "whois.uniregistry.net"
   }
 ]
