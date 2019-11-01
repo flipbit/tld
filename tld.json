@@ -414,5 +414,9 @@
   {
     "tld": "barefoot",
     "h": "whois.nic.barefoot"
+  },
+  {
+    "tld": "bargains",
+    "h": "whois.nic.bargains"
   }
 ]
