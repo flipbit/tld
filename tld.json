@@ -4415,5 +4415,9 @@
   {
     "tld": "solar",
     "h": "whois.nic.solar"
+  },
+  {
+    "tld": "solutions",
+    "h": "whois.nic.solutions"
   }
 ]
