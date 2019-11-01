@@ -314,5 +314,9 @@
   {
     "tld": "auction",
     "h": "whois.nic.auction"
+  },
+  {
+    "tld": "audi",
+    "h": "whois.afilias-srs.net"
   }
 ]
