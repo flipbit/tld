@@ -4334,5 +4334,9 @@
   {
     "tld": "singles",
     "h": "whois.nic.singles"
+  },
+  {
+    "tld": "site",
+    "h": "whois.nic.site"
   }
 ]
