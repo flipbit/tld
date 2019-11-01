@@ -663,5 +663,9 @@
   {
     "tld": "broadway",
     "h": "whois.nic.broadway"
+  },
+  {
+    "tld": "broker",
+    "h": "whois.nic.broker"
   }
 ]
