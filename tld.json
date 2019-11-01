@@ -1318,5 +1318,8 @@
   {
     "tld": "dev",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "dhl"
   }
 ]
