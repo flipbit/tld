@@ -24,5 +24,8 @@
   {
     "tld": "abc",
     "h": "whois.nic.abc"
+  },
+  {
+    "tld": "able"
   }
 ]
