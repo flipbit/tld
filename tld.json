@@ -2628,5 +2628,9 @@
   {
     "tld": "komatsu",
     "h": "whois.nic.komatsu"
+  },
+  {
+    "tld": "kosher",
+    "h": "whois.nic.kosher"
   }
 ]
