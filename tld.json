@@ -3130,5 +3130,9 @@
   {
     "tld": "mn",
     "h": "whois.nic.mn"
+  },
+  {
+    "tld": "mo",
+    "h": "whois.monic.mo"
   }
 ]
