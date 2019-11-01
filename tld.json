@@ -2002,5 +2002,9 @@
   {
     "tld": "gold",
     "h": "whois.nic.gold"
+  },
+  {
+    "tld": "goldpoint",
+    "h": "whois.nic.goldpoint"
   }
 ]
