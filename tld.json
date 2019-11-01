@@ -5142,5 +5142,9 @@
   {
     "tld": "wedding",
     "h": "whois.nic.wedding"
+  },
+  {
+    "tld": "weibo",
+    "h": "whois.nic.weibo"
   }
 ]
