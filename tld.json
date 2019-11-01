@@ -104,5 +104,9 @@
   {
     "tld": "afl",
     "h": "whois.nic.afl"
+  },
+  {
+    "tld": "africa",
+    "h": "africa-whois.registry.net.za"
   }
 ]
