@@ -1369,5 +1369,9 @@
   {
     "tld": "dm",
     "h": "whois.nic.dm"
+  },
+  {
+    "tld": "dnp",
+    "h": "whois.nic.dnp"
   }
 ]
