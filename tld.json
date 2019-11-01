@@ -1787,5 +1787,9 @@
   {
     "tld": "free",
     "h": "whois.nic.free"
+  },
+  {
+    "tld": "fresenius",
+    "h": "whois.nic.fresenius"
   }
 ]
