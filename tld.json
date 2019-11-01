@@ -3282,5 +3282,10 @@
   {
     "tld": "nagoya",
     "h": "whois.nic.nagoya"
+  },
+  {
+    "tld": "name",
+    "h": "whois.nic.name",
+    "fmt": "domain={query}"
   }
 ]
