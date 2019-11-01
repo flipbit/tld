@@ -4258,5 +4258,9 @@
   {
     "tld": "sfr",
     "h": "whois.nic.sfr"
+  },
+  {
+    "tld": "sg",
+    "h": "whois.sgnic.sg"
   }
 ]
