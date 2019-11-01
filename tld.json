@@ -939,5 +939,9 @@
   {
     "tld": "chrome",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "chrysler",
+    "h": "whois.afilias-srs.net"
   }
 ]
