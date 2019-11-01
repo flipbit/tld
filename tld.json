@@ -2347,5 +2347,9 @@
   {
     "tld": "imdb",
     "h": "whois.nic.imdb"
+  },
+  {
+    "tld": "immo",
+    "h": "whois.nic.immo"
   }
 ]
