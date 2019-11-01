@@ -210,5 +210,9 @@
   },
   {
     "tld": "analytics"
+  },
+  {
+    "tld": "android",
+    "h": "whois.nic.google"
   }
 ]
