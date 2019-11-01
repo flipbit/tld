@@ -4388,5 +4388,9 @@
   {
     "tld": "sncf",
     "h": "whois-sncf.nic.fr"
+  },
+  {
+    "tld": "so",
+    "h": "whois.nic.so"
   }
 ]
