@@ -1398,5 +1398,9 @@
   {
     "tld": "domains",
     "h": "whois.nic.domains"
+  },
+  {
+    "tld": "dot",
+    "h": "whois.nic.dot"
   }
 ]
