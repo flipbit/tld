@@ -5906,5 +5906,9 @@
   {
     "tld": "zone",
     "h": "whois.nic.zone"
+  },
+  {
+    "tld": "zuerich",
+    "h": "whois.nic.zuerich"
   }
 ]
