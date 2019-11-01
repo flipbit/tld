@@ -1476,5 +1476,9 @@
   {
     "tld": "ee",
     "h": "whois.tld.ee"
+  },
+  {
+    "tld": "eg",
+    "url": "http://lookup.egregistry.eg/english.aspx"
   }
 ]
