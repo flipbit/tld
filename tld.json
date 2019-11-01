@@ -139,5 +139,9 @@
   {
     "tld": "airforce",
     "h": "whois.nic.airforce"
+  },
+  {
+    "tld": "airtel",
+    "h": "whois.nic.airtel"
   }
 ]
