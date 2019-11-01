@@ -1472,5 +1472,9 @@
   {
     "tld": "education",
     "h": "whois.nic.education"
+  },
+  {
+    "tld": "ee",
+    "h": "whois.tld.ee"
   }
 ]
