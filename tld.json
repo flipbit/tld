@@ -174,5 +174,9 @@
   {
     "tld": "ally",
     "h": "whois.nic.ally"
+  },
+  {
+    "tld": "alsace",
+    "h": "whois-alsace.nic.fr"
   }
 ]
