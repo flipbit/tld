@@ -865,5 +865,9 @@
   {
     "tld": "cc",
     "h": "ccwhois.verisign-grs.com"
+  },
+  {
+    "tld": "cd",
+    "h": "whois.nic.cd"
   }
 ]
