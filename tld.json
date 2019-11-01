@@ -457,5 +457,9 @@
   {
     "tld": "bcn",
     "h": "whois.nic.bcn"
+  },
+  {
+    "tld": "bd",
+    "url": "http://whois.btcl.net.bd/"
   }
 ]
