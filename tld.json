@@ -5186,5 +5186,9 @@
   {
     "tld": "wme",
     "h": "whois.nic.wme"
+  },
+  {
+    "tld": "wolterskluwer",
+    "h": "whois.nic.wolterskluwer"
   }
 ]
