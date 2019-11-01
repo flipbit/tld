@@ -3812,5 +3812,9 @@
   {
     "tld": "property",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "protection",
+    "h": "whois.nic.protection"
   }
 ]
