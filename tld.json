@@ -612,5 +612,9 @@
   {
     "tld": "bond",
     "h": "whois.nic.bond"
+  },
+  {
+    "tld": "boo",
+    "h": "whois.nic.google"
   }
 ]
