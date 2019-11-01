@@ -2961,5 +2961,8 @@
   {
     "tld": "madrid",
     "h": "whois.nic.madrid"
+  },
+  {
+    "tld": "maif"
   }
 ]
