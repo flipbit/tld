@@ -699,5 +699,9 @@
   {
     "tld": "builders",
     "h": "whois.nic.builders"
+  },
+  {
+    "tld": "business",
+    "h": "whois.nic.business"
   }
 ]
