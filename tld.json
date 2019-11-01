@@ -923,5 +923,9 @@
   {
     "tld": "chat",
     "h": "whois.nic.chat"
+  },
+  {
+    "tld": "cheap",
+    "h": "whois.nic.cheap"
   }
 ]
