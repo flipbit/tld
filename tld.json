@@ -54,5 +54,9 @@
   {
     "tld": "accountants",
     "h": "whois.nic.accountants"
+  },
+  {
+    "tld": "aco",
+    "h": "whois.afilias-srs.net"
   }
 ]
