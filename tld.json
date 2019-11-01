@@ -2281,5 +2281,9 @@
   {
     "tld": "ht",
     "h": "whois.nic.ht"
+  },
+  {
+    "tld": "hu",
+    "h": "whois.nic.hu"
   }
 ]
