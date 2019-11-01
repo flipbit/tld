@@ -3714,5 +3714,9 @@
   {
     "tld": "place",
     "h": "whois.nic.place"
+  },
+  {
+    "tld": "play",
+    "h": "whois.nic.google"
   }
 ]
