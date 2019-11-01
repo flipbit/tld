@@ -2312,5 +2312,9 @@
   {
     "tld": "icu",
     "h": "whois.nic.icu"
+  },
+  {
+    "tld": "id",
+    "h": "whois.id"
   }
 ]
