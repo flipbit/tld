@@ -3254,5 +3254,9 @@
   {
     "tld": "mw",
     "h": "whois.nic.mw"
+  },
+  {
+    "tld": "mx",
+    "h": "whois.mx"
   }
 ]
