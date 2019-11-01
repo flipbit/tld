@@ -2436,5 +2436,9 @@
   {
     "tld": "is",
     "h": "whois.isnic.is"
+  },
+  {
+    "tld": "ismaili",
+    "h": "whois.afilias-srs.net"
   }
 ]
