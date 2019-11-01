@@ -4829,5 +4829,9 @@
   {
     "tld": "travel",
     "h": "whois.nic.travel"
+  },
+  {
+    "tld": "travelchannel",
+    "h": "whois.nic.travelchannel"
   }
 ]
