@@ -2471,5 +2471,9 @@
   {
     "tld": "java",
     "h": "whois.nic.java"
+  },
+  {
+    "tld": "jcb",
+    "h": "whois.nic.gmo"
   }
 ]
