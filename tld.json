@@ -380,5 +380,8 @@
   {
     "tld": "baidu",
     "h": "whois.gtld.knet.cn"
+  },
+  {
+    "tld": "banamex"
   }
 ]
