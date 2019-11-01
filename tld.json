@@ -1134,5 +1134,9 @@
   {
     "tld": "coupon",
     "h": "whois.nic.coupon"
+  },
+  {
+    "tld": "coupons",
+    "h": "whois.nic.coupons"
   }
 ]
