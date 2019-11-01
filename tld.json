@@ -1598,5 +1598,9 @@
   {
     "tld": "fairwinds",
     "h": "whois.nic.fairwinds"
+  },
+  {
+    "tld": "faith",
+    "h": "whois.nic.faith"
   }
 ]
