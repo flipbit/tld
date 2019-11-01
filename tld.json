@@ -596,5 +596,9 @@
   {
     "tld": "boats",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "boehringer",
+    "h": "whois.afilias-srs.net"
   }
 ]
