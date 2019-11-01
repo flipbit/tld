@@ -3758,5 +3758,9 @@
   {
     "tld": "porn",
     "h": "whois.registrar.adult"
+  },
+  {
+    "tld": "post",
+    "h": "whois.dotpostregistry.net"
   }
 ]
