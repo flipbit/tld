@@ -3804,5 +3804,9 @@
   {
     "tld": "promo",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "properties",
+    "h": "whois.nic.properties"
   }
 ]
