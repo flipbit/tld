@@ -1919,5 +1919,9 @@
   {
     "tld": "gg",
     "h": "whois.gg"
+  },
+  {
+    "tld": "ggee",
+    "h": "whois.nic.ggee"
   }
 ]
