@@ -3089,5 +3089,9 @@
   },
   {
     "tld": "mil"
+  },
+  {
+    "tld": "mini",
+    "h": "whois.nic.mini"
   }
 ]
