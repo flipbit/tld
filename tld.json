@@ -1660,5 +1660,9 @@
   {
     "tld": "fido",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "film",
+    "h": "whois.nic.film"
   }
 ]
