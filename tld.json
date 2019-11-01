@@ -4645,5 +4645,9 @@
   {
     "tld": "tdk",
     "h": "whois.nic.tdk"
+  },
+  {
+    "tld": "team",
+    "h": "whois.nic.team"
   }
 ]
