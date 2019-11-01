@@ -2672,5 +2672,9 @@
   {
     "tld": "kz",
     "h": "whois.nic.kz"
+  },
+  {
+    "tld": "la",
+    "h": "whois.nic.la"
   }
 ]
