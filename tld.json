@@ -5218,5 +5218,9 @@
   {
     "tld": "wtc",
     "h": "whois.nic.wtc"
+  },
+  {
+    "tld": "wtf",
+    "h": "whois.nic.wtf"
   }
 ]
