@@ -510,5 +510,9 @@
   },
   {
     "tld": "bharti"
+  },
+  {
+    "tld": "bi",
+    "h": "whois1.nic.bi"
   }
 ]
