@@ -3154,5 +3154,9 @@
   {
     "tld": "moi",
     "h": "whois.nic.moi"
+  },
+  {
+    "tld": "mom",
+    "h": "whois.uniregistry.net"
   }
 ]
