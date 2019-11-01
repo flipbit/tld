@@ -4920,5 +4920,9 @@
   {
     "tld": "uno",
     "h": "whois.nic.uno"
+  },
+  {
+    "tld": "uol",
+    "h": "whois.gtlds.nic.br"
   }
 ]
