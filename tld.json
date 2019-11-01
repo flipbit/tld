@@ -2656,5 +2656,9 @@
   {
     "tld": "kuokgroup",
     "h": "whois.nic.kuokgroup"
+  },
+  {
+    "tld": "kw",
+    "url": "http://www.kw/"
   }
 ]
