@@ -4450,5 +4450,9 @@
   },
   {
     "tld": "sr"
+  },
+  {
+    "tld": "srl",
+    "h": "whois.afilias-srs.net"
   }
 ]
