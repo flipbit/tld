@@ -390,5 +390,9 @@
   {
     "tld": "band",
     "h": "whois.nic.band"
+  },
+  {
+    "tld": "bank",
+    "h": "whois.nic.bank"
   }
 ]
