@@ -3053,5 +3053,9 @@
   {
     "tld": "meme",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "memorial",
+    "h": "whois.nic.memorial"
   }
 ]
