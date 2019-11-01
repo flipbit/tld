@@ -3796,5 +3796,9 @@
   {
     "tld": "prof",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "progressive",
+    "h": "whois.afilias-srs.net"
   }
 ]
