@@ -4705,5 +4705,9 @@
   {
     "tld": "tiaa",
     "h": "whois.nic.tiaa"
+  },
+  {
+    "tld": "tickets",
+    "h": "whois.nic.tickets"
   }
 ]
