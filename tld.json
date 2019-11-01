@@ -4991,5 +4991,9 @@
   {
     "tld": "vi",
     "url": "https://secure.nic.vi/whois-lookup/"
+  },
+  {
+    "tld": "viajes",
+    "h": "whois.nic.viajes"
   }
 ]
