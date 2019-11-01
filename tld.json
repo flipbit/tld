@@ -1158,5 +1158,9 @@
   {
     "tld": "creditcard",
     "h": "whois.nic.creditcard"
+  },
+  {
+    "tld": "creditunion",
+    "h": "whois.afilias-srs.net"
   }
 ]
