@@ -1963,5 +1963,9 @@
   {
     "tld": "gle",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "global",
+    "h": "whois.nic.global"
   }
 ]
