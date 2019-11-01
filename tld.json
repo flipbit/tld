@@ -3742,5 +3742,9 @@
   {
     "tld": "pnc",
     "h": "whois.nic.pnc"
+  },
+  {
+    "tld": "pohl",
+    "h": "whois.nic.pohl"
   }
 ]
