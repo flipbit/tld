@@ -2424,5 +2424,9 @@
   {
     "tld": "iq",
     "h": "whois.cmc.iq"
+  },
+  {
+    "tld": "ir",
+    "h": "whois.nic.ir"
   }
 ]
