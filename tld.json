@@ -1014,5 +1014,9 @@
   {
     "tld": "cloud",
     "h": "whois.nic.cloud"
+  },
+  {
+    "tld": "club",
+    "h": "whois.nic.club"
   }
 ]
