@@ -5113,5 +5113,8 @@
   {
     "tld": "watch",
     "h": "whois.nic.watch"
+  },
+  {
+    "tld": "watches"
   }
 ]
