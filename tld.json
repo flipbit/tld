@@ -1644,5 +1644,9 @@
   },
   {
     "tld": "ferrero"
+  },
+  {
+    "tld": "fi",
+    "h": "whois.fi"
   }
 ]
