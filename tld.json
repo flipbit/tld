@@ -4504,5 +4504,9 @@
   {
     "tld": "store",
     "h": "whois.nic.store"
+  },
+  {
+    "tld": "stream",
+    "h": "whois.nic.stream"
   }
 ]
