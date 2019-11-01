@@ -3544,5 +3544,9 @@
   {
     "tld": "org",
     "h": "whois.pir.org"
+  },
+  {
+    "tld": "organic",
+    "h": "whois.afilias.net"
   }
 ]
