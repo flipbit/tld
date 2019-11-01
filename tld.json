@@ -4697,5 +4697,9 @@
   {
     "tld": "theater",
     "h": "whois.nic.theater"
+  },
+  {
+    "tld": "theatre",
+    "h": "whois.nic.theatre"
   }
 ]
