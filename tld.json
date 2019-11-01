@@ -3401,5 +3401,9 @@
   {
     "tld": "nissay",
     "h": "whois.nic.nissay"
+  },
+  {
+    "tld": "nl",
+    "h": "whois.domain-registry.nl"
   }
 ]
