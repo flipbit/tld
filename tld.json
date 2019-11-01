@@ -3467,5 +3467,9 @@
   {
     "tld": "obi",
     "h": "whois.nic.obi"
+  },
+  {
+    "tld": "observer",
+    "h": "whois.nic.observer"
   }
 ]
