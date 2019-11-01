@@ -2914,5 +2914,9 @@
   {
     "tld": "lt",
     "h": "whois.domreg.lt"
+  },
+  {
+    "tld": "ltd",
+    "h": "whois.nic.ltd"
   }
 ]
