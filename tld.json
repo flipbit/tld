@@ -3115,5 +3115,9 @@
   },
   {
     "tld": "mlb"
+  },
+  {
+    "tld": "mls",
+    "h": "whois.nic.mls"
   }
 ]
