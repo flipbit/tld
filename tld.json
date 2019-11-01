@@ -1215,5 +1215,9 @@
   {
     "tld": "cyou",
     "h": "whois.nic.cyou"
+  },
+  {
+    "tld": "cz",
+    "h": "whois.nic.cz"
   }
 ]
