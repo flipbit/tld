@@ -170,5 +170,9 @@
   {
     "tld": "allstate",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "ally",
+    "h": "whois.nic.ally"
   }
 ]
