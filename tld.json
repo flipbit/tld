@@ -326,5 +326,9 @@
   {
     "tld": "audio",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "auspost",
+    "h": "whois.nic.auspost"
   }
 ]
