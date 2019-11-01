@@ -437,5 +437,9 @@
   {
     "tld": "bb",
     "url": "http://whois.telecoms.gov.bb/search_domain.php"
+  },
+  {
+    "tld": "bbc",
+    "h": "whois.nic.bbc"
   }
 ]
