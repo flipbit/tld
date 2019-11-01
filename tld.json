@@ -785,5 +785,9 @@
   {
     "tld": "capitalone",
     "h": "whois.nic.capitalone"
+  },
+  {
+    "tld": "car",
+    "h": "whois.uniregistry.net"
   }
 ]
