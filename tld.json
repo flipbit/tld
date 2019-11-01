@@ -3603,5 +3603,9 @@
   },
   {
     "tld": "passagens"
+  },
+  {
+    "tld": "pay",
+    "h": "whois.nic.pay"
   }
 ]
