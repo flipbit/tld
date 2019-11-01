@@ -2791,5 +2791,9 @@
   {
     "tld": "lidl",
     "h": "whois.nic.lidl"
+  },
+  {
+    "tld": "life",
+    "h": "whois.nic.life"
   }
 ]
