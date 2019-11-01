@@ -4999,5 +4999,9 @@
   {
     "tld": "video",
     "h": "whois.nic.video"
+  },
+  {
+    "tld": "vig",
+    "h": "whois.afilias-srs.net"
   }
 ]
