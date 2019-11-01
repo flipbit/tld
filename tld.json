@@ -3258,5 +3258,9 @@
   {
     "tld": "mx",
     "h": "whois.mx"
+  },
+  {
+    "tld": "my",
+    "h": "whois.mynic.my"
   }
 ]
