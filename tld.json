@@ -2708,5 +2708,9 @@
   {
     "tld": "land",
     "h": "whois.nic.land"
+  },
+  {
+    "tld": "landrover",
+    "h": "whois.nic.landrover"
   }
 ]
