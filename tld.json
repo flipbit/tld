@@ -4860,5 +4860,9 @@
   {
     "tld": "tui",
     "h": "whois.nic.tui"
+  },
+  {
+    "tld": "tunes",
+    "h": "whois.nic.tunes"
   }
 ]
