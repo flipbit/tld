@@ -2751,5 +2751,9 @@
   {
     "tld": "lds",
     "h": "whois.nic.lds"
+  },
+  {
+    "tld": "lease",
+    "h": "whois.nic.lease"
   }
 ]
