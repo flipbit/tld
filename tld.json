@@ -154,5 +154,9 @@
   {
     "tld": "alfaromeo",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "alibaba",
+    "h": "whois.nic.alibaba"
   }
 ]
