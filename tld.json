@@ -77,5 +77,9 @@
   {
     "tld": "adult",
     "h": "whois.registrar.adult"
+  },
+  {
+    "tld": "ae",
+    "h": "whois.aeda.net.ae"
   }
 ]
