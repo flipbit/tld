@@ -4833,5 +4833,9 @@
   {
     "tld": "travelchannel",
     "h": "whois.nic.travelchannel"
+  },
+  {
+    "tld": "travelers",
+    "h": "whois.afilias-srs.net"
   }
 ]
