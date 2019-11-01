@@ -2559,5 +2559,9 @@
   {
     "tld": "kddi",
     "h": "whois.nic.kddi"
+  },
+  {
+    "tld": "ke",
+    "h": "whois.kenic.or.ke"
   }
 ]
