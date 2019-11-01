@@ -1348,5 +1348,9 @@
   },
   {
     "tld": "discover"
+  },
+  {
+    "tld": "dish",
+    "h": "whois.nic.dish"
   }
 ]
