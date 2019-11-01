@@ -757,5 +757,9 @@
   {
     "tld": "cam",
     "h": "whois.nic.cam"
+  },
+  {
+    "tld": "camera",
+    "h": "whois.nic.camera"
   }
 ]
