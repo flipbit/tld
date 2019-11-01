@@ -2030,5 +2030,9 @@
   {
     "tld": "gop",
     "h": "whois.nic.gop"
+  },
+  {
+    "tld": "got",
+    "h": "whois.nic.got"
   }
 ]
