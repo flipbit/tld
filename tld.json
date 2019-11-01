@@ -1733,5 +1733,9 @@
   {
     "tld": "fly",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "fm",
+    "h": "whois.nic.fm"
   }
 ]
