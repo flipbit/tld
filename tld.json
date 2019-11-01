@@ -4018,5 +4018,9 @@
   {
     "tld": "rocks",
     "h": "whois.nic.rocks"
+  },
+  {
+    "tld": "rodeo",
+    "h": "whois.nic.rodeo"
   }
 ]
