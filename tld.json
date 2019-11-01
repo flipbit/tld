@@ -1779,5 +1779,9 @@
   {
     "tld": "fox",
     "h": "whois.nic.fox"
+  },
+  {
+    "tld": "fr",
+    "h": "whois.nic.fr"
   }
 ]
