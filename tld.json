@@ -514,5 +514,9 @@
   {
     "tld": "bi",
     "h": "whois1.nic.bi"
+  },
+  {
+    "tld": "bible",
+    "h": "whois.nic.bible"
   }
 ]
