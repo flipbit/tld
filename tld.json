@@ -2413,5 +2413,9 @@
   {
     "tld": "investments",
     "h": "whois.nic.investments"
+  },
+  {
+    "tld": "io",
+    "h": "whois.nic.io"
   }
 ]
