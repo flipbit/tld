@@ -2076,5 +2076,9 @@
   {
     "tld": "group",
     "h": "whois.nic.group"
+  },
+  {
+    "tld": "gs",
+    "h": "whois.nic.gs"
   }
 ]
