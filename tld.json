@@ -3486,5 +3486,9 @@
   {
     "tld": "olayan",
     "h": "whois.nic.olayan"
+  },
+  {
+    "tld": "olayangroup",
+    "h": "whois.nic.olayangroup"
   }
 ]
