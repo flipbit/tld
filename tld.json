@@ -3776,5 +3776,9 @@
   {
     "tld": "press",
     "h": "whois.nic.press"
+  },
+  {
+    "tld": "prime",
+    "h": "whois.nic.prime"
   }
 ]
