@@ -947,5 +947,9 @@
   {
     "tld": "church",
     "h": "whois.nic.church"
+  },
+  {
+    "tld": "ci",
+    "h": "whois.nic.ci"
   }
 ]
