@@ -3119,5 +3119,8 @@
   {
     "tld": "mls",
     "h": "whois.nic.mls"
+  },
+  {
+    "tld": "mm"
   }
 ]
