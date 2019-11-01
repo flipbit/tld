@@ -2199,5 +2199,9 @@
   {
     "tld": "hm",
     "h": "whois.registry.hm"
+  },
+  {
+    "tld": "hn",
+    "h": "whois.nic.hn"
   }
 ]
