@@ -2046,5 +2046,9 @@
   {
     "tld": "gq",
     "h": "whois.dominio.gq"
+  },
+  {
+    "tld": "gr",
+    "url": "https://grweb.ics.forth.gr/Whois?lang=en"
   }
 ]
