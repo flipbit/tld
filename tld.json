@@ -3816,5 +3816,8 @@
   {
     "tld": "protection",
     "h": "whois.nic.protection"
+  },
+  {
+    "tld": "pru"
   }
 ]
