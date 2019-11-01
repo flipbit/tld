@@ -4821,5 +4821,9 @@
   {
     "tld": "trading",
     "h": "whois.nic.trading"
+  },
+  {
+    "tld": "training",
+    "h": "whois.nic.training"
   }
 ]
