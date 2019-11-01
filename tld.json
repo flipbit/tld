@@ -3262,5 +3262,9 @@
   {
     "tld": "my",
     "h": "whois.mynic.my"
+  },
+  {
+    "tld": "mz",
+    "h": "whois.nic.mz"
   }
 ]
