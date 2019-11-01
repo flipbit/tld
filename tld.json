@@ -73,5 +73,9 @@
   {
     "tld": "ads",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "adult",
+    "h": "whois.registrar.adult"
   }
 ]
