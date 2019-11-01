@@ -3270,5 +3270,9 @@
   {
     "tld": "na",
     "h": "whois.na-nic.com.na"
+  },
+  {
+    "tld": "nab",
+    "h": "whois.nic.nab"
   }
 ]
