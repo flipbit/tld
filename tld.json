@@ -1895,5 +1895,9 @@
   {
     "tld": "ge",
     "h": "whois.nic.ge"
+  },
+  {
+    "tld": "gea",
+    "h": "whois.afilias-srs.net"
   }
 ]
