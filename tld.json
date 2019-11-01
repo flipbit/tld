@@ -1857,5 +1857,9 @@
   {
     "tld": "gallup",
     "h": "whois.nic.gallup"
+  },
+  {
+    "tld": "game",
+    "h": "whois.uniregistry.net"
   }
 ]
