@@ -604,5 +604,9 @@
   {
     "tld": "bofa",
     "h": "whois.nic.bofa"
+  },
+  {
+    "tld": "bom",
+    "h": "whois.gtlds.nic.br"
   }
 ]
