@@ -2696,5 +2696,9 @@
   {
     "tld": "lancaster",
     "h": "whois-lancaster.nic.fr"
+  },
+  {
+    "tld": "lancia",
+    "h": "whois.afilias-srs.net"
   }
 ]
