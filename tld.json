@@ -2285,5 +2285,9 @@
   {
     "tld": "hu",
     "h": "whois.nic.hu"
+  },
+  {
+    "tld": "hughes",
+    "h": "whois.nic.hughes"
   }
 ]
