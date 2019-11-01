@@ -5210,5 +5210,9 @@
   {
     "tld": "wow",
     "h": "whois.nic.wow"
+  },
+  {
+    "tld": "ws",
+    "h": "whois.website.ws"
   }
 ]
