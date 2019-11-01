@@ -4868,5 +4868,9 @@
   {
     "tld": "tushu",
     "h": "whois.nic.tushu"
+  },
+  {
+    "tld": "tv",
+    "h": "tvwhois.verisign-grs.com"
   }
 ]
