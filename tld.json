@@ -2061,5 +2061,9 @@
   {
     "tld": "gratis",
     "h": "whois.nic.gratis"
+  },
+  {
+    "tld": "green",
+    "h": "whois.afilias.net"
   }
 ]
