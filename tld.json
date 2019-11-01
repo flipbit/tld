@@ -2520,5 +2520,9 @@
   {
     "tld": "jobs",
     "h": "whois.nic.jobs"
+  },
+  {
+    "tld": "joburg",
+    "h": "joburg-whois.registry.net.za"
   }
 ]
