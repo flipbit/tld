@@ -3432,5 +3432,9 @@
   {
     "tld": "nowtv",
     "h": "whois.nic.nowtv"
+  },
+  {
+    "tld": "np",
+    "url": "http://register.mos.com.np/np-whois-lookup"
   }
 ]
