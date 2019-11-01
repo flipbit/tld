@@ -2022,5 +2022,9 @@
   {
     "tld": "goog",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "google",
+    "h": "whois.nic.google"
   }
 ]
