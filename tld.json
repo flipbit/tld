@@ -1279,5 +1279,9 @@
   {
     "tld": "degree",
     "h": "whois.nic.degree"
+  },
+  {
+    "tld": "delivery",
+    "h": "whois.nic.delivery"
   }
 ]
