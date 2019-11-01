@@ -5229,5 +5229,9 @@
   {
     "tld": "xerox",
     "h": "whois.nic.xerox"
+  },
+  {
+    "tld": "xfinity",
+    "h": "whois.nic.xfinity"
   }
 ]
