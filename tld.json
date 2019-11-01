@@ -4801,5 +4801,9 @@
   {
     "tld": "town",
     "h": "whois.nic.town"
+  },
+  {
+    "tld": "toyota",
+    "h": "whois.nic.toyota"
   }
 ]
