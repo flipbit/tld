@@ -893,5 +893,9 @@
   {
     "tld": "cfa",
     "h": "whois.nic.cfa"
+  },
+  {
+    "tld": "cfd",
+    "h": "whois.nic.cfd"
   }
 ]
