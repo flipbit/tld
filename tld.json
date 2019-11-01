@@ -4636,5 +4636,10 @@
   {
     "tld": "tci",
     "h": "whois.nic.tci"
+  },
+  {
+    "tld": "td",
+    "h": "whois.nic.td",
+    "url": "http://www.nic.td/"
   }
 ]
