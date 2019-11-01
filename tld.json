@@ -20,5 +20,9 @@
   {
     "tld": "abbvie",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "abc",
+    "h": "whois.nic.abc"
   }
 ]
