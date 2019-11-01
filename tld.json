@@ -994,5 +994,9 @@
   {
     "tld": "cleaning",
     "h": "whois.nic.cleaning"
+  },
+  {
+    "tld": "click",
+    "h": "whois.uniregistry.net"
   }
 ]
