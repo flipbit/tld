@@ -1122,5 +1122,9 @@
   {
     "tld": "coop",
     "h": "whois.nic.coop"
+  },
+  {
+    "tld": "corsica",
+    "h": "whois-corsica.nic.fr"
   }
 ]
