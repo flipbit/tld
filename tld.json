@@ -318,5 +318,9 @@
   {
     "tld": "audi",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "audible",
+    "h": "whois.nic.audible"
   }
 ]
