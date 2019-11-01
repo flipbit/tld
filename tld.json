@@ -1196,5 +1196,8 @@
   {
     "tld": "cv",
     "url": "http://www.dns.cv/"
+  },
+  {
+    "tld": "cw"
   }
 ]
