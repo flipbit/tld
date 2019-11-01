@@ -1975,5 +1975,9 @@
   {
     "tld": "gm",
     "url": "http://www.nic.gm/htmlpages/whois.htm"
+  },
+  {
+    "tld": "gmail",
+    "h": "whois.nic.google"
   }
 ]
