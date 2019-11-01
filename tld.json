@@ -912,5 +912,9 @@
   {
     "tld": "channel",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "charity",
+    "h": "whois.nic.charity"
   }
 ]
