@@ -1046,5 +1046,9 @@
   {
     "tld": "coffee",
     "h": "whois.nic.coffee"
+  },
+  {
+    "tld": "college",
+    "h": "whois.nic.college"
   }
 ]
