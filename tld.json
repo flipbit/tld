@@ -5830,5 +5830,9 @@
   {
     "tld": "xxx",
     "h": "whois.registrar.adult"
+  },
+  {
+    "tld": "xyz",
+    "h": "whois.nic.xyz"
   }
 ]
