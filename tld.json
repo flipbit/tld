@@ -2957,5 +2957,9 @@
   {
     "tld": "macys",
     "h": "whois.nic.macys"
+  },
+  {
+    "tld": "madrid",
+    "h": "whois.nic.madrid"
   }
 ]
