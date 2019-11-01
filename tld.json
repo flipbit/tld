@@ -3409,5 +3409,9 @@
   {
     "tld": "no",
     "h": "whois.norid.no"
+  },
+  {
+    "tld": "nokia",
+    "h": "whois.afilias-srs.net"
   }
 ]
