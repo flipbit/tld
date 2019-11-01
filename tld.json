@@ -904,5 +904,9 @@
   {
     "tld": "ch",
     "h": "whois.nic.ch"
+  },
+  {
+    "tld": "chanel",
+    "h": "whois.nic.chanel"
   }
 ]
