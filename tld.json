@@ -3710,5 +3710,9 @@
   {
     "tld": "pl",
     "h": "whois.dns.pl"
+  },
+  {
+    "tld": "place",
+    "h": "whois.nic.place"
   }
 ]
