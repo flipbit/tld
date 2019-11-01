@@ -1180,5 +1180,9 @@
   {
     "tld": "cruises",
     "h": "whois.nic.cruises"
+  },
+  {
+    "tld": "csc",
+    "h": "whois.nic.csc"
   }
 ]
