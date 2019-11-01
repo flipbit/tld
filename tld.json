@@ -1062,5 +1062,9 @@
   {
     "tld": "comcast",
     "h": "whois.nic.comcast"
+  },
+  {
+    "tld": "commbank",
+    "h": "whois.nic.commbank"
   }
 ]
