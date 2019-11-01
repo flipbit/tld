@@ -4951,5 +4951,9 @@
   {
     "tld": "vana",
     "h": "whois.nic.vana"
+  },
+  {
+    "tld": "vanguard",
+    "h": "whois.nic.vanguard"
   }
 ]
