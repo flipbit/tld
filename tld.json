@@ -2207,5 +2207,9 @@
   {
     "tld": "hockey",
     "h": "whois.nic.hockey"
+  },
+  {
+    "tld": "holdings",
+    "h": "whois.nic.holdings"
   }
 ]
