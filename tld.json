@@ -1203,5 +1203,9 @@
   {
     "tld": "cx",
     "h": "whois.nic.cx"
+  },
+  {
+    "tld": "cy",
+    "url": "http://www.nic.cy/nslookup/online_database.php"
   }
 ]
