@@ -1437,5 +1437,9 @@
   {
     "tld": "dvag",
     "h": "whois.nic.dvag"
+  },
+  {
+    "tld": "dvr",
+    "h": "whois.nic.dvr"
   }
 ]
