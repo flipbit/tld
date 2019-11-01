@@ -2296,5 +2296,9 @@
   {
     "tld": "hyundai",
     "h": "whois.nic.hyundai"
+  },
+  {
+    "tld": "ibm",
+    "h": "whois.nic.ibm"
   }
 ]
