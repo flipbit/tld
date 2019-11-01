@@ -1402,5 +1402,9 @@
   {
     "tld": "dot",
     "h": "whois.nic.dot"
+  },
+  {
+    "tld": "download",
+    "h": "whois.nic.download"
   }
 ]
