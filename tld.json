@@ -291,5 +291,9 @@
   {
     "tld": "asia",
     "h": "whois.nic.asia"
+  },
+  {
+    "tld": "associates",
+    "h": "whois.nic.associates"
   }
 ]
