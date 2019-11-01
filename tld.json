@@ -1566,5 +1566,9 @@
   {
     "tld": "everbank",
     "h": "whois.nic.everbank"
+  },
+  {
+    "tld": "exchange",
+    "h": "whois.nic.exchange"
   }
 ]
