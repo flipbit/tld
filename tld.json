@@ -608,5 +608,9 @@
   {
     "tld": "bom",
     "h": "whois.gtlds.nic.br"
+  },
+  {
+    "tld": "bond",
+    "h": "whois.nic.bond"
   }
 ]
