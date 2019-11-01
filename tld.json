@@ -2262,5 +2262,9 @@
   },
   {
     "tld": "hotmail"
+  },
+  {
+    "tld": "house",
+    "h": "whois.nic.house"
   }
 ]
