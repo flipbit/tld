@@ -1302,5 +1302,9 @@
   {
     "tld": "dental",
     "h": "whois.nic.dental"
+  },
+  {
+    "tld": "dentist",
+    "h": "whois.nic.dentist"
   }
 ]
