@@ -120,5 +120,9 @@
   {
     "tld": "agency",
     "h": "whois.nic.agency"
+  },
+  {
+    "tld": "ai",
+    "h": "whois.nic.ai"
   }
 ]
