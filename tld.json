@@ -65,5 +65,9 @@
   },
   {
     "tld": "ad"
+  },
+  {
+    "tld": "adac",
+    "h": "whois.nic.adac"
   }
 ]
