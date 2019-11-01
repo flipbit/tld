@@ -4431,5 +4431,9 @@
   {
     "tld": "soy",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "space",
+    "h": "whois.nic.space"
   }
 ]
