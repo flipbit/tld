@@ -2763,5 +2763,9 @@
   {
     "tld": "lefrak",
     "h": "whois.nic.lefrak"
+  },
+  {
+    "tld": "legal",
+    "h": "whois.nic.legal"
   }
 ]
