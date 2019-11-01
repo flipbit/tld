@@ -3657,5 +3657,9 @@
   {
     "tld": "photography",
     "h": "whois.nic.photography"
+  },
+  {
+    "tld": "photos",
+    "h": "whois.nic.photos"
   }
 ]
