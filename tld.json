@@ -1554,5 +1554,9 @@
   {
     "tld": "eurovision",
     "h": "whois.nic.eurovision"
+  },
+  {
+    "tld": "eus",
+    "h": "whois.nic.eus"
   }
 ]
