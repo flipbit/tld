@@ -959,5 +959,8 @@
   {
     "tld": "circle",
     "h": "whois.nic.circle"
+  },
+  {
+    "tld": "cisco"
   }
 ]
