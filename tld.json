@@ -4912,5 +4912,9 @@
   {
     "tld": "unicom",
     "h": "whois.nic.unicom"
+  },
+  {
+    "tld": "university",
+    "h": "whois.nic.university"
   }
 ]
