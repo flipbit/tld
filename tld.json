@@ -3420,5 +3420,9 @@
   {
     "tld": "norton",
     "h": "whois.nic.norton"
+  },
+  {
+    "tld": "now",
+    "h": "whois.nic.now"
   }
 ]
