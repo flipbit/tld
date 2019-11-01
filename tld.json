@@ -3061,5 +3061,9 @@
   {
     "tld": "men",
     "h": "whois.nic.men"
+  },
+  {
+    "tld": "menu",
+    "h": "whois.nic.menu"
   }
 ]
