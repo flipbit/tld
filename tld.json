@@ -3037,5 +3037,9 @@
   {
     "tld": "med",
     "h": "whois.nic.med"
+  },
+  {
+    "tld": "media",
+    "h": "whois.nic.media"
   }
 ]
