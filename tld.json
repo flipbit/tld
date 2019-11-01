@@ -4793,5 +4793,9 @@
   {
     "tld": "total",
     "h": "whois-total.nic.fr"
+  },
+  {
+    "tld": "tours",
+    "h": "whois.nic.tours"
   }
 ]
