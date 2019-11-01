@@ -3041,5 +3041,9 @@
   {
     "tld": "media",
     "h": "whois.nic.media"
+  },
+  {
+    "tld": "meet",
+    "h": "whois.nic.google"
   }
 ]
