@@ -4322,5 +4322,9 @@
   {
     "tld": "si",
     "h": "whois.register.si"
+  },
+  {
+    "tld": "silk",
+    "h": "whois.nic.silk"
   }
 ]
