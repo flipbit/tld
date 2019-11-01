@@ -189,5 +189,9 @@
   },
   {
     "tld": "americanexpress"
+  },
+  {
+    "tld": "americanfamily",
+    "h": "whois.nic.americanfamily"
   }
 ]
