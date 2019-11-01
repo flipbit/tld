@@ -5066,5 +5066,9 @@
   {
     "tld": "vote",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "voting",
+    "h": "whois.nic.voting"
   }
 ]
