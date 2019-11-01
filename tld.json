@@ -1641,5 +1641,8 @@
   {
     "tld": "ferrari",
     "h": "whois.nic.ferrari"
+  },
+  {
+    "tld": "ferrero"
   }
 ]
