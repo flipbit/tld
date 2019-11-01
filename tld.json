@@ -4713,5 +4713,9 @@
   {
     "tld": "tienda",
     "h": "whois.nic.tienda"
+  },
+  {
+    "tld": "tiffany",
+    "h": "whois.nic.tiffany"
   }
 ]
