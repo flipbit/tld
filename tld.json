@@ -557,5 +557,9 @@
   {
     "tld": "blockbuster",
     "h": "whois.nic.blockbuster"
+  },
+  {
+    "tld": "blog",
+    "h": "whois.nic.blog"
   }
 ]
