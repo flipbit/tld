@@ -1042,5 +1042,9 @@
   {
     "tld": "codes",
     "h": "whois.nic.codes"
+  },
+  {
+    "tld": "coffee",
+    "h": "whois.nic.coffee"
   }
 ]
