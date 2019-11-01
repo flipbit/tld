@@ -4144,5 +4144,9 @@
   {
     "tld": "sbs",
     "h": "whois.nic.sbs"
+  },
+  {
+    "tld": "sc",
+    "h": "whois2.afilias-grs.net"
   }
 ]
