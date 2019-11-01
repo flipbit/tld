@@ -722,5 +722,9 @@
   {
     "tld": "by",
     "h": "whois.cctld.by"
+  },
+  {
+    "tld": "bz",
+    "h": "whois.afilias-grs.info"
   }
 ]
