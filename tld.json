@@ -1150,5 +1150,9 @@
   {
     "tld": "cr",
     "h": "whois.nic.cr"
+  },
+  {
+    "tld": "credit",
+    "h": "whois.nic.credit"
   }
 ]
