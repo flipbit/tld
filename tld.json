@@ -2771,5 +2771,9 @@
   {
     "tld": "lego",
     "h": "whois.nic.lego"
+  },
+  {
+    "tld": "lexus",
+    "h": "whois.nic.lexus"
   }
 ]
