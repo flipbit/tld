@@ -2316,5 +2316,9 @@
   {
     "tld": "id",
     "h": "whois.id"
+  },
+  {
+    "tld": "ie",
+    "h": "whois.iedr.ie"
   }
 ]
