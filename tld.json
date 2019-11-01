@@ -4215,5 +4215,9 @@
   {
     "tld": "secure",
     "h": "whois.nic.secure"
+  },
+  {
+    "tld": "security",
+    "h": "whois.nic.security"
   }
 ]
