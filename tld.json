@@ -493,5 +493,9 @@
   {
     "tld": "bestbuy",
     "h": "whois.nic.bestbuy"
+  },
+  {
+    "tld": "bet",
+    "h": "whois.afilias.net"
   }
 ]
