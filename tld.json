@@ -3706,5 +3706,9 @@
   {
     "tld": "pk",
     "url": "http://www.pknic.net.pk/"
+  },
+  {
+    "tld": "pl",
+    "h": "whois.dns.pl"
   }
 ]
