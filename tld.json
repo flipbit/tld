@@ -643,5 +643,9 @@
   {
     "tld": "boutique",
     "h": "whois.nic.boutique"
+  },
+  {
+    "tld": "box",
+    "h": "whois.nic.box"
   }
 ]
