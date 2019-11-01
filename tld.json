@@ -2155,5 +2155,9 @@
   {
     "tld": "help",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "helsinki",
+    "h": "whois.nic.helsinki"
   }
 ]
