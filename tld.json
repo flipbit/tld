@@ -3343,5 +3343,9 @@
   {
     "tld": "news",
     "h": "whois.nic.news"
+  },
+  {
+    "tld": "next",
+    "h": "whois.nic.next"
   }
 ]
