@@ -4022,5 +4022,9 @@
   {
     "tld": "rodeo",
     "h": "whois.nic.rodeo"
+  },
+  {
+    "tld": "rogers",
+    "h": "whois.afilias-srs.net"
   }
 ]
