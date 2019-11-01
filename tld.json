@@ -4624,5 +4624,9 @@
   {
     "tld": "tax",
     "h": "whois.nic.tax"
+  },
+  {
+    "tld": "taxi",
+    "h": "whois.nic.taxi"
   }
 ]
