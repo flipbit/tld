@@ -2759,5 +2759,9 @@
   {
     "tld": "leclerc",
     "h": "whois-leclerc.nic.fr"
+  },
+  {
+    "tld": "lefrak",
+    "h": "whois.nic.lefrak"
   }
 ]
