@@ -2455,5 +2455,9 @@
   },
   {
     "tld": "itau"
+  },
+  {
+    "tld": "itv",
+    "h": "whois.afilias-srs.net"
   }
 ]
