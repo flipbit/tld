@@ -2140,5 +2140,9 @@
   {
     "tld": "hdfc",
     "h": "whois.nic.hdfc"
+  },
+  {
+    "tld": "hdfcbank",
+    "h": "whois.nic.hdfcbank"
   }
 ]
