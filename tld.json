@@ -2339,5 +2339,9 @@
   {
     "tld": "im",
     "h": "whois.nic.im"
+  },
+  {
+    "tld": "imamat",
+    "h": "whois.afilias-srs.net"
   }
 ]
