@@ -1038,5 +1038,9 @@
   {
     "tld": "coach",
     "h": "whois.nic.coach"
+  },
+  {
+    "tld": "codes",
+    "h": "whois.nic.codes"
   }
 ]
