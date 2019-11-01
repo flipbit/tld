@@ -3382,5 +3382,8 @@
   {
     "tld": "nico",
     "h": "whois.nic.nico"
+  },
+  {
+    "tld": "nike"
   }
 ]
