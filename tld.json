@@ -1602,5 +1602,9 @@
   {
     "tld": "faith",
     "h": "whois.nic.faith"
+  },
+  {
+    "tld": "family",
+    "h": "whois.nic.family"
   }
 ]
