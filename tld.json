@@ -1872,5 +1872,9 @@
   {
     "tld": "garden",
     "h": "whois.nic.garden"
+  },
+  {
+    "tld": "gay",
+    "h": "whois.nic.gay"
   }
 ]
