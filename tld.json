@@ -4050,5 +4050,9 @@
   {
     "tld": "ruhr",
     "h": "whois.nic.ruhr"
+  },
+  {
+    "tld": "run",
+    "h": "whois.nic.run"
   }
 ]
