@@ -518,5 +518,9 @@
   {
     "tld": "bible",
     "h": "whois.nic.bible"
+  },
+  {
+    "tld": "bid",
+    "h": "whois.nic.bid"
   }
 ]
