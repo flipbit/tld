@@ -1883,5 +1883,9 @@
   {
     "tld": "gbiz",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "gd",
+    "h": "whois.nic.gd"
   }
 ]
