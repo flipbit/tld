@@ -3580,5 +3580,9 @@
   {
     "tld": "panasonic",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "paris",
+    "h": "whois-paris.nic.fr"
   }
 ]
