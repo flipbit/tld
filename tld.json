@@ -3182,5 +3182,9 @@
   {
     "tld": "mortgage",
     "h": "whois.nic.mortgage"
+  },
+  {
+    "tld": "moscow",
+    "h": "whois.nic.moscow"
   }
 ]
