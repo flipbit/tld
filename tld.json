@@ -5109,5 +5109,9 @@
   {
     "tld": "warman",
     "h": "whois.nic.warman"
+  },
+  {
+    "tld": "watch",
+    "h": "whois.nic.watch"
   }
 ]
