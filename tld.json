@@ -1345,5 +1345,8 @@
   {
     "tld": "discount",
     "h": "whois.nic.discount"
+  },
+  {
+    "tld": "discover"
   }
 ]
