@@ -4746,5 +4746,9 @@
   },
   {
     "tld": "tkmaxx"
+  },
+  {
+    "tld": "tl",
+    "h": "whois.nic.tl"
   }
 ]
