@@ -1468,5 +1468,9 @@
   {
     "tld": "edu",
     "h": "whois.educause.edu"
+  },
+  {
+    "tld": "education",
+    "h": "whois.nic.education"
   }
 ]
