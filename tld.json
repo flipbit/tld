@@ -576,5 +576,9 @@
   {
     "tld": "bms",
     "h": "whois.nic.bms"
+  },
+  {
+    "tld": "bmw",
+    "h": "whois.nic.bmw"
   }
 ]
