@@ -831,5 +831,9 @@
   {
     "tld": "cash",
     "h": "whois.nic.cash"
+  },
+  {
+    "tld": "casino",
+    "h": "whois.nic.casino"
   }
 ]
