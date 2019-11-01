@@ -5194,5 +5194,9 @@
   {
     "tld": "woodside",
     "h": "whois.nic.woodside"
+  },
+  {
+    "tld": "work",
+    "h": "whois.nic.work"
   }
 ]
