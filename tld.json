@@ -3170,5 +3170,9 @@
   {
     "tld": "monster",
     "h": "whois.nic.monster"
+  },
+  {
+    "tld": "mopar",
+    "h": "whois.afilias-srs.net"
   }
 ]
