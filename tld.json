@@ -143,5 +143,9 @@
   {
     "tld": "airtel",
     "h": "whois.nic.airtel"
+  },
+  {
+    "tld": "akdn",
+    "h": "whois.afilias-srs.net"
   }
 ]
