@@ -592,5 +592,9 @@
   {
     "tld": "bo",
     "h": "whois.nic.bo"
+  },
+  {
+    "tld": "boats",
+    "h": "whois.afilias-srs.net"
   }
 ]
