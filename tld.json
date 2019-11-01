@@ -3228,5 +3228,9 @@
   {
     "tld": "mt",
     "url": "https://www.nic.org.mt/dotmt/"
+  },
+  {
+    "tld": "mtn",
+    "h": "whois.nic.mtn"
   }
 ]
