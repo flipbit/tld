@@ -4207,5 +4207,9 @@
   {
     "tld": "search",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "seat",
+    "h": "whois.nic.seat"
   }
 ]
