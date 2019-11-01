@@ -3459,5 +3459,9 @@
   {
     "tld": "nyc",
     "h": "whois.nic.nyc"
+  },
+  {
+    "tld": "nz",
+    "h": "whois.srs.net.nz"
   }
 ]
