@@ -2660,5 +2660,9 @@
   {
     "tld": "kw",
     "url": "http://www.kw/"
+  },
+  {
+    "tld": "ky",
+    "h": "whois.kyregistry.ky"
   }
 ]
