@@ -2163,5 +2163,9 @@
   {
     "tld": "here",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "hermes",
+    "h": "whois.afilias-srs.net"
   }
 ]
