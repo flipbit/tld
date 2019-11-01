@@ -4552,5 +4552,9 @@
   {
     "tld": "suzuki",
     "h": "whois.nic.suzuki"
+  },
+  {
+    "tld": "sv",
+    "url": "http://www.svnet.org.sv/"
   }
 ]
