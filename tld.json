@@ -1899,5 +1899,9 @@
   {
     "tld": "gea",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "gent",
+    "h": "whois.nic.gent"
   }
 ]
