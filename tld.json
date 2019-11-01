@@ -406,5 +406,9 @@
   {
     "tld": "barclaycard",
     "h": "whois.nic.barclaycard"
+  },
+  {
+    "tld": "barclays",
+    "h": "whois.nic.barclays"
   }
 ]
