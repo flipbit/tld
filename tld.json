@@ -1837,5 +1837,9 @@
   {
     "tld": "fyi",
     "h": "whois.nic.fyi"
+  },
+  {
+    "tld": "ga",
+    "h": "whois.dot.ga"
   }
 ]
