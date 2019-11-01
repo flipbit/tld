@@ -3959,5 +3959,9 @@
   {
     "tld": "rest",
     "h": "whois.nic.rest"
+  },
+  {
+    "tld": "restaurant",
+    "h": "whois.nic.restaurant"
   }
 ]
