@@ -4983,5 +4983,9 @@
   {
     "tld": "vet",
     "h": "whois.nic.vet"
+  },
+  {
+    "tld": "vg",
+    "h": "whois.nic.vg"
   }
 ]
