@@ -225,5 +225,9 @@
   },
   {
     "tld": "ao"
+  },
+  {
+    "tld": "aol",
+    "h": "whois.nic.aol"
   }
 ]
