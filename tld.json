@@ -1841,5 +1841,9 @@
   {
     "tld": "ga",
     "h": "whois.dot.ga"
+  },
+  {
+    "tld": "gal",
+    "h": "whois.nic.gal"
   }
 ]
