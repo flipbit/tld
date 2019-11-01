@@ -2980,5 +2980,9 @@
   {
     "tld": "management",
     "h": "whois.nic.management"
+  },
+  {
+    "tld": "mango",
+    "h": "whois.nic.mango"
   }
 ]
