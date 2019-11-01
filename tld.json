@@ -1456,5 +1456,9 @@
   {
     "tld": "ec",
     "h": "whois.nic.ec"
+  },
+  {
+    "tld": "eco",
+    "h": "whois.nic.eco"
   }
 ]
