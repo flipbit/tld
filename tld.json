@@ -2905,5 +2905,10 @@
   },
   {
     "tld": "lr"
+  },
+  {
+    "tld": "ls",
+    "h": "whois.nic.ls",
+    "url": "http://www.co.ls/co.asp"
   }
 ]
