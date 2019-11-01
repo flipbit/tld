@@ -1512,5 +1512,8 @@
   {
     "tld": "equipment",
     "h": "whois.nic.equipment"
+  },
+  {
+    "tld": "er"
   }
 ]
