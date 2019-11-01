@@ -322,5 +322,9 @@
   {
     "tld": "audible",
     "h": "whois.nic.audible"
+  },
+  {
+    "tld": "audio",
+    "h": "whois.uniregistry.net"
   }
 ]
