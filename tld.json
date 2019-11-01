@@ -1967,5 +1967,9 @@
   {
     "tld": "global",
     "h": "whois.nic.global"
+  },
+  {
+    "tld": "globo",
+    "h": "whois.gtlds.nic.br"
   }
 ]
