@@ -2402,5 +2402,9 @@
   },
   {
     "tld": "intel"
+  },
+  {
+    "tld": "international",
+    "h": "whois.nic.international"
   }
 ]
