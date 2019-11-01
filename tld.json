@@ -753,5 +753,9 @@
   },
   {
     "tld": "calvinklein"
+  },
+  {
+    "tld": "cam",
+    "h": "whois.nic.cam"
   }
 ]
