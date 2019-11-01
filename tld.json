@@ -4298,5 +4298,9 @@
   {
     "tld": "shop",
     "h": "whois.nic.shop"
+  },
+  {
+    "tld": "shopping",
+    "h": "whois.nic.shopping"
   }
 ]
