@@ -5882,5 +5882,9 @@
   },
   {
     "tld": "za"
+  },
+  {
+    "tld": "zappos",
+    "h": "whois.nic.zappos"
   }
 ]
