@@ -5198,5 +5198,9 @@
   {
     "tld": "work",
     "h": "whois.nic.work"
+  },
+  {
+    "tld": "works",
+    "h": "whois.nic.works"
   }
 ]
