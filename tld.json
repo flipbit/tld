@@ -4524,5 +4524,9 @@
   {
     "tld": "su",
     "h": "whois.tcinet.ru"
+  },
+  {
+    "tld": "sucks",
+    "h": "whois.nic.sucks"
   }
 ]
