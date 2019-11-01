@@ -4306,5 +4306,9 @@
   {
     "tld": "shouji",
     "h": "whois.teleinfo.cn"
+  },
+  {
+    "tld": "show",
+    "h": "whois.nic.show"
   }
 ]
