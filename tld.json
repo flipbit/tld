@@ -3762,5 +3762,9 @@
   {
     "tld": "post",
     "h": "whois.dotpostregistry.net"
+  },
+  {
+    "tld": "pr",
+    "h": "whois.afilias-srs.net"
   }
 ]
