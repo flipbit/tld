@@ -1688,5 +1688,9 @@
   {
     "tld": "firmdale",
     "h": "whois.nic.firmdale"
+  },
+  {
+    "tld": "fish",
+    "h": "whois.nic.fish"
   }
 ]
