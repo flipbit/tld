@@ -5054,5 +5054,9 @@
   {
     "tld": "vodka",
     "h": "whois.nic.vodka"
+  },
+  {
+    "tld": "volkswagen",
+    "h": "whois.afilias-srs.net"
   }
 ]
