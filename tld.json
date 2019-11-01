@@ -256,5 +256,8 @@
   {
     "tld": "arab",
     "h": "whois.nic.arab"
+  },
+  {
+    "tld": "aramco"
   }
 ]
