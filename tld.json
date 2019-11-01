@@ -4007,5 +4007,9 @@
   {
     "tld": "rmit",
     "h": "whois.nic.rmit"
+  },
+  {
+    "tld": "ro",
+    "h": "whois.rotld.ro"
   }
 ]
