@@ -2680,5 +2680,9 @@
   {
     "tld": "lacaixa",
     "h": "whois.nic.lacaixa"
+  },
+  {
+    "tld": "ladbrokes",
+    "h": "whois.nic.ladbrokes"
   }
 ]
