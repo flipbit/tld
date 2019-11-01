@@ -2984,5 +2984,9 @@
   {
     "tld": "mango",
     "h": "whois.nic.mango"
+  },
+  {
+    "tld": "map",
+    "h": "whois.nic.google"
   }
 ]
