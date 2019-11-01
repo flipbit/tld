@@ -4396,5 +4396,9 @@
   {
     "tld": "soccer",
     "h": "whois.nic.soccer"
+  },
+  {
+    "tld": "social",
+    "h": "whois.nic.social"
   }
 ]
