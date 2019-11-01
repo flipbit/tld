@@ -4856,5 +4856,9 @@
   },
   {
     "tld": "tube"
+  },
+  {
+    "tld": "tui",
+    "h": "whois.nic.tui"
   }
 ]
