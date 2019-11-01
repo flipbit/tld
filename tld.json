@@ -1861,5 +1861,9 @@
   {
     "tld": "game",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "games",
+    "h": "whois.nic.games"
   }
 ]
