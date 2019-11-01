@@ -1321,5 +1321,9 @@
   },
   {
     "tld": "dhl"
+  },
+  {
+    "tld": "diamonds",
+    "h": "whois.nic.diamonds"
   }
 ]
