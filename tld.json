@@ -3588,5 +3588,9 @@
   {
     "tld": "pars",
     "h": "whois.nic.pars"
+  },
+  {
+    "tld": "partners",
+    "h": "whois.nic.partners"
   }
 ]
