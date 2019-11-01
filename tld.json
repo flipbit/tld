@@ -2996,5 +2996,9 @@
   {
     "tld": "marketing",
     "h": "whois.nic.marketing"
+  },
+  {
+    "tld": "markets",
+    "h": "whois.nic.markets"
   }
 ]
