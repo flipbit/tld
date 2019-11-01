@@ -3351,5 +3351,9 @@
   {
     "tld": "nextdirect",
     "h": "whois.nic.nextdirect"
+  },
+  {
+    "tld": "nexus",
+    "h": "whois.nic.google"
   }
 ]
