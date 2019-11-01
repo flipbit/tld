@@ -1696,5 +1696,9 @@
   {
     "tld": "fishing",
     "h": "whois.nic.fishing"
+  },
+  {
+    "tld": "fit",
+    "h": "whois.nic.fit"
   }
 ]
