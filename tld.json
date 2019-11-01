@@ -1030,5 +1030,9 @@
   {
     "tld": "cn",
     "h": "whois.cnnic.cn"
+  },
+  {
+    "tld": "co",
+    "h": "whois.nic.co"
   }
 ]
