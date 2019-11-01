@@ -4443,5 +4443,9 @@
   {
     "tld": "spot",
     "h": "whois.nic.spot"
+  },
+  {
+    "tld": "spreadbetting",
+    "h": "whois.nic.spreadbetting"
   }
 ]
