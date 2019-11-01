@@ -635,5 +635,9 @@
   {
     "tld": "boston",
     "h": "whois.nic.boston"
+  },
+  {
+    "tld": "bot",
+    "h": "whois.nic.bot"
   }
 ]
