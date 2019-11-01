@@ -1783,5 +1783,9 @@
   {
     "tld": "fr",
     "h": "whois.nic.fr"
+  },
+  {
+    "tld": "free",
+    "h": "whois.nic.free"
   }
 ]
