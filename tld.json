@@ -714,5 +714,9 @@
   },
   {
     "tld": "bv"
+  },
+  {
+    "tld": "bw",
+    "h": "whois.nic.net.bw"
   }
 ]
