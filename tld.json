@@ -4439,5 +4439,9 @@
   {
     "tld": "sport",
     "h": "whois.nic.sport"
+  },
+  {
+    "tld": "spot",
+    "h": "whois.nic.spot"
   }
 ]
