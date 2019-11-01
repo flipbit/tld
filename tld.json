@@ -2266,5 +2266,9 @@
   {
     "tld": "house",
     "h": "whois.nic.house"
+  },
+  {
+    "tld": "how",
+    "h": "whois.nic.google"
   }
 ]
