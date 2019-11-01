@@ -302,5 +302,9 @@
   },
   {
     "tld": "athleta"
+  },
+  {
+    "tld": "attorney",
+    "h": "whois.nic.attorney"
   }
 ]
