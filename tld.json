@@ -1845,5 +1845,9 @@
   {
     "tld": "gal",
     "h": "whois.nic.gal"
+  },
+  {
+    "tld": "gallery",
+    "h": "whois.nic.gallery"
   }
 ]
