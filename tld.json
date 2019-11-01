@@ -4203,5 +4203,9 @@
   {
     "tld": "se",
     "h": "whois.iis.se"
+  },
+  {
+    "tld": "search",
+    "h": "whois.nic.google"
   }
 ]
