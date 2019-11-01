@@ -1987,5 +1987,9 @@
   {
     "tld": "gmo",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "gmx",
+    "h": "whois.nic.gmx"
   }
 ]
