@@ -1094,5 +1094,9 @@
   {
     "tld": "construction",
     "h": "whois.nic.construction"
+  },
+  {
+    "tld": "consulting",
+    "h": "whois.nic.consulting"
   }
 ]
