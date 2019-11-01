@@ -2406,5 +2406,8 @@
   {
     "tld": "international",
     "h": "whois.nic.international"
+  },
+  {
+    "tld": "intuit"
   }
 ]
