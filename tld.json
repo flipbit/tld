@@ -421,5 +421,9 @@
   },
   {
     "tld": "baseball"
+  },
+  {
+    "tld": "basketball",
+    "h": "whois.nic.basketball"
   }
 ]
