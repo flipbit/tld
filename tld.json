@@ -2300,5 +2300,9 @@
   {
     "tld": "ibm",
     "h": "whois.nic.ibm"
+  },
+  {
+    "tld": "icbc",
+    "h": "whois.nic.icbc"
   }
 ]
