@@ -5027,5 +5027,9 @@
   {
     "tld": "visa",
     "h": "whois.nic.visa"
+  },
+  {
+    "tld": "vision",
+    "h": "whois.nic.vision"
   }
 ]
