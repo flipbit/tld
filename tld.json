@@ -975,5 +975,9 @@
   {
     "tld": "city",
     "h": "whois.nic.city"
+  },
+  {
+    "tld": "cityeats",
+    "h": "whois.nic.cityeats"
   }
 ]
