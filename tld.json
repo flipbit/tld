@@ -2335,5 +2335,9 @@
   {
     "tld": "il",
     "h": "whois.isoc.org.il"
+  },
+  {
+    "tld": "im",
+    "h": "whois.nic.im"
   }
 ]
