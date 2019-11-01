@@ -3025,5 +3025,9 @@
   {
     "tld": "mckinsey",
     "h": "whois.nic.mckinsey"
+  },
+  {
+    "tld": "md",
+    "h": "whois.nic.md"
   }
 ]
