@@ -1271,5 +1271,9 @@
   },
   {
     "tld": "dealer"
+  },
+  {
+    "tld": "deals",
+    "h": "whois.nic.deals"
   }
 ]
