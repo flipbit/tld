@@ -5875,5 +5875,9 @@
   {
     "tld": "yt",
     "h": "whois.nic.yt"
+  },
+  {
+    "tld": "yun",
+    "h": "whois.teleinfo.cn"
   }
 ]
