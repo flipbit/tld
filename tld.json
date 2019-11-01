@@ -1086,5 +1086,9 @@
   {
     "tld": "comsec",
     "h": "whois.nic.comsec"
+  },
+  {
+    "tld": "condos",
+    "h": "whois.nic.condos"
   }
 ]
