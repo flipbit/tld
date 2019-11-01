@@ -2292,5 +2292,9 @@
   },
   {
     "tld": "hyatt"
+  },
+  {
+    "tld": "hyundai",
+    "h": "whois.nic.hyundai"
   }
 ]
