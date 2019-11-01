@@ -1429,5 +1429,9 @@
   },
   {
     "tld": "dupont"
+  },
+  {
+    "tld": "durban",
+    "h": "durban-whois.registry.net.za"
   }
 ]
