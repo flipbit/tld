@@ -3178,5 +3178,9 @@
   {
     "tld": "mormon",
     "h": "whois.nic.mormon"
+  },
+  {
+    "tld": "mortgage",
+    "h": "whois.nic.mortgage"
   }
 ]
