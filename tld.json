@@ -4484,5 +4484,9 @@
   },
   {
     "tld": "statefarm"
+  },
+  {
+    "tld": "stc",
+    "h": "whois.nic.stc"
   }
 ]
