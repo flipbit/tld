@@ -4172,5 +4172,9 @@
   {
     "tld": "school",
     "h": "whois.nic.school"
+  },
+  {
+    "tld": "schule",
+    "h": "whois.nic.schule"
   }
 ]
