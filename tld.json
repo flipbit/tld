@@ -881,5 +881,9 @@
   {
     "tld": "ceo",
     "h": "whois.nic.ceo"
+  },
+  {
+    "tld": "cern",
+    "h": "whois.afilias-srs.net"
   }
 ]
