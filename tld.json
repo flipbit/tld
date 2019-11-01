@@ -789,5 +789,8 @@
   {
     "tld": "car",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "caravan"
   }
 ]
