@@ -1283,5 +1283,8 @@
   {
     "tld": "delivery",
     "h": "whois.nic.delivery"
+  },
+  {
+    "tld": "dell"
   }
 ]
