@@ -1791,5 +1791,9 @@
   {
     "tld": "fresenius",
     "h": "whois.nic.fresenius"
+  },
+  {
+    "tld": "frl",
+    "h": "whois.nic.frl"
   }
 ]
