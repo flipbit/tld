@@ -3463,5 +3463,9 @@
   {
     "tld": "nz",
     "h": "whois.srs.net.nz"
+  },
+  {
+    "tld": "obi",
+    "h": "whois.nic.obi"
   }
 ]
