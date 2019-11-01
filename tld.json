@@ -4066,5 +4066,9 @@
   {
     "tld": "ryukyu",
     "h": "whois.nic.ryukyu"
+  },
+  {
+    "tld": "sa",
+    "h": "whois.nic.net.sa"
   }
 ]
