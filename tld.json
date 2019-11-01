@@ -900,5 +900,9 @@
   },
   {
     "tld": "cg"
+  },
+  {
+    "tld": "ch",
+    "h": "whois.nic.ch"
   }
 ]
