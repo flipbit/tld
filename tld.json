@@ -2114,5 +2114,9 @@
   {
     "tld": "gw",
     "url": "http://nic.gw/en/whois/"
+  },
+  {
+    "tld": "gy",
+    "h": "whois.registry.gy"
   }
 ]
