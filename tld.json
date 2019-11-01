@@ -252,5 +252,9 @@
   {
     "tld": "ar",
     "h": "whois.nic.ar"
+  },
+  {
+    "tld": "arab",
+    "h": "whois.nic.arab"
   }
 ]
