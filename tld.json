@@ -982,5 +982,9 @@
   },
   {
     "tld": "ck"
+  },
+  {
+    "tld": "cl",
+    "h": "whois.nic.cl"
   }
 ]
