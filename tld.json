@@ -4769,5 +4769,9 @@
   {
     "tld": "today",
     "h": "whois.nic.today"
+  },
+  {
+    "tld": "tokyo",
+    "h": "whois.nic.tokyo"
   }
 ]
