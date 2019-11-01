@@ -4089,5 +4089,9 @@
   {
     "tld": "sale",
     "h": "whois.nic.sale"
+  },
+  {
+    "tld": "salon",
+    "h": "whois.nic.salon"
   }
 ]
