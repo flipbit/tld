@@ -3033,5 +3033,9 @@
   {
     "tld": "me",
     "h": "whois.nic.me"
+  },
+  {
+    "tld": "med",
+    "h": "whois.nic.med"
   }
 ]
