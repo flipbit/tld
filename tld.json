@@ -4003,5 +4003,9 @@
   {
     "tld": "rip",
     "h": "whois.nic.rip"
+  },
+  {
+    "tld": "rmit",
+    "h": "whois.nic.rmit"
   }
 ]
