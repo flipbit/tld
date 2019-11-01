@@ -4809,5 +4809,9 @@
   {
     "tld": "toys",
     "h": "whois.nic.toys"
+  },
+  {
+    "tld": "tr",
+    "h": "whois.nic.tr"
   }
 ]
