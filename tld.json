@@ -522,5 +522,9 @@
   {
     "tld": "bid",
     "h": "whois.nic.bid"
+  },
+  {
+    "tld": "bike",
+    "h": "whois.nic.bike"
   }
 ]
