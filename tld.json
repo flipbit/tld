@@ -5206,5 +5206,9 @@
   {
     "tld": "world",
     "h": "whois.nic.world"
+  },
+  {
+    "tld": "wow",
+    "h": "whois.nic.wow"
   }
 ]
