@@ -671,5 +671,9 @@
   {
     "tld": "brother",
     "h": "whois.nic.brother"
+  },
+  {
+    "tld": "brussels",
+    "h": "whois.nic.brussels"
   }
 ]
