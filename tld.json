@@ -857,5 +857,9 @@
   },
   {
     "tld": "cbre"
+  },
+  {
+    "tld": "cbs",
+    "h": "whois.afilias-srs.net"
   }
 ]
