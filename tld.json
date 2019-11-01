@@ -3596,5 +3596,9 @@
   {
     "tld": "parts",
     "h": "whois.nic.parts"
+  },
+  {
+    "tld": "party",
+    "h": "whois.nic.party"
   }
 ]
