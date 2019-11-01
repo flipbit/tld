@@ -2191,5 +2191,9 @@
   {
     "tld": "hk",
     "h": "whois.hkirc.hk"
+  },
+  {
+    "tld": "hkt",
+    "h": "whois.nic.hkt"
   }
 ]
