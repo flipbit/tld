@@ -4353,5 +4353,9 @@
   {
     "tld": "skin",
     "h": "whois.nic.skin"
+  },
+  {
+    "tld": "sky",
+    "h": "whois.nic.sky"
   }
 ]
