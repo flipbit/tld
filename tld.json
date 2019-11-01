@@ -885,5 +885,9 @@
   {
     "tld": "cern",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "cf",
+    "h": "whois.dot.cf"
   }
 ]
