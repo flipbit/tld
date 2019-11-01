@@ -4908,5 +4908,9 @@
   {
     "tld": "uk",
     "h": "whois.nic.uk"
+  },
+  {
+    "tld": "unicom",
+    "h": "whois.nic.unicom"
   }
 ]
