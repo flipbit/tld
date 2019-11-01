@@ -2147,5 +2147,9 @@
   },
   {
     "tld": "health"
+  },
+  {
+    "tld": "healthcare",
+    "h": "whois.nic.healthcare"
   }
 ]
