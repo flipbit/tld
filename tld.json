@@ -3919,5 +3919,9 @@
   {
     "tld": "reise",
     "h": "whois.nic.reise"
+  },
+  {
+    "tld": "reisen",
+    "h": "whois.nic.reisen"
   }
 ]
