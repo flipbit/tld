@@ -5841,5 +5841,9 @@
   },
   {
     "tld": "yahoo"
+  },
+  {
+    "tld": "yamaxun",
+    "h": "whois.nic.yamaxun"
   }
 ]
