@@ -746,5 +746,9 @@
   {
     "tld": "cal",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "call",
+    "h": "whois.nic.call"
   }
 ]
