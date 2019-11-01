@@ -3313,5 +3313,9 @@
   {
     "tld": "nec",
     "h": "whois.nic.nec"
+  },
+  {
+    "tld": "net",
+    "h": "whois.verisign-grs.com"
   }
 ]
