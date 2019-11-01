@@ -27,5 +27,9 @@
   },
   {
     "tld": "able"
+  },
+  {
+    "tld": "abogado",
+    "h": "whois.nic.abogado"
   }
 ]
