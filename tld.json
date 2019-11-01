@@ -4928,5 +4928,9 @@
   {
     "tld": "ups",
     "h": "whois.nic.ups"
+  },
+  {
+    "tld": "us",
+    "h": "whois.nic.us"
   }
 ]
