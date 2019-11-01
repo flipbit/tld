@@ -1314,5 +1314,9 @@
   {
     "tld": "design",
     "h": "whois.nic.design"
+  },
+  {
+    "tld": "dev",
+    "h": "whois.nic.google"
   }
 ]
