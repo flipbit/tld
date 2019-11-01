@@ -2664,5 +2664,9 @@
   {
     "tld": "ky",
     "h": "whois.kyregistry.ky"
+  },
+  {
+    "tld": "kyoto",
+    "h": "whois.nic.kyoto"
   }
 ]
