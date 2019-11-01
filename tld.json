@@ -4797,5 +4797,9 @@
   {
     "tld": "tours",
     "h": "whois.nic.tours"
+  },
+  {
+    "tld": "town",
+    "h": "whois.nic.town"
   }
 ]
