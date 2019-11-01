@@ -3362,5 +3362,9 @@
   },
   {
     "tld": "nfl"
+  },
+  {
+    "tld": "ng",
+    "h": "whois.nic.net.ng"
   }
 ]
