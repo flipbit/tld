@@ -4512,5 +4512,9 @@
   {
     "tld": "studio",
     "h": "whois.nic.studio"
+  },
+  {
+    "tld": "study",
+    "h": "whois.nic.study"
   }
 ]
