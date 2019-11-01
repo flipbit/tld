@@ -5834,5 +5834,9 @@
   {
     "tld": "xyz",
     "h": "whois.nic.xyz"
+  },
+  {
+    "tld": "yachts",
+    "h": "whois.afilias-srs.net"
   }
 ]
