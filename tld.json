@@ -441,5 +441,9 @@
   {
     "tld": "bbc",
     "h": "whois.nic.bbc"
+  },
+  {
+    "tld": "bbt",
+    "h": "whois.nic.bbt"
   }
 ]
