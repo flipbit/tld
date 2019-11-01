@@ -376,5 +376,9 @@
   {
     "tld": "baby",
     "h": "whois.nic.baby"
+  },
+  {
+    "tld": "baidu",
+    "h": "whois.gtld.knet.cn"
   }
 ]
