@@ -4345,5 +4345,9 @@
   {
     "tld": "sk",
     "h": "whois.sk-nic.sk"
+  },
+  {
+    "tld": "ski",
+    "h": "whois.afilias.net"
   }
 ]
