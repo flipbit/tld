@@ -3497,5 +3497,9 @@
   {
     "tld": "ollo",
     "h": "whois.nic.ollo"
+  },
+  {
+    "tld": "om",
+    "h": "whois.registry.om"
   }
 ]
