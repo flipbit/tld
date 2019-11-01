@@ -3049,5 +3049,9 @@
   {
     "tld": "melbourne",
     "h": "whois.nic.melbourne"
+  },
+  {
+    "tld": "meme",
+    "h": "whois.nic.google"
   }
 ]
