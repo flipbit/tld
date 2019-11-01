@@ -1414,5 +1414,9 @@
   {
     "tld": "dtv",
     "h": "whois.nic.dtv"
+  },
+  {
+    "tld": "dubai",
+    "h": "whois.nic.dubai"
   }
 ]
