@@ -1741,5 +1741,9 @@
   {
     "tld": "fo",
     "h": "whois.nic.fo"
+  },
+  {
+    "tld": "foo",
+    "h": "whois.nic.google"
   }
 ]
