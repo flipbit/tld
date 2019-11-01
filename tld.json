@@ -3999,5 +3999,9 @@
   {
     "tld": "rio",
     "h": "whois.gtlds.nic.br"
+  },
+  {
+    "tld": "rip",
+    "h": "whois.nic.rip"
   }
 ]
