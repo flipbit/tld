@@ -3536,5 +3536,9 @@
   {
     "tld": "oracle",
     "h": "whois.nic.oracle"
+  },
+  {
+    "tld": "orange",
+    "h": "whois.nic.orange"
   }
 ]
