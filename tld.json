@@ -4632,5 +4632,9 @@
   {
     "tld": "tc",
     "h": "whois.nic.tc"
+  },
+  {
+    "tld": "tci",
+    "h": "whois.nic.tci"
   }
 ]
