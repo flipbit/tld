@@ -1821,5 +1821,9 @@
   {
     "tld": "fun",
     "h": "whois.nic.fun"
+  },
+  {
+    "tld": "fund",
+    "h": "whois.nic.fund"
   }
 ]
