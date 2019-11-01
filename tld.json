@@ -1652,5 +1652,9 @@
   {
     "tld": "fiat",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "fidelity",
+    "h": "whois.nic.fidelity"
   }
 ]
