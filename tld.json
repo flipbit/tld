@@ -3649,5 +3649,9 @@
   {
     "tld": "phone",
     "h": "whois.nic.phone"
+  },
+  {
+    "tld": "photo",
+    "h": "whois.uniregistry.net"
   }
 ]
