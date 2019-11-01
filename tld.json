@@ -1923,5 +1923,9 @@
   {
     "tld": "ggee",
     "h": "whois.nic.ggee"
+  },
+  {
+    "tld": "gh",
+    "url": "http://www.nic.gh/customer/search_c.htm"
   }
 ]
