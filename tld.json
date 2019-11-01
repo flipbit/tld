@@ -769,5 +769,9 @@
   {
     "tld": "cancerresearch",
     "h": "whois.nic.cancerresearch"
+  },
+  {
+    "tld": "canon",
+    "h": "whois.nic.canon"
   }
 ]
