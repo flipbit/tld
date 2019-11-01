@@ -5134,5 +5134,9 @@
   {
     "tld": "website",
     "h": "whois.nic.website"
+  },
+  {
+    "tld": "wed",
+    "h": "whois.nic.wed"
   }
 ]
