@@ -1386,5 +1386,9 @@
   {
     "tld": "doctor",
     "h": "whois.nic.doctor"
+  },
+  {
+    "tld": "dodge",
+    "h": "whois.afilias-srs.net"
   }
 ]
