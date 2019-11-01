@@ -5122,5 +5122,9 @@
   },
   {
     "tld": "weatherchannel"
+  },
+  {
+    "tld": "webcam",
+    "h": "whois.nic.webcam"
   }
 ]
