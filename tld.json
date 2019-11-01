@@ -847,5 +847,9 @@
   {
     "tld": "catholic",
     "h": "whois.nic.catholic"
+  },
+  {
+    "tld": "cba",
+    "h": "whois.nic.cba"
   }
 ]
