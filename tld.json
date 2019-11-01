@@ -1799,5 +1799,9 @@
   {
     "tld": "frogans",
     "h": "whois.nic.frogans"
+  },
+  {
+    "tld": "frontdoor",
+    "h": "whois.nic.frontdoor"
   }
 ]
