@@ -3436,5 +3436,9 @@
   {
     "tld": "np",
     "url": "http://register.mos.com.np/np-whois-lookup"
+  },
+  {
+    "tld": "nr",
+    "url": "http://www.cenpac.net.nr/dns/whois.html"
   }
 ]
