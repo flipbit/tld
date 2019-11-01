@@ -2512,5 +2512,9 @@
   },
   {
     "tld": "jnj"
+  },
+  {
+    "tld": "jo",
+    "url": "http://www.dns.jo/Whois.aspx"
   }
 ]
