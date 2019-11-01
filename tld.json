@@ -4657,5 +4657,9 @@
   {
     "tld": "technology",
     "h": "whois.nic.technology"
+  },
+  {
+    "tld": "tel",
+    "h": "whois.nic.tel"
   }
 ]
