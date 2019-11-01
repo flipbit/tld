@@ -3517,5 +3517,9 @@
   {
     "tld": "onl",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "online",
+    "h": "whois.nic.online"
   }
 ]
