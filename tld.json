@@ -4477,5 +4477,9 @@
   {
     "tld": "star",
     "h": "whois.nic.star"
+  },
+  {
+    "tld": "statebank",
+    "h": "whois.nic.statebank"
   }
 ]
