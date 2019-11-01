@@ -3679,5 +3679,9 @@
   {
     "tld": "pictures",
     "h": "whois.nic.pictures"
+  },
+  {
+    "tld": "pid",
+    "h": "whois.nic.pid"
   }
 ]
