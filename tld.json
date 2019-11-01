@@ -734,5 +734,9 @@
   {
     "tld": "ca",
     "h": "whois.cira.ca"
+  },
+  {
+    "tld": "cab",
+    "h": "whois.nic.cab"
   }
 ]
