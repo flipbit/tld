@@ -4034,5 +4034,9 @@
   {
     "tld": "rs",
     "h": "whois.rnids.rs"
+  },
+  {
+    "tld": "rsvp",
+    "h": "whois.nic.google"
   }
 ]
