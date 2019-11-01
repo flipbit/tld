@@ -112,5 +112,9 @@
   {
     "tld": "ag",
     "h": "whois.nic.ag"
+  },
+  {
+    "tld": "agakhan",
+    "h": "whois.afilias-srs.net"
   }
 ]
