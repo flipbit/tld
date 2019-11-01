@@ -4845,5 +4845,9 @@
   {
     "tld": "trust",
     "h": "whois.nic.trust"
+  },
+  {
+    "tld": "trv",
+    "h": "whois.afilias-srs.net"
   }
 ]
