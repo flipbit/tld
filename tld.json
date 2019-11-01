@@ -4987,5 +4987,9 @@
   {
     "tld": "vg",
     "h": "whois.nic.vg"
+  },
+  {
+    "tld": "vi",
+    "url": "https://secure.nic.vi/whois-lookup/"
   }
 ]
