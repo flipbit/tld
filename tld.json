@@ -2383,5 +2383,9 @@
   {
     "tld": "ink",
     "h": "whois.nic.ink"
+  },
+  {
+    "tld": "institute",
+    "h": "whois.nic.institute"
   }
 ]
