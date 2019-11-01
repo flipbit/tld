@@ -5011,5 +5011,9 @@
   {
     "tld": "villas",
     "h": "whois.nic.villas"
+  },
+  {
+    "tld": "vin",
+    "h": "whois.nic.vin"
   }
 ]
