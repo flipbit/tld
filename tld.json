@@ -2945,5 +2945,9 @@
   {
     "tld": "lv",
     "h": "whois.nic.lv"
+  },
+  {
+    "tld": "ly",
+    "h": "whois.nic.ly"
   }
 ]
