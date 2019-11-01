@@ -5898,5 +5898,9 @@
   {
     "tld": "zip",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "zm",
+    "h": "whois.zicta.zm"
   }
 ]
