@@ -4074,5 +4074,9 @@
   {
     "tld": "saarland",
     "h": "whois.nic.saarland"
+  },
+  {
+    "tld": "safe",
+    "h": "whois.nic.safe"
   }
 ]
