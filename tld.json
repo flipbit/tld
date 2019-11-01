@@ -2038,5 +2038,9 @@
   {
     "tld": "gov",
     "h": "whois.dotgov.gov"
+  },
+  {
+    "tld": "gp",
+    "url": "https://www.dom-enic.com/whois.html"
   }
 ]
