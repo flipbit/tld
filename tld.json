@@ -1352,5 +1352,9 @@
   {
     "tld": "dish",
     "h": "whois.nic.dish"
+  },
+  {
+    "tld": "diy",
+    "h": "whois.nic.diy"
   }
 ]
