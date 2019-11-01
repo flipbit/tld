@@ -2237,5 +2237,9 @@
   {
     "tld": "horse",
     "h": "whois.nic.horse"
+  },
+  {
+    "tld": "hospital",
+    "h": "whois.nic.hospital"
   }
 ]
