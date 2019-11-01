@@ -627,5 +627,9 @@
   {
     "tld": "bosch",
     "h": "whois.nic.bosch"
+  },
+  {
+    "tld": "bostik",
+    "h": "whois-bostik.nic.fr"
   }
 ]
