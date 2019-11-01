@@ -1460,5 +1460,9 @@
   {
     "tld": "eco",
     "h": "whois.nic.eco"
+  },
+  {
+    "tld": "edeka",
+    "h": "whois.afilias-srs.net"
   }
 ]
