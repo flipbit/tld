@@ -4781,5 +4781,9 @@
   {
     "tld": "top",
     "h": "whois.nic.top"
+  },
+  {
+    "tld": "toray",
+    "h": "whois.nic.toray"
   }
 ]
