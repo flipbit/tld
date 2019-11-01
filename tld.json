@@ -1251,5 +1251,9 @@
   {
     "tld": "day",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "dclk",
+    "h": "whois.nic.google"
   }
 ]
