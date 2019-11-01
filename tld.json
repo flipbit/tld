@@ -1745,5 +1745,8 @@
   {
     "tld": "foo",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "food"
   }
 ]
