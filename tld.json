@@ -35,5 +35,9 @@
   {
     "tld": "abudhabi",
     "h": "whois.nic.abudhabi"
+  },
+  {
+    "tld": "ac",
+    "h": "whois.nic.ac"
   }
 ]
