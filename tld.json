@@ -2499,5 +2499,9 @@
   {
     "tld": "jio",
     "h": "whois.nic.jio"
+  },
+  {
+    "tld": "jll",
+    "h": "whois.afilias-srs.net"
   }
 ]
