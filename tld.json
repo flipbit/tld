@@ -3317,5 +3317,9 @@
   {
     "tld": "net",
     "h": "whois.verisign-grs.com"
+  },
+  {
+    "tld": "netbank",
+    "h": "whois.nic.netbank"
   }
 ]
