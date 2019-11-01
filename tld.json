@@ -2387,5 +2387,9 @@
   {
     "tld": "institute",
     "h": "whois.nic.institute"
+  },
+  {
+    "tld": "insurance",
+    "h": "whois.nic.insurance"
   }
 ]
