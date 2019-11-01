@@ -4872,5 +4872,9 @@
   {
     "tld": "tv",
     "h": "tvwhois.verisign-grs.com"
+  },
+  {
+    "tld": "tvs",
+    "h": "whois.nic.tvs"
   }
 ]
