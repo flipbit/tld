@@ -3857,5 +3857,9 @@
   {
     "tld": "quebec",
     "h": "whois.nic.quebec"
+  },
+  {
+    "tld": "quest",
+    "h": "whois.nic.quest"
   }
 ]
