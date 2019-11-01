@@ -229,5 +229,9 @@
   {
     "tld": "aol",
     "h": "whois.nic.aol"
+  },
+  {
+    "tld": "apartments",
+    "h": "whois.nic.apartments"
   }
 ]
