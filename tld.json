@@ -3213,5 +3213,9 @@
   {
     "tld": "mq",
     "h": "whois.mediaserv.net"
+  },
+  {
+    "tld": "mr",
+    "h": "whois.nic.mr"
   }
 ]
