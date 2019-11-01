@@ -1098,5 +1098,9 @@
   {
     "tld": "consulting",
     "h": "whois.nic.consulting"
+  },
+  {
+    "tld": "contact",
+    "h": "whois.nic.contact"
   }
 ]
