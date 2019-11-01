@@ -2813,5 +2813,9 @@
   },
   {
     "tld": "lilly"
+  },
+  {
+    "tld": "limited",
+    "h": "whois.nic.limited"
   }
 ]
