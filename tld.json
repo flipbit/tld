@@ -3331,5 +3331,9 @@
   },
   {
     "tld": "neustar"
+  },
+  {
+    "tld": "new",
+    "h": "whois.nic.google"
   }
 ]
