@@ -1991,5 +1991,8 @@
   {
     "tld": "gmx",
     "h": "whois.nic.gmx"
+  },
+  {
+    "tld": "gn"
   }
 ]
