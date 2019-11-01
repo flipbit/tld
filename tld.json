@@ -3637,5 +3637,9 @@
   {
     "tld": "pharmacy",
     "h": "whois.nic.pharmacy"
+  },
+  {
+    "tld": "phd",
+    "h": "whois.nic.google"
   }
 ]
