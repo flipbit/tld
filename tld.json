@@ -4419,5 +4419,9 @@
   {
     "tld": "solutions",
     "h": "whois.nic.solutions"
+  },
+  {
+    "tld": "song",
+    "h": "whois.nic.song"
   }
 ]
