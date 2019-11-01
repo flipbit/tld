@@ -1176,5 +1176,9 @@
   {
     "tld": "cruise",
     "h": "whois.nic.cruise"
+  },
+  {
+    "tld": "cruises",
+    "h": "whois.nic.cruises"
   }
 ]
