@@ -5149,5 +5149,9 @@
   },
   {
     "tld": "weir"
+  },
+  {
+    "tld": "wf",
+    "h": "whois.nic.wf"
   }
 ]
