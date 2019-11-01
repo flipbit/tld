@@ -3100,5 +3100,9 @@
   {
     "tld": "mit",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "mitsubishi",
+    "h": "whois.nic.gmo"
   }
 ]
