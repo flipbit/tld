@@ -166,5 +166,9 @@
   {
     "tld": "allfinanz",
     "h": "whois.nic.allfinanz"
+  },
+  {
+    "tld": "allstate",
+    "h": "whois.afilias-srs.net"
   }
 ]
