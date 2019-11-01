@@ -2605,5 +2605,9 @@
   {
     "tld": "kindle",
     "h": "whois.nic.kindle"
+  },
+  {
+    "tld": "kitchen",
+    "h": "whois.nic.kitchen"
   }
 ]
