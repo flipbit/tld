@@ -675,5 +675,9 @@
   {
     "tld": "brussels",
     "h": "whois.nic.brussels"
+  },
+  {
+    "tld": "bs",
+    "url": "http://www.nic.bs/cgi-bin/search.pl"
   }
 ]
