@@ -659,5 +659,9 @@
   {
     "tld": "bridgestone",
     "h": "whois.nic.bridgestone"
+  },
+  {
+    "tld": "broadway",
+    "h": "whois.nic.broadway"
   }
 ]
