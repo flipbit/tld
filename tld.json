@@ -5031,5 +5031,9 @@
   {
     "tld": "vision",
     "h": "whois.nic.vision"
+  },
+  {
+    "tld": "vistaprint",
+    "h": "whois.nic.vistaprint"
   }
 ]
