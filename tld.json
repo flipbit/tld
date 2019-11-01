@@ -4481,5 +4481,8 @@
   {
     "tld": "statebank",
     "h": "whois.nic.statebank"
+  },
+  {
+    "tld": "statefarm"
   }
 ]
