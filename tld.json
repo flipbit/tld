@@ -3405,5 +3405,9 @@
   {
     "tld": "nl",
     "h": "whois.domain-registry.nl"
+  },
+  {
+    "tld": "no",
+    "h": "whois.norid.no"
   }
 ]
