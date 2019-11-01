@@ -2395,5 +2395,9 @@
   {
     "tld": "insure",
     "h": "whois.nic.insure"
+  },
+  {
+    "tld": "int",
+    "h": "whois.iana.org"
   }
 ]
