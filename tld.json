@@ -3389,5 +3389,9 @@
   {
     "tld": "nikon",
     "h": "whois.nic.nikon"
+  },
+  {
+    "tld": "ninja",
+    "h": "whois.nic.ninja"
   }
 ]
