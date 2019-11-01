@@ -2159,5 +2159,9 @@
   {
     "tld": "helsinki",
     "h": "whois.nic.helsinki"
+  },
+  {
+    "tld": "here",
+    "h": "whois.nic.google"
   }
 ]
