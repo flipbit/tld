@@ -1066,5 +1066,9 @@
   {
     "tld": "commbank",
     "h": "whois.nic.commbank"
+  },
+  {
+    "tld": "community",
+    "h": "whois.nic.community"
   }
 ]
