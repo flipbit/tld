@@ -835,5 +835,9 @@
   {
     "tld": "casino",
     "h": "whois.nic.casino"
+  },
+  {
+    "tld": "cat",
+    "h": "whois.nic.cat"
   }
 ]
