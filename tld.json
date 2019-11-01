@@ -3186,5 +3186,8 @@
   {
     "tld": "moscow",
     "h": "whois.nic.moscow"
+  },
+  {
+    "tld": "moto"
   }
 ]
