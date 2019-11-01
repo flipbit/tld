@@ -4042,5 +4042,9 @@
   {
     "tld": "ru",
     "h": "whois.tcinet.ru"
+  },
+  {
+    "tld": "rugby",
+    "h": "whois.nic.rugby"
   }
 ]
