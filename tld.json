@@ -808,5 +808,9 @@
   {
     "tld": "careers",
     "h": "whois.nic.careers"
+  },
+  {
+    "tld": "cars",
+    "h": "whois.uniregistry.net"
   }
 ]
