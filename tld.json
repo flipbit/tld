@@ -3838,5 +3838,9 @@
   {
     "tld": "pw",
     "h": "whois.nic.pw"
+  },
+  {
+    "tld": "pwc",
+    "h": "whois.afilias-srs.net"
   }
 ]
