@@ -3780,5 +3780,9 @@
   {
     "tld": "prime",
     "h": "whois.nic.prime"
+  },
+  {
+    "tld": "pro",
+    "h": "whois.afilias.net"
   }
 ]
