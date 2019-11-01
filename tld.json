@@ -481,5 +481,9 @@
   {
     "tld": "bentley",
     "h": "whois.nic.bentley"
+  },
+  {
+    "tld": "berlin",
+    "h": "whois.nic.berlin"
   }
 ]
