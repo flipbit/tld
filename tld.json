@@ -259,5 +259,9 @@
   },
   {
     "tld": "aramco"
+  },
+  {
+    "tld": "archi",
+    "h": "whois.afilias.net"
   }
 ]
