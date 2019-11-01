@@ -1298,5 +1298,9 @@
   {
     "tld": "democrat",
     "h": "whois.nic.democrat"
+  },
+  {
+    "tld": "dental",
+    "h": "whois.nic.dental"
   }
 ]
