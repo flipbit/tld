@@ -5172,5 +5172,8 @@
   {
     "tld": "win",
     "h": "whois.nic.win"
+  },
+  {
+    "tld": "windows"
   }
 ]
