@@ -1356,5 +1356,9 @@
   {
     "tld": "diy",
     "h": "whois.nic.diy"
+  },
+  {
+    "tld": "dj",
+    "url": "http://www.nic.dj/whois.php"
   }
 ]
