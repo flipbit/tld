@@ -445,5 +445,9 @@
   {
     "tld": "bbt",
     "h": "whois.nic.bbt"
+  },
+  {
+    "tld": "bbva",
+    "h": "whois.nic.bbva"
   }
 ]
