@@ -2133,5 +2133,8 @@
   {
     "tld": "haus",
     "h": "whois.nic.haus"
+  },
+  {
+    "tld": "hbo"
   }
 ]
