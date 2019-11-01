@@ -1360,5 +1360,10 @@
   {
     "tld": "dj",
     "url": "http://www.nic.dj/whois.php"
+  },
+  {
+    "tld": "dk",
+    "h": "whois.dk-hostmaster.dk",
+    "fmt": "--show-handles {query}"
   }
 ]
