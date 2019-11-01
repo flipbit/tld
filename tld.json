@@ -1154,5 +1154,9 @@
   {
     "tld": "credit",
     "h": "whois.nic.credit"
+  },
+  {
+    "tld": "creditcard",
+    "h": "whois.nic.creditcard"
   }
 ]
