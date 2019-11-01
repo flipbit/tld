@@ -477,5 +477,9 @@
   {
     "tld": "beer",
     "h": "whois.nic.beer"
+  },
+  {
+    "tld": "bentley",
+    "h": "whois.nic.bentley"
   }
 ]
