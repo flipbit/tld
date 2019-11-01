@@ -3355,5 +3355,9 @@
   {
     "tld": "nexus",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "nf",
+    "h": "whois.nic.nf"
   }
 ]
