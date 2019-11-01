@@ -127,5 +127,9 @@
   },
   {
     "tld": "aig"
+  },
+  {
+    "tld": "aigo",
+    "h": "whois.afilias-srs.net"
   }
 ]
