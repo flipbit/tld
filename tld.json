@@ -2898,5 +2898,9 @@
   {
     "tld": "lpl",
     "h": "whois.nic.lpl"
+  },
+  {
+    "tld": "lplfinancial",
+    "h": "whois.nic.lplfinancial"
   }
 ]
