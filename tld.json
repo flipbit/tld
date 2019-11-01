@@ -1656,5 +1656,9 @@
   {
     "tld": "fidelity",
     "h": "whois.nic.fidelity"
+  },
+  {
+    "tld": "fido",
+    "h": "whois.afilias-srs.net"
   }
 ]
