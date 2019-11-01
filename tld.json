@@ -1433,5 +1433,9 @@
   {
     "tld": "durban",
     "h": "durban-whois.registry.net.za"
+  },
+  {
+    "tld": "dvag",
+    "h": "whois.nic.dvag"
   }
 ]
