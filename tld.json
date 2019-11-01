@@ -4563,5 +4563,9 @@
   },
   {
     "tld": "swiftcover"
+  },
+  {
+    "tld": "swiss",
+    "h": "whois.nic.swiss"
   }
 ]
