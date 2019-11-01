@@ -1247,5 +1247,9 @@
   {
     "tld": "datsun",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "day",
+    "h": "whois.nic.google"
   }
 ]
