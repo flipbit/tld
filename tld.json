@@ -50,5 +50,9 @@
   {
     "tld": "accountant",
     "h": "whois.nic.accountant"
+  },
+  {
+    "tld": "accountants",
+    "h": "whois.nic.accountants"
   }
 ]
