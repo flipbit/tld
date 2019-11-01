@@ -3927,5 +3927,9 @@
   {
     "tld": "reit",
     "h": "whois.nic.reit"
+  },
+  {
+    "tld": "reliance",
+    "h": "whois.nic.reliance"
   }
 ]
