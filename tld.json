@@ -687,5 +687,9 @@
   {
     "tld": "budapest",
     "h": "whois.nic.budapest"
+  },
+  {
+    "tld": "bugatti",
+    "h": "whois.afilias-srs.net"
   }
 ]
