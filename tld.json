@@ -4473,5 +4473,9 @@
   },
   {
     "tld": "staples"
+  },
+  {
+    "tld": "star",
+    "h": "whois.nic.star"
   }
 ]
