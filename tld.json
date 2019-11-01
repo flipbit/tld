@@ -4556,5 +4556,9 @@
   {
     "tld": "sv",
     "url": "http://www.svnet.org.sv/"
+  },
+  {
+    "tld": "swatch",
+    "h": "whois.nic.swatch"
   }
 ]
