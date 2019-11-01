@@ -1813,5 +1813,9 @@
   {
     "tld": "fujitsu",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "fujixerox",
+    "h": "whois.nic.fujixerox"
   }
 ]
