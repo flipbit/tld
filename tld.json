@@ -3096,5 +3096,9 @@
   },
   {
     "tld": "mint"
+  },
+  {
+    "tld": "mit",
+    "h": "whois.afilias-srs.net"
   }
 ]
