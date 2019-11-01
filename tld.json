@@ -1594,5 +1594,9 @@
   {
     "tld": "fail",
     "h": "whois.nic.fail"
+  },
+  {
+    "tld": "fairwinds",
+    "h": "whois.nic.fairwinds"
   }
 ]
