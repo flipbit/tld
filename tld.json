@@ -1625,5 +1625,9 @@
   {
     "tld": "fashion",
     "h": "whois.nic.fashion"
+  },
+  {
+    "tld": "fast",
+    "h": "whois.nic.fast"
   }
 ]
