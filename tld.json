@@ -3846,5 +3846,9 @@
   {
     "tld": "py",
     "url": "http://www.nic.py/consulta-datos.php"
+  },
+  {
+    "tld": "qa",
+    "h": "whois.registry.qa"
   }
 ]
