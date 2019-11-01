@@ -5074,5 +5074,9 @@
   {
     "tld": "voto",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "voyage",
+    "h": "whois.nic.voyage"
   }
 ]
