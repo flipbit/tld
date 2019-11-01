@@ -1445,5 +1445,8 @@
   {
     "tld": "dz",
     "h": "whois.nic.dz"
+  },
+  {
+    "tld": "earth"
   }
 ]
