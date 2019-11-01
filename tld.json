@@ -647,5 +647,9 @@
   {
     "tld": "box",
     "h": "whois.nic.box"
+  },
+  {
+    "tld": "br",
+    "h": "whois.registro.br"
   }
 ]
