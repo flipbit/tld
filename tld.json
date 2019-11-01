@@ -4916,5 +4916,9 @@
   {
     "tld": "university",
     "h": "whois.nic.university"
+  },
+  {
+    "tld": "uno",
+    "h": "whois.nic.uno"
   }
 ]
