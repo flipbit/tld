@@ -1058,5 +1058,9 @@
   {
     "tld": "com",
     "h": "whois.verisign-grs.com"
+  },
+  {
+    "tld": "comcast",
+    "h": "whois.nic.comcast"
   }
 ]
