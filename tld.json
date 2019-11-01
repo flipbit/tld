@@ -3853,5 +3853,9 @@
   },
   {
     "tld": "qpon"
+  },
+  {
+    "tld": "quebec",
+    "h": "whois.nic.quebec"
   }
 ]
