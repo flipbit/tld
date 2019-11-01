@@ -5826,5 +5826,9 @@
   {
     "tld": "xn--zfr164b",
     "h": "whois.conac.cn"
+  },
+  {
+    "tld": "xxx",
+    "h": "whois.registrar.adult"
   }
 ]
