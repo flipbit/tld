@@ -233,5 +233,9 @@
   {
     "tld": "apartments",
     "h": "whois.nic.apartments"
+  },
+  {
+    "tld": "app",
+    "h": "whois.nic.google"
   }
 ]
