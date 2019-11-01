@@ -4038,5 +4038,9 @@
   {
     "tld": "rsvp",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "ru",
+    "h": "whois.tcinet.ru"
   }
 ]
