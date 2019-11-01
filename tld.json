@@ -1255,5 +1255,9 @@
   {
     "tld": "dclk",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "dds",
+    "h": "whois.nic.dds"
   }
 ]
