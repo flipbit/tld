@@ -3951,5 +3951,9 @@
   {
     "tld": "report",
     "h": "whois.nic.report"
+  },
+  {
+    "tld": "republican",
+    "h": "whois.nic.republican"
   }
 ]
