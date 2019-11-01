@@ -2026,5 +2026,9 @@
   {
     "tld": "google",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "gop",
+    "h": "whois.nic.gop"
   }
 ]
