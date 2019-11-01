@@ -1979,5 +1979,9 @@
   {
     "tld": "gmail",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "gmbh",
+    "h": "whois.nic.gmbh"
   }
 ]
