@@ -2555,5 +2555,9 @@
   {
     "tld": "kaufen",
     "h": "whois.nic.kaufen"
+  },
+  {
+    "tld": "kddi",
+    "h": "whois.nic.kddi"
   }
 ]
