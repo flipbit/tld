@@ -3884,5 +3884,9 @@
   {
     "tld": "read",
     "h": "whois.nic.read"
+  },
+  {
+    "tld": "realestate",
+    "h": "whois.nic.realestate"
   }
 ]
