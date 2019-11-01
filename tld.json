@@ -3475,5 +3475,8 @@
   {
     "tld": "off",
     "h": "whois.nic.off"
+  },
+  {
+    "tld": "office"
   }
 ]
