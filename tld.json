@@ -69,5 +69,9 @@
   {
     "tld": "adac",
     "h": "whois.nic.adac"
+  },
+  {
+    "tld": "ads",
+    "h": "whois.nic.google"
   }
 ]
