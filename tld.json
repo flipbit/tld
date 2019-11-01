@@ -5019,5 +5019,9 @@
   {
     "tld": "vip",
     "h": "whois.nic.vip"
+  },
+  {
+    "tld": "virgin",
+    "h": "whois.nic.virgin"
   }
 ]
