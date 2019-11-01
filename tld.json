@@ -3899,5 +3899,9 @@
   {
     "tld": "recipes",
     "h": "whois.nic.recipes"
+  },
+  {
+    "tld": "red",
+    "h": "whois.afilias.net"
   }
 ]
