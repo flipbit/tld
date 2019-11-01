@@ -2327,5 +2327,9 @@
   {
     "tld": "ifm",
     "h": "whois.nic.ifm"
+  },
+  {
+    "tld": "ikano",
+    "h": "whois.nic.ikano"
   }
 ]
