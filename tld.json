@@ -1106,5 +1106,9 @@
   {
     "tld": "contractors",
     "h": "whois.nic.contractors"
+  },
+  {
+    "tld": "cooking",
+    "h": "whois.nic.cooking"
   }
 ]
