@@ -1333,5 +1333,9 @@
   {
     "tld": "digital",
     "h": "whois.nic.digital"
+  },
+  {
+    "tld": "direct",
+    "h": "whois.nic.direct"
   }
 ]
