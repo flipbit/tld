@@ -4357,5 +4357,8 @@
   {
     "tld": "sky",
     "h": "whois.nic.sky"
+  },
+  {
+    "tld": "skype"
   }
 ]
