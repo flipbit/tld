@@ -1891,5 +1891,9 @@
   {
     "tld": "gdn",
     "h": "whois.nic.gdn"
+  },
+  {
+    "tld": "ge",
+    "h": "whois.nic.ge"
   }
 ]
