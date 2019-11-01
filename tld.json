@@ -429,5 +429,9 @@
   {
     "tld": "bauhaus",
     "h": "whois.nic.bauhaus"
+  },
+  {
+    "tld": "bayern",
+    "h": "whois.nic.bayern"
   }
 ]
