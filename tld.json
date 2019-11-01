@@ -3221,5 +3221,8 @@
   {
     "tld": "ms",
     "h": "whois.nic.ms"
+  },
+  {
+    "tld": "msd"
   }
 ]
