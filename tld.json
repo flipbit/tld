@@ -600,5 +600,9 @@
   {
     "tld": "boehringer",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "bofa",
+    "h": "whois.nic.bofa"
   }
 ]
