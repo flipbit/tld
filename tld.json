@@ -2233,5 +2233,9 @@
   {
     "tld": "honda",
     "h": "whois.nic.honda"
+  },
+  {
+    "tld": "horse",
+    "h": "whois.nic.horse"
   }
 ]
