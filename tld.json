@@ -4230,5 +4230,9 @@
   },
   {
     "tld": "sener"
+  },
+  {
+    "tld": "services",
+    "h": "whois.nic.services"
   }
 ]
