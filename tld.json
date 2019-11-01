@@ -4681,5 +4681,9 @@
   {
     "tld": "tf",
     "h": "whois.nic.tf"
+  },
+  {
+    "tld": "tg",
+    "h": "whois.nic.tg"
   }
 ]
