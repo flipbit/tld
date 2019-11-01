@@ -4423,5 +4423,9 @@
   {
     "tld": "song",
     "h": "whois.nic.song"
+  },
+  {
+    "tld": "sony",
+    "h": "whois.nic.sony"
   }
 ]
