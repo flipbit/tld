@@ -3104,5 +3104,9 @@
   {
     "tld": "mitsubishi",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "mk",
+    "h": "whois.marnet.mk"
   }
 ]
