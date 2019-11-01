@@ -3455,5 +3455,9 @@
   {
     "tld": "nu",
     "h": "whois.iis.nu"
+  },
+  {
+    "tld": "nyc",
+    "h": "whois.nic.nyc"
   }
 ]
