@@ -4411,5 +4411,9 @@
   },
   {
     "tld": "sohu"
+  },
+  {
+    "tld": "solar",
+    "h": "whois.nic.solar"
   }
 ]
