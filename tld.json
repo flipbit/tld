@@ -998,5 +998,9 @@
   {
     "tld": "click",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "clinic",
+    "h": "whois.nic.clinic"
   }
 ]
