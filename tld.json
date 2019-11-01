@@ -1606,5 +1606,9 @@
   {
     "tld": "family",
     "h": "whois.nic.family"
+  },
+  {
+    "tld": "fan",
+    "h": "whois.nic.fan"
   }
 ]
