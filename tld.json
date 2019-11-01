@@ -4180,5 +4180,9 @@
   {
     "tld": "schwarz",
     "h": "whois.nic.schwarz"
+  },
+  {
+    "tld": "science",
+    "h": "whois.nic.science"
   }
 ]
