@@ -1998,5 +1998,9 @@
   {
     "tld": "godaddy",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "gold",
+    "h": "whois.nic.gold"
   }
 ]
