@@ -3822,5 +3822,9 @@
   },
   {
     "tld": "prudential"
+  },
+  {
+    "tld": "ps",
+    "h": "whois.pnina.ps"
   }
 ]
