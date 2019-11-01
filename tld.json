@@ -4435,5 +4435,9 @@
   {
     "tld": "space",
     "h": "whois.nic.space"
+  },
+  {
+    "tld": "sport",
+    "h": "whois.nic.sport"
   }
 ]
