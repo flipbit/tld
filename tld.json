@@ -3021,5 +3021,9 @@
   },
   {
     "tld": "mc"
+  },
+  {
+    "tld": "mckinsey",
+    "h": "whois.nic.mckinsey"
   }
 ]
