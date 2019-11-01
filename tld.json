@@ -3385,5 +3385,9 @@
   },
   {
     "tld": "nike"
+  },
+  {
+    "tld": "nikon",
+    "h": "whois.nic.nikon"
   }
 ]
