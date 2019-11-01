@@ -1618,5 +1618,8 @@
   {
     "tld": "farm",
     "h": "whois.nic.farm"
+  },
+  {
+    "tld": "farmers"
   }
 ]
