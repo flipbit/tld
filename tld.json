@@ -553,5 +553,9 @@
   {
     "tld": "blackfriday",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "blockbuster",
+    "h": "whois.nic.blockbuster"
   }
 ]
