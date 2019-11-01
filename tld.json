@@ -2351,5 +2351,9 @@
   {
     "tld": "immo",
     "h": "whois.nic.immo"
+  },
+  {
+    "tld": "immobilien",
+    "h": "whois.nic.immobilien"
   }
 ]
