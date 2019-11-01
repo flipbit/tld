@@ -1464,5 +1464,9 @@
   {
     "tld": "edeka",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "edu",
+    "h": "whois.educause.edu"
   }
 ]
