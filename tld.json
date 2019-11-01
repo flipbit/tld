@@ -1207,5 +1207,9 @@
   {
     "tld": "cy",
     "url": "http://www.nic.cy/nslookup/online_database.php"
+  },
+  {
+    "tld": "cymru",
+    "h": "whois.nic.cymru"
   }
 ]
