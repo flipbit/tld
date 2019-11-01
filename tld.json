@@ -2355,5 +2355,9 @@
   {
     "tld": "immobilien",
     "h": "whois.nic.immobilien"
+  },
+  {
+    "tld": "in",
+    "h": "whois.registry.in"
   }
 ]
