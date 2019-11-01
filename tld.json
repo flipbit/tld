@@ -3576,5 +3576,9 @@
   {
     "tld": "page",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "panasonic",
+    "h": "whois.nic.gmo"
   }
 ]
