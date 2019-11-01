@@ -485,5 +485,9 @@
   {
     "tld": "berlin",
     "h": "whois.nic.berlin"
+  },
+  {
+    "tld": "best",
+    "h": "whois.nic.best"
   }
 ]
