@@ -2495,5 +2495,9 @@
   {
     "tld": "jewelry",
     "h": "whois.nic.jewelry"
+  },
+  {
+    "tld": "jio",
+    "h": "whois.nic.jio"
   }
 ]
