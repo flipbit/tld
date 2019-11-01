@@ -1692,5 +1692,9 @@
   {
     "tld": "fish",
     "h": "whois.nic.fish"
+  },
+  {
+    "tld": "fishing",
+    "h": "whois.nic.fishing"
   }
 ]
