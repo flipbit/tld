@@ -2652,5 +2652,9 @@
   },
   {
     "tld": "kred"
+  },
+  {
+    "tld": "kuokgroup",
+    "h": "whois.nic.kuokgroup"
   }
 ]
