@@ -2483,5 +2483,9 @@
   {
     "tld": "je",
     "h": "whois.je"
+  },
+  {
+    "tld": "jeep",
+    "h": "whois.afilias-srs.net"
   }
 ]
