@@ -1672,5 +1672,9 @@
   {
     "tld": "finance",
     "h": "whois.nic.finance"
+  },
+  {
+    "tld": "financial",
+    "h": "whois.nic.financial"
   }
 ]
