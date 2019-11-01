@@ -1496,5 +1496,9 @@
   {
     "tld": "engineer",
     "h": "whois.nic.engineer"
+  },
+  {
+    "tld": "engineering",
+    "h": "whois.nic.engineering"
   }
 ]
