@@ -819,5 +819,9 @@
   {
     "tld": "casa",
     "h": "whois.nic.casa"
+  },
+  {
+    "tld": "case",
+    "h": "whois.nic.case"
   }
 ]
