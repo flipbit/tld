@@ -4955,5 +4955,9 @@
   {
     "tld": "vanguard",
     "h": "whois.nic.vanguard"
+  },
+  {
+    "tld": "vc",
+    "h": "whois2.afilias-grs.net"
   }
 ]
