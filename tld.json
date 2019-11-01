@@ -4500,5 +4500,9 @@
   {
     "tld": "storage",
     "h": "whois.nic.storage"
+  },
+  {
+    "tld": "store",
+    "h": "whois.nic.store"
   }
 ]
