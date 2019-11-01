@@ -1,5 +1,9 @@
 [
   {
     "tld": "aaa"
+  },
+  {
+    "tld": "aarp",
+    "h": "whois.nic.aarp"
   }
 ]
