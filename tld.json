@@ -1172,5 +1172,9 @@
   },
   {
     "tld": "crs"
+  },
+  {
+    "tld": "cruise",
+    "h": "whois.nic.cruise"
   }
 ]
