@@ -237,5 +237,9 @@
   {
     "tld": "app",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "apple",
+    "h": "whois.afilias-srs.net"
   }
 ]
