@@ -4211,5 +4211,9 @@
   {
     "tld": "seat",
     "h": "whois.nic.seat"
+  },
+  {
+    "tld": "secure",
+    "h": "whois.nic.secure"
   }
 ]
