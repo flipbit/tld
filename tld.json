@@ -3370,5 +3370,9 @@
   {
     "tld": "ngo",
     "h": "whois.publicinterestregistry.net"
+  },
+  {
+    "tld": "nhk",
+    "h": "whois.nic.nhk"
   }
 ]
