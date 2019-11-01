@@ -4598,5 +4598,9 @@
   {
     "tld": "taipei",
     "h": "whois.nic.taipei"
+  },
+  {
+    "tld": "talk",
+    "h": "whois.nic.talk"
   }
 ]
