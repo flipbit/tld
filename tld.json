@@ -4227,5 +4227,8 @@
   {
     "tld": "select",
     "h": "whois.nic.select"
+  },
+  {
+    "tld": "sener"
   }
 ]
