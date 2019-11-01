@@ -4219,5 +4219,9 @@
   {
     "tld": "security",
     "h": "whois.nic.security"
+  },
+  {
+    "tld": "seek",
+    "h": "whois.nic.seek"
   }
 ]
