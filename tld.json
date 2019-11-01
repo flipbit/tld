@@ -5130,5 +5130,9 @@
   {
     "tld": "weber",
     "h": "whois.nic.weber"
+  },
+  {
+    "tld": "website",
+    "h": "whois.nic.website"
   }
 ]
