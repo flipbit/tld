@@ -4062,5 +4062,9 @@
   {
     "tld": "rwe",
     "h": "whois.nic.rwe"
+  },
+  {
+    "tld": "ryukyu",
+    "h": "whois.nic.ryukyu"
   }
 ]
