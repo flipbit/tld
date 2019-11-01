@@ -1211,5 +1211,9 @@
   {
     "tld": "cymru",
     "h": "whois.nic.cymru"
+  },
+  {
+    "tld": "cyou",
+    "h": "whois.nic.cyou"
   }
 ]
