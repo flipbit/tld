@@ -1951,5 +1951,9 @@
   {
     "tld": "gl",
     "h": "whois.nic.gl"
+  },
+  {
+    "tld": "glade",
+    "h": "whois.nic.glade"
   }
 ]
