@@ -1729,5 +1729,9 @@
   {
     "tld": "flowers",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "fly",
+    "h": "whois.nic.google"
   }
 ]
