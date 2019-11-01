@@ -2428,5 +2428,9 @@
   {
     "tld": "ir",
     "h": "whois.nic.ir"
+  },
+  {
+    "tld": "irish",
+    "h": "whois.nic.irish"
   }
 ]
