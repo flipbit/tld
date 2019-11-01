@@ -3217,5 +3217,9 @@
   {
     "tld": "mr",
     "h": "whois.nic.mr"
+  },
+  {
+    "tld": "ms",
+    "h": "whois.nic.ms"
   }
 ]
