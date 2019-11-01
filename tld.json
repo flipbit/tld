@@ -3619,5 +3619,9 @@
   {
     "tld": "pet",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "pf",
+    "h": "whois.registry.pf"
   }
 ]
