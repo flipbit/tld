@@ -3378,5 +3378,9 @@
   {
     "tld": "ni",
     "url": "http://www.nic.ni/"
+  },
+  {
+    "tld": "nico",
+    "h": "whois.nic.nico"
   }
 ]
