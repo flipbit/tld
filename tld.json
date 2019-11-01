@@ -2878,5 +2878,9 @@
   {
     "tld": "lol",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "london",
+    "h": "whois.nic.london"
   }
 ]
