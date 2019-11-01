@@ -1943,5 +1943,9 @@
   {
     "tld": "gives",
     "h": "whois.nic.gives"
+  },
+  {
+    "tld": "giving",
+    "h": "whois.nic.giving"
   }
 ]
