@@ -3451,5 +3451,9 @@
   },
   {
     "tld": "ntt"
+  },
+  {
+    "tld": "nu",
+    "h": "whois.iis.nu"
   }
 ]
