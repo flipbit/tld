@@ -3939,5 +3939,9 @@
   {
     "tld": "rent",
     "h": "whois.nic.rent"
+  },
+  {
+    "tld": "rentals",
+    "h": "whois.nic.rentals"
   }
 ]
