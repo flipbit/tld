@@ -1700,5 +1700,9 @@
   {
     "tld": "fit",
     "h": "whois.nic.fit"
+  },
+  {
+    "tld": "fitness",
+    "h": "whois.nic.fitness"
   }
 ]
