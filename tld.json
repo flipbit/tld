@@ -4594,5 +4594,9 @@
   {
     "tld": "tab",
     "h": "whois.nic.tab"
+  },
+  {
+    "tld": "taipei",
+    "h": "whois.nic.taipei"
   }
 ]
