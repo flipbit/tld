@@ -971,5 +971,9 @@
   },
   {
     "tld": "citic"
+  },
+  {
+    "tld": "city",
+    "h": "whois.nic.city"
   }
 ]
