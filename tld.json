@@ -1082,5 +1082,9 @@
   {
     "tld": "computer",
     "h": "whois.nic.computer"
+  },
+  {
+    "tld": "comsec",
+    "h": "whois.nic.comsec"
   }
 ]
