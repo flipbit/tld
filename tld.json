@@ -3393,5 +3393,9 @@
   {
     "tld": "ninja",
     "h": "whois.nic.ninja"
+  },
+  {
+    "tld": "nissan",
+    "h": "whois.nic.gmo"
   }
 ]
