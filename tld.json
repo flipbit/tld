@@ -5182,5 +5182,9 @@
   },
   {
     "tld": "winners"
+  },
+  {
+    "tld": "wme",
+    "h": "whois.nic.wme"
   }
 ]
