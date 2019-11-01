@@ -1775,5 +1775,9 @@
   {
     "tld": "foundation",
     "h": "whois.nic.foundation"
+  },
+  {
+    "tld": "fox",
+    "h": "whois.nic.fox"
   }
 ]
