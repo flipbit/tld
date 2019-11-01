@@ -2379,5 +2379,9 @@
   {
     "tld": "ing",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "ink",
+    "h": "whois.nic.ink"
   }
 ]
