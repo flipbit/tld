@@ -931,5 +931,9 @@
   {
     "tld": "chintai",
     "h": "whois.nic.chintai"
+  },
+  {
+    "tld": "christmas",
+    "h": "whois.uniregistry.net"
   }
 ]
