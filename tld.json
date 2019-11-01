@@ -3872,5 +3872,9 @@
   {
     "tld": "radio",
     "h": "whois.nic.radio"
+  },
+  {
+    "tld": "raid",
+    "h": "whois.nic.raid"
   }
 ]
