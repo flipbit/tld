@@ -5116,5 +5116,8 @@
   },
   {
     "tld": "watches"
+  },
+  {
+    "tld": "weather"
   }
 ]
