@@ -3057,5 +3057,9 @@
   {
     "tld": "memorial",
     "h": "whois.nic.memorial"
+  },
+  {
+    "tld": "men",
+    "h": "whois.nic.men"
   }
 ]
