@@ -4326,5 +4326,9 @@
   {
     "tld": "silk",
     "h": "whois.nic.silk"
+  },
+  {
+    "tld": "sina",
+    "h": "whois.nic.sina"
   }
 ]
