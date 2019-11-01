@@ -4701,5 +4701,9 @@
   {
     "tld": "theatre",
     "h": "whois.nic.theatre"
+  },
+  {
+    "tld": "tiaa",
+    "h": "whois.nic.tiaa"
   }
 ]
