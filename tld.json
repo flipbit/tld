@@ -5046,5 +5046,9 @@
   {
     "tld": "vlaanderen",
     "h": "whois.nic.vlaanderen"
+  },
+  {
+    "tld": "vn",
+    "url": "http://www.vnnic.vn/en/domain"
   }
 ]
