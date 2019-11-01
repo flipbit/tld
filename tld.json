@@ -2926,5 +2926,9 @@
   {
     "tld": "lu",
     "h": "whois.dns.lu"
+  },
+  {
+    "tld": "lundbeck",
+    "h": "whois.nic.lundbeck"
   }
 ]
