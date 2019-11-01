@@ -4132,5 +4132,9 @@
   {
     "tld": "saxo",
     "h": "whois.nic.saxo"
+  },
+  {
+    "tld": "sb",
+    "h": "whois.nic.net.sb"
   }
 ]
