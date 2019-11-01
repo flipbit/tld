@@ -5902,5 +5902,9 @@
   {
     "tld": "zm",
     "h": "whois.zicta.zm"
+  },
+  {
+    "tld": "zone",
+    "h": "whois.nic.zone"
   }
 ]
