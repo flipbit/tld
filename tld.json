@@ -3633,5 +3633,9 @@
   {
     "tld": "ph",
     "url": "http://www.dot.ph/whois"
+  },
+  {
+    "tld": "pharmacy",
+    "h": "whois.nic.pharmacy"
   }
 ]
