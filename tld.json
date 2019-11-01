@@ -2057,5 +2057,9 @@
   {
     "tld": "graphics",
     "h": "whois.nic.graphics"
+  },
+  {
+    "tld": "gratis",
+    "h": "whois.nic.gratis"
   }
 ]
