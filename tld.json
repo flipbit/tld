@@ -4520,5 +4520,9 @@
   {
     "tld": "style",
     "h": "whois.nic.style"
+  },
+  {
+    "tld": "su",
+    "h": "whois.tcinet.ru"
   }
 ]
