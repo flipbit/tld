@@ -2832,5 +2832,9 @@
   {
     "tld": "link",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "lipsy",
+    "h": "whois.nic.lipsy"
   }
 ]
