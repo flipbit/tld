@@ -4750,5 +4750,9 @@
   {
     "tld": "tl",
     "h": "whois.nic.tl"
+  },
+  {
+    "tld": "tm",
+    "h": "whois.nic.tm"
   }
 ]
