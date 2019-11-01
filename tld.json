@@ -869,5 +869,9 @@
   {
     "tld": "cd",
     "h": "whois.nic.cd"
+  },
+  {
+    "tld": "ceb",
+    "h": "whois.afilias-srs.net"
   }
 ]
