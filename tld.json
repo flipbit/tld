@@ -1570,5 +1570,9 @@
   {
     "tld": "exchange",
     "h": "whois.nic.exchange"
+  },
+  {
+    "tld": "expert",
+    "h": "whois.nic.expert"
   }
 ]
