@@ -3122,5 +3122,9 @@
   },
   {
     "tld": "mm"
+  },
+  {
+    "tld": "mma",
+    "h": "whois-mma.nic.fr"
   }
 ]
