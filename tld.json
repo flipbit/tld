@@ -2417,5 +2417,8 @@
   {
     "tld": "io",
     "h": "whois.nic.io"
+  },
+  {
+    "tld": "ipiranga"
   }
 ]
