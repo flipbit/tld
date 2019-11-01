@@ -2459,5 +2459,9 @@
   {
     "tld": "itv",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "iveco",
+    "h": "whois.nic.iveco"
   }
 ]
