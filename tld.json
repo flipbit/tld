@@ -1825,5 +1825,9 @@
   {
     "tld": "fund",
     "h": "whois.nic.fund"
+  },
+  {
+    "tld": "furniture",
+    "h": "whois.nic.furniture"
   }
 ]
