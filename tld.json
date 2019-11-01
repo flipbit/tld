@@ -1865,5 +1865,8 @@
   {
     "tld": "games",
     "h": "whois.nic.games"
+  },
+  {
+    "tld": "gap"
   }
 ]
