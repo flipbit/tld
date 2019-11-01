@@ -2727,5 +2727,9 @@
   {
     "tld": "latino",
     "h": "whois.nic.latino"
+  },
+  {
+    "tld": "latrobe",
+    "h": "whois.nic.latrobe"
   }
 ]
