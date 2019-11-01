@@ -2098,5 +2098,9 @@
   {
     "tld": "guge",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "guide",
+    "h": "whois.nic.guide"
   }
 ]
