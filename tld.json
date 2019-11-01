@@ -2010,5 +2010,9 @@
   {
     "tld": "golf",
     "h": "whois.nic.golf"
+  },
+  {
+    "tld": "goo",
+    "h": "whois.nic.gmo"
   }
 ]
