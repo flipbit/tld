@@ -46,5 +46,9 @@
   },
   {
     "tld": "accenture"
+  },
+  {
+    "tld": "accountant",
+    "h": "whois.nic.accountant"
   }
 ]
