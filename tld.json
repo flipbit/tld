@@ -361,5 +361,9 @@
   },
   {
     "tld": "axa"
+  },
+  {
+    "tld": "az",
+    "url": "http://www.nic.az/"
   }
 ]
