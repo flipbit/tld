@@ -3201,5 +3201,9 @@
   {
     "tld": "movie",
     "h": "whois.nic.movie"
+  },
+  {
+    "tld": "movistar",
+    "h": "whois.nic.movistar"
   }
 ]
