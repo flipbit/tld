@@ -2609,5 +2609,9 @@
   {
     "tld": "kitchen",
     "h": "whois.nic.kitchen"
+  },
+  {
+    "tld": "kiwi",
+    "h": "whois.nic.kiwi"
   }
 ]
