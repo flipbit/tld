@@ -679,5 +679,9 @@
   {
     "tld": "bs",
     "url": "http://www.nic.bs/cgi-bin/search.pl"
+  },
+  {
+    "tld": "bt",
+    "url": "http://www.nic.bt/"
   }
 ]
