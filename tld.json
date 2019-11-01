@@ -4880,5 +4880,9 @@
   {
     "tld": "tw",
     "h": "whois.twnic.net.tw"
+  },
+  {
+    "tld": "tz",
+    "h": "whois.tznic.or.tz"
   }
 ]
