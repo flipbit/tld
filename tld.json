@@ -4492,5 +4492,9 @@
   {
     "tld": "stcgroup",
     "h": "whois.nic.stcgroup"
+  },
+  {
+    "tld": "stockholm",
+    "h": "whois.afilias-srs.net"
   }
 ]
