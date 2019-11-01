@@ -2537,5 +2537,8 @@
     "tld": "jp",
     "h": "whois.jprs.jp",
     "fmt": "{query}/e"
+  },
+  {
+    "tld": "jpmorgan"
   }
 ]
