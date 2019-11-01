@@ -4924,5 +4924,9 @@
   {
     "tld": "uol",
     "h": "whois.gtlds.nic.br"
+  },
+  {
+    "tld": "ups",
+    "h": "whois.nic.ups"
   }
 ]
