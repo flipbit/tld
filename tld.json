@@ -4813,5 +4813,9 @@
   {
     "tld": "tr",
     "h": "whois.nic.tr"
+  },
+  {
+    "tld": "trade",
+    "h": "whois.nic.trade"
   }
 ]
