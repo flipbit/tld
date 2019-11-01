@@ -5126,5 +5126,9 @@
   {
     "tld": "webcam",
     "h": "whois.nic.webcam"
+  },
+  {
+    "tld": "weber",
+    "h": "whois.nic.weber"
   }
 ]
