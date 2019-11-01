@@ -1947,5 +1947,9 @@
   {
     "tld": "giving",
     "h": "whois.nic.giving"
+  },
+  {
+    "tld": "gl",
+    "h": "whois.nic.gl"
   }
 ]
