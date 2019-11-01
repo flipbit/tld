@@ -3888,5 +3888,8 @@
   {
     "tld": "realestate",
     "h": "whois.nic.realestate"
+  },
+  {
+    "tld": "realtor"
   }
 ]
