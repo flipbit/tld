@@ -4302,5 +4302,9 @@
   {
     "tld": "shopping",
     "h": "whois.nic.shopping"
+  },
+  {
+    "tld": "shouji",
+    "h": "whois.teleinfo.cn"
   }
 ]
