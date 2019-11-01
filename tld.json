@@ -3830,5 +3830,9 @@
   {
     "tld": "pt",
     "h": "whois.dns.pt"
+  },
+  {
+    "tld": "pub",
+    "h": "whois.nic.pub"
   }
 ]
