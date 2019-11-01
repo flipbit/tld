@@ -1448,5 +1448,9 @@
   },
   {
     "tld": "earth"
+  },
+  {
+    "tld": "eat",
+    "h": "whois.nic.google"
   }
 ]
