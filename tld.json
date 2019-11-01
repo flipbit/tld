@@ -1259,5 +1259,10 @@
   {
     "tld": "dds",
     "h": "whois.nic.dds"
+  },
+  {
+    "tld": "de",
+    "h": "whois.denic.de",
+    "fmt": "-T dn,ace {query}"
   }
 ]
