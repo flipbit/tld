@@ -1264,5 +1264,9 @@
     "tld": "de",
     "h": "whois.denic.de",
     "fmt": "-T dn,ace {query}"
+  },
+  {
+    "tld": "deal",
+    "h": "whois.nic.deal"
   }
 ]
