@@ -2359,5 +2359,9 @@
   {
     "tld": "in",
     "h": "whois.registry.in"
+  },
+  {
+    "tld": "inc",
+    "h": "whois.nic.inc"
   }
 ]
