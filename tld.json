@@ -3108,5 +3108,9 @@
   {
     "tld": "mk",
     "h": "whois.marnet.mk"
+  },
+  {
+    "tld": "ml",
+    "h": "whois.dot.ml"
   }
 ]
