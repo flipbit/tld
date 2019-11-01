@@ -3808,5 +3808,9 @@
   {
     "tld": "properties",
     "h": "whois.nic.properties"
+  },
+  {
+    "tld": "property",
+    "h": "whois.uniregistry.net"
   }
 ]
