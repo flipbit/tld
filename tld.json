@@ -2851,5 +2851,9 @@
   {
     "tld": "lk",
     "h": "whois.nic.lk"
+  },
+  {
+    "tld": "llc",
+    "h": "whois.afilias.net"
   }
 ]
