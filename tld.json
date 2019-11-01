@@ -1341,5 +1341,9 @@
   {
     "tld": "directory",
     "h": "whois.nic.directory"
+  },
+  {
+    "tld": "discount",
+    "h": "whois.nic.discount"
   }
 ]
