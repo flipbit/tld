@@ -3560,5 +3560,9 @@
   {
     "tld": "otsuka",
     "h": "whois.nic.otsuka"
+  },
+  {
+    "tld": "ott",
+    "h": "whois.nic.ott"
   }
 ]
