@@ -338,5 +338,9 @@
   {
     "tld": "auto",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "autos",
+    "h": "whois.afilias-srs.net"
   }
 ]
