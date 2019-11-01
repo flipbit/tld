@@ -695,5 +695,9 @@
   {
     "tld": "build",
     "h": "whois.nic.build"
+  },
+  {
+    "tld": "builders",
+    "h": "whois.nic.builders"
   }
 ]
