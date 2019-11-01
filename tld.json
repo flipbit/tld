@@ -2249,5 +2249,9 @@
   {
     "tld": "hosting",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "hot",
+    "h": "whois.nic.hot"
   }
 ]
