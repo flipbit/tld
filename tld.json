@@ -1102,5 +1102,9 @@
   {
     "tld": "contact",
     "h": "whois.nic.contact"
+  },
+  {
+    "tld": "contractors",
+    "h": "whois.nic.contractors"
   }
 ]
