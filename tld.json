@@ -1508,5 +1508,9 @@
   {
     "tld": "epson",
     "h": "whois.nic.epson"
+  },
+  {
+    "tld": "equipment",
+    "h": "whois.nic.equipment"
   }
 ]
