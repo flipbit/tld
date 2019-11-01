@@ -2304,5 +2304,9 @@
   {
     "tld": "icbc",
     "h": "whois.nic.icbc"
+  },
+  {
+    "tld": "ice",
+    "h": "whois.nic.ice"
   }
 ]
