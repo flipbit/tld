@@ -1126,5 +1126,9 @@
   {
     "tld": "corsica",
     "h": "whois-corsica.nic.fr"
+  },
+  {
+    "tld": "country",
+    "h": "whois.uniregistry.net"
   }
 ]
