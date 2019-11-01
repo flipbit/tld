@@ -4579,5 +4579,9 @@
   {
     "tld": "sydney",
     "h": "whois.nic.sydney"
+  },
+  {
+    "tld": "symantec",
+    "h": "whois.nic.symantec"
   }
 ]
