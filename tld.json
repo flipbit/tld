@@ -4608,5 +4608,9 @@
   },
   {
     "tld": "target"
+  },
+  {
+    "tld": "tatamotors",
+    "h": "whois.nic.tatamotors"
   }
 ]
