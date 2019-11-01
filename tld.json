@@ -707,5 +707,9 @@
   {
     "tld": "buy",
     "h": "whois.nic.buy"
+  },
+  {
+    "tld": "buzz",
+    "h": "whois.nic.buzz"
   }
 ]
