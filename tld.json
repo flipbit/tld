@@ -5153,5 +5153,9 @@
   {
     "tld": "wf",
     "h": "whois.nic.wf"
+  },
+  {
+    "tld": "whoswho",
+    "h": "whois.nic.whoswho"
   }
 ]
