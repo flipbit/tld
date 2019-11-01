@@ -533,5 +533,9 @@
   {
     "tld": "bingo",
     "h": "whois.nic.bingo"
+  },
+  {
+    "tld": "bio",
+    "h": "whois.afilias.net"
   }
 ]
