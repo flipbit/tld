@@ -3540,5 +3540,9 @@
   {
     "tld": "orange",
     "h": "whois.nic.orange"
+  },
+  {
+    "tld": "org",
+    "h": "whois.pir.org"
   }
 ]
