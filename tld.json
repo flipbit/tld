@@ -2151,5 +2151,9 @@
   {
     "tld": "healthcare",
     "h": "whois.nic.healthcare"
+  },
+  {
+    "tld": "help",
+    "h": "whois.uniregistry.net"
   }
 ]
