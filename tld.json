@@ -2277,5 +2277,9 @@
   },
   {
     "tld": "hsbc"
+  },
+  {
+    "tld": "ht",
+    "h": "whois.nic.ht"
   }
 ]
