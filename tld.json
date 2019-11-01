@@ -3366,5 +3366,9 @@
   {
     "tld": "ng",
     "h": "whois.nic.net.ng"
+  },
+  {
+    "tld": "ngo",
+    "h": "whois.publicinterestregistry.net"
   }
 ]
