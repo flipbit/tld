@@ -1515,5 +1515,9 @@
   },
   {
     "tld": "er"
+  },
+  {
+    "tld": "ericsson",
+    "h": "whois.nic.ericsson"
   }
 ]
