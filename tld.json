@@ -3784,5 +3784,9 @@
   {
     "tld": "pro",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "prod",
+    "h": "whois.nic.google"
   }
 ]
