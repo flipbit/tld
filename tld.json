@@ -4070,5 +4070,9 @@
   {
     "tld": "sa",
     "h": "whois.nic.net.sa"
+  },
+  {
+    "tld": "saarland",
+    "h": "whois.nic.saarland"
   }
 ]
