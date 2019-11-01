@@ -4234,5 +4234,9 @@
   {
     "tld": "services",
     "h": "whois.nic.services"
+  },
+  {
+    "tld": "ses",
+    "h": "whois.nic.ses"
   }
 ]
