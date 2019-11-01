@@ -2308,5 +2308,9 @@
   {
     "tld": "ice",
     "h": "whois.nic.ice"
+  },
+  {
+    "tld": "icu",
+    "h": "whois.nic.icu"
   }
 ]
