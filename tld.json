@@ -1378,5 +1378,9 @@
     "tld": "do",
     "h": "whois.nic.do",
     "url": "http://www.nic.do/whois-h.php3"
+  },
+  {
+    "tld": "docs",
+    "h": "whois.nic.google"
   }
 ]
