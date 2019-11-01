@@ -2910,5 +2910,9 @@
     "tld": "ls",
     "h": "whois.nic.ls",
     "url": "http://www.co.ls/co.asp"
+  },
+  {
+    "tld": "lt",
+    "h": "whois.domreg.lt"
   }
 ]
