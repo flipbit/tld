@@ -267,5 +267,9 @@
   {
     "tld": "army",
     "h": "whois.nic.army"
+  },
+  {
+    "tld": "arpa",
+    "h": "whois.iana.org"
   }
 ]
