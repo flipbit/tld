@@ -2014,5 +2014,9 @@
   {
     "tld": "goo",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "goodyear",
+    "h": "whois.nic.goodyear"
   }
 ]
