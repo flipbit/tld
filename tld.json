@@ -2645,5 +2645,9 @@
   {
     "tld": "kr",
     "h": "whois.kr"
+  },
+  {
+    "tld": "krd",
+    "h": "whois.nic.krd"
   }
 ]
