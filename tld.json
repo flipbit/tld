@@ -4364,5 +4364,9 @@
   {
     "tld": "sl",
     "h": "whois.nic.sl"
+  },
+  {
+    "tld": "sling",
+    "h": "whois.nic.sling"
   }
 ]
