@@ -537,5 +537,9 @@
   {
     "tld": "bio",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "biz",
+    "h": "whois.nic.biz"
   }
 ]
