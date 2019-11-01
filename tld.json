@@ -5233,5 +5233,9 @@
   {
     "tld": "xfinity",
     "h": "whois.nic.xfinity"
+  },
+  {
+    "tld": "xihuan",
+    "h": "whois.teleinfo.cn"
   }
 ]
