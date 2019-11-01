@@ -2810,5 +2810,8 @@
   {
     "tld": "like",
     "h": "whois.nic.like"
+  },
+  {
+    "tld": "lilly"
   }
 ]
