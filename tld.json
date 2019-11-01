@@ -100,5 +100,9 @@
   {
     "tld": "afamilycompany",
     "h": "whois.nic.afamilycompany"
+  },
+  {
+    "tld": "afl",
+    "h": "whois.nic.afl"
   }
 ]
