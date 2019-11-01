@@ -3552,5 +3552,9 @@
   {
     "tld": "origins",
     "h": "whois.nic.origins"
+  },
+  {
+    "tld": "osaka",
+    "h": "whois.nic.osaka"
   }
 ]
