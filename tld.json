@@ -703,5 +703,9 @@
   {
     "tld": "business",
     "h": "whois.nic.business"
+  },
+  {
+    "tld": "buy",
+    "h": "whois.nic.buy"
   }
 ]
