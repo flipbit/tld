@@ -3702,5 +3702,9 @@
   {
     "tld": "pizza",
     "h": "whois.nic.pizza"
+  },
+  {
+    "tld": "pk",
+    "url": "http://www.pknic.net.pk/"
   }
 ]
