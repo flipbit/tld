@@ -4400,5 +4400,9 @@
   {
     "tld": "social",
     "h": "whois.nic.social"
+  },
+  {
+    "tld": "softbank",
+    "h": "whois.nic.softbank"
   }
 ]
