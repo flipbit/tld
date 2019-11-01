@@ -2590,5 +2590,9 @@
   {
     "tld": "ki",
     "h": "whois.nic.ki"
+  },
+  {
+    "tld": "kia",
+    "h": "whois.nic.kia"
   }
 ]
