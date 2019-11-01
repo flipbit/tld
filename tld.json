@@ -1523,5 +1523,9 @@
   {
     "tld": "erni",
     "h": "whois.nic.erni"
+  },
+  {
+    "tld": "es",
+    "h": "whois.nic.es"
   }
 ]
