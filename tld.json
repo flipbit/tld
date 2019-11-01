@@ -1480,5 +1480,9 @@
   {
     "tld": "eg",
     "url": "http://lookup.egregistry.eg/english.aspx"
+  },
+  {
+    "tld": "email",
+    "h": "whois.nic.email"
   }
 ]
