@@ -1676,5 +1676,9 @@
   {
     "tld": "financial",
     "h": "whois.nic.financial"
+  },
+  {
+    "tld": "fire",
+    "h": "whois.nic.fire"
   }
 ]
