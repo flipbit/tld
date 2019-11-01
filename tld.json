@@ -1718,5 +1718,8 @@
   {
     "tld": "flights",
     "h": "whois.nic.flights"
+  },
+  {
+    "tld": "flir"
   }
 ]
