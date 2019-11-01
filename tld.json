@@ -4250,5 +4250,9 @@
   {
     "tld": "sex",
     "h": "whois.registrar.adult"
+  },
+  {
+    "tld": "sexy",
+    "h": "whois.uniregistry.net"
   }
 ]
