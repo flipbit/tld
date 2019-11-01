@@ -2065,5 +2065,9 @@
   {
     "tld": "green",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "gripe",
+    "h": "whois.nic.gripe"
   }
 ]
