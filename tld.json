@@ -3842,5 +3842,9 @@
   {
     "tld": "pwc",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "py",
+    "url": "http://www.nic.py/consulta-datos.php"
   }
 ]
