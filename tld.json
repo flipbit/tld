@@ -1590,5 +1590,9 @@
   {
     "tld": "fage",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "fail",
+    "h": "whois.nic.fail"
   }
 ]
