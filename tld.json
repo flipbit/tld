@@ -135,5 +135,9 @@
   {
     "tld": "airbus",
     "h": "whois.nic.airbus"
+  },
+  {
+    "tld": "airforce",
+    "h": "whois.nic.airforce"
   }
 ]
