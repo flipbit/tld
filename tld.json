@@ -1668,5 +1668,9 @@
   {
     "tld": "final",
     "h": "whois.gtlds.nic.br"
+  },
+  {
+    "tld": "finance",
+    "h": "whois.nic.finance"
   }
 ]
