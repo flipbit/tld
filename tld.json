@@ -1637,5 +1637,9 @@
   {
     "tld": "feedback",
     "h": "whois.nic.feedback"
+  },
+  {
+    "tld": "ferrari",
+    "h": "whois.nic.ferrari"
   }
 ]
