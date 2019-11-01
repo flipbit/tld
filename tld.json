@@ -461,5 +461,9 @@
   {
     "tld": "bd",
     "url": "http://whois.btcl.net.bd/"
+  },
+  {
+    "tld": "be",
+    "h": "whois.dns.be"
   }
 ]
