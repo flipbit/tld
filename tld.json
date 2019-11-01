@@ -2183,5 +2183,9 @@
   {
     "tld": "hitachi",
     "h": "whois.nic.gmo"
+  },
+  {
+    "tld": "hiv",
+    "h": "whois.uniregistry.net"
   }
 ]
