@@ -3584,5 +3584,9 @@
   {
     "tld": "paris",
     "h": "whois-paris.nic.fr"
+  },
+  {
+    "tld": "pars",
+    "h": "whois.nic.pars"
   }
 ]
