@@ -777,5 +777,9 @@
   {
     "tld": "capetown",
     "h": "capetown-whois.registry.net.za"
+  },
+  {
+    "tld": "capital",
+    "h": "whois.nic.capital"
   }
 ]
