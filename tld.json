@@ -564,5 +564,9 @@
   },
   {
     "tld": "bloomberg"
+  },
+  {
+    "tld": "blue",
+    "h": "whois.afilias.net"
   }
 ]
