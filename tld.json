@@ -572,5 +572,9 @@
   {
     "tld": "bm",
     "url": "http://www.bermudanic.bm/cgi-bin/lansaweb?procfun+BMWHO+BMWHO2+WHO"
+  },
+  {
+    "tld": "bms",
+    "h": "whois.nic.bms"
   }
 ]
