@@ -3424,5 +3424,9 @@
   {
     "tld": "now",
     "h": "whois.nic.now"
+  },
+  {
+    "tld": "nowruz",
+    "h": "whois.nic.nowruz"
   }
 ]
