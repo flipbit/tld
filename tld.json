@@ -3224,5 +3224,9 @@
   },
   {
     "tld": "msd"
+  },
+  {
+    "tld": "mt",
+    "url": "https://www.nic.org.mt/dotmt/"
   }
 ]
