@@ -3754,5 +3754,9 @@
   {
     "tld": "politie",
     "h": "whois.nic.politie"
+  },
+  {
+    "tld": "porn",
+    "h": "whois.registrar.adult"
   }
 ]
