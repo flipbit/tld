@@ -4661,5 +4661,9 @@
   {
     "tld": "tel",
     "h": "whois.nic.tel"
+  },
+  {
+    "tld": "telefonica",
+    "h": "whois.nic.telefonica"
   }
 ]
