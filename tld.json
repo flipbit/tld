@@ -2171,5 +2171,9 @@
   {
     "tld": "hgtv",
     "h": "whois.nic.hgtv"
+  },
+  {
+    "tld": "hiphop",
+    "h": "whois.uniregistry.net"
   }
 ]
