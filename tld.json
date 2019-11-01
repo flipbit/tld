@@ -3287,5 +3287,9 @@
     "tld": "name",
     "h": "whois.nic.name",
     "fmt": "domain={query}"
+  },
+  {
+    "tld": "nationwide",
+    "h": "whois.nic.nationwide"
   }
 ]
