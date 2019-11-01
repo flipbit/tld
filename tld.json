@@ -5146,5 +5146,8 @@
   {
     "tld": "weibo",
     "h": "whois.nic.weibo"
+  },
+  {
+    "tld": "weir"
   }
 ]
