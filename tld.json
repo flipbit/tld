@@ -4105,5 +4105,9 @@
   {
     "tld": "sandvik",
     "h": "whois.nic.sandvik"
+  },
+  {
+    "tld": "sandvikcoromant",
+    "h": "whois.nic.sandvikcoromant"
   }
 ]
