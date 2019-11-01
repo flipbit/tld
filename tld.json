@@ -4677,5 +4677,9 @@
   {
     "tld": "teva",
     "h": "whois.nic.teva"
+  },
+  {
+    "tld": "tf",
+    "h": "whois.nic.tf"
   }
 ]
