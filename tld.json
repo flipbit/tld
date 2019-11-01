@@ -1714,5 +1714,9 @@
   },
   {
     "tld": "flickr"
+  },
+  {
+    "tld": "flights",
+    "h": "whois.nic.flights"
   }
 ]
