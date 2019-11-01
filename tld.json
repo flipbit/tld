@@ -465,5 +465,9 @@
   {
     "tld": "be",
     "h": "whois.dns.be"
+  },
+  {
+    "tld": "beats",
+    "h": "whois.afilias-srs.net"
   }
 ]
