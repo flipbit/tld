@@ -916,5 +916,8 @@
   {
     "tld": "charity",
     "h": "whois.nic.charity"
+  },
+  {
+    "tld": "chase"
   }
 ]
