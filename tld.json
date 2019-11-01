@@ -1759,5 +1759,9 @@
   },
   {
     "tld": "ford"
+  },
+  {
+    "tld": "forex",
+    "h": "whois.nic.forex"
   }
 ]
