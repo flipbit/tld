@@ -3138,5 +3138,9 @@
   {
     "tld": "mobi",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "mobile",
+    "h": "whois.nic.mobile"
   }
 ]
