@@ -3347,5 +3347,9 @@
   {
     "tld": "next",
     "h": "whois.nic.next"
+  },
+  {
+    "tld": "nextdirect",
+    "h": "whois.nic.nextdirect"
   }
 ]
