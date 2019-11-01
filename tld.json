@@ -4408,5 +4408,8 @@
   {
     "tld": "software",
     "h": "whois.nic.software"
+  },
+  {
+    "tld": "sohu"
   }
 ]
