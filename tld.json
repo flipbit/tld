@@ -1911,5 +1911,9 @@
   {
     "tld": "george",
     "h": "whois.nic.george"
+  },
+  {
+    "tld": "gf",
+    "h": "whois.mediaserv.net"
   }
 ]
