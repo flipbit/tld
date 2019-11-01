@@ -3947,5 +3947,9 @@
   {
     "tld": "repair",
     "h": "whois.nic.repair"
+  },
+  {
+    "tld": "report",
+    "h": "whois.nic.report"
   }
 ]
