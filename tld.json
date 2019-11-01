@@ -1903,5 +1903,9 @@
   {
     "tld": "gent",
     "h": "whois.nic.gent"
+  },
+  {
+    "tld": "genting",
+    "h": "whois.nic.genting"
   }
 ]
