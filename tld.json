@@ -3045,5 +3045,9 @@
   {
     "tld": "meet",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "melbourne",
+    "h": "whois.nic.melbourne"
   }
 ]
