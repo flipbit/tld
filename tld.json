@@ -2516,5 +2516,9 @@
   {
     "tld": "jo",
     "url": "http://www.dns.jo/Whois.aspx"
+  },
+  {
+    "tld": "jobs",
+    "h": "whois.nic.jobs"
   }
 ]
