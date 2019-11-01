@@ -815,5 +815,9 @@
   },
   {
     "tld": "cartier"
+  },
+  {
+    "tld": "casa",
+    "h": "whois.nic.casa"
   }
 ]
