@@ -616,5 +616,9 @@
   {
     "tld": "boo",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "book",
+    "h": "whois.nic.book"
   }
 ]
