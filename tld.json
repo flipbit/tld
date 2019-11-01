@@ -1146,5 +1146,9 @@
   {
     "tld": "cpa",
     "h": "whois.nic.cpa"
+  },
+  {
+    "tld": "cr",
+    "h": "whois.nic.cr"
   }
 ]
