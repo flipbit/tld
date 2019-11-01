@@ -526,5 +526,8 @@
   {
     "tld": "bike",
     "h": "whois.nic.bike"
+  },
+  {
+    "tld": "bing"
   }
 ]
