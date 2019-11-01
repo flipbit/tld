@@ -951,5 +951,9 @@
   {
     "tld": "ci",
     "h": "whois.nic.ci"
+  },
+  {
+    "tld": "cipriani",
+    "h": "whois.afilias-srs.net"
   }
 ]
