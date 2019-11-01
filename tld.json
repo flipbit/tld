@@ -3868,5 +3868,9 @@
   {
     "tld": "racing",
     "h": "whois.nic.racing"
+  },
+  {
+    "tld": "radio",
+    "h": "whois.nic.radio"
   }
 ]
