@@ -1452,5 +1452,9 @@
   {
     "tld": "eat",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "ec",
+    "h": "whois.nic.ec"
   }
 ]
