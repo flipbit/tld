@@ -4567,5 +4567,9 @@
   {
     "tld": "swiss",
     "h": "whois.nic.swiss"
+  },
+  {
+    "tld": "sx",
+    "h": "whois.sx"
   }
 ]
