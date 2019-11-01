@@ -2543,5 +2543,9 @@
   },
   {
     "tld": "jprs"
+  },
+  {
+    "tld": "juegos",
+    "h": "whois.uniregistry.net"
   }
 ]
