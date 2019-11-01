@@ -489,5 +489,9 @@
   {
     "tld": "best",
     "h": "whois.nic.best"
+  },
+  {
+    "tld": "bestbuy",
+    "h": "whois.nic.bestbuy"
   }
 ]
