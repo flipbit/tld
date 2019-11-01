@@ -2270,5 +2270,9 @@
   {
     "tld": "how",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "hr",
+    "h": "whois.dns.hr"
   }
 ]
