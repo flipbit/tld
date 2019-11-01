@@ -4729,5 +4729,9 @@
   {
     "tld": "tirol",
     "h": "whois.nic.tirol"
+  },
+  {
+    "tld": "tj",
+    "url": "http://www.nic.tj/whois.html"
   }
 ]
