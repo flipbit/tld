@@ -4673,5 +4673,9 @@
   {
     "tld": "tennis",
     "h": "whois.nic.tennis"
+  },
+  {
+    "tld": "teva",
+    "h": "whois.nic.teva"
   }
 ]
