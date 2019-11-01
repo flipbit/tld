@@ -214,5 +214,9 @@
   {
     "tld": "android",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "anquan",
+    "h": "whois.teleinfo.cn"
   }
 ]
