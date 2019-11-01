@@ -2704,5 +2704,9 @@
   {
     "tld": "lancome",
     "h": "whois.nic.lancome"
+  },
+  {
+    "tld": "land",
+    "h": "whois.nic.land"
   }
 ]
