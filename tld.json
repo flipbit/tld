@@ -3335,5 +3335,9 @@
   {
     "tld": "new",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "newholland",
+    "h": "whois.nic.newholland"
   }
 ]
