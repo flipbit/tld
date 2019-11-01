@@ -4136,5 +4136,9 @@
   {
     "tld": "sb",
     "h": "whois.nic.net.sb"
+  },
+  {
+    "tld": "sbi",
+    "h": "whois.nic.sbi"
   }
 ]
