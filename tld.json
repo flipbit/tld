@@ -4620,5 +4620,9 @@
   {
     "tld": "tattoo",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "tax",
+    "h": "whois.nic.tax"
   }
 ]
