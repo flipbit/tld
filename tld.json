@@ -4152,5 +4152,9 @@
   {
     "tld": "sca",
     "h": "whois.nic.sca"
+  },
+  {
+    "tld": "scb",
+    "h": "whois.nic.scb"
   }
 ]
