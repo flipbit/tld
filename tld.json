@@ -750,5 +750,8 @@
   {
     "tld": "call",
     "h": "whois.nic.call"
+  },
+  {
+    "tld": "calvinklein"
   }
 ]
