@@ -410,5 +410,9 @@
   {
     "tld": "barclays",
     "h": "whois.nic.barclays"
+  },
+  {
+    "tld": "barefoot",
+    "h": "whois.nic.barefoot"
   }
 ]
