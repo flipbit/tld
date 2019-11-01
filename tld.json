@@ -1935,5 +1935,9 @@
   {
     "tld": "gift",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "gifts",
+    "h": "whois.nic.gifts"
   }
 ]
