@@ -1907,5 +1907,9 @@
   {
     "tld": "genting",
     "h": "whois.nic.genting"
+  },
+  {
+    "tld": "george",
+    "h": "whois.nic.george"
   }
 ]
