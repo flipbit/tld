@@ -4085,5 +4085,9 @@
   },
   {
     "tld": "sakura"
+  },
+  {
+    "tld": "sale",
+    "h": "whois.nic.sale"
   }
 ]
