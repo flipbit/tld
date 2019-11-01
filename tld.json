@@ -5023,5 +5023,9 @@
   {
     "tld": "virgin",
     "h": "whois.nic.virgin"
+  },
+  {
+    "tld": "visa",
+    "h": "whois.nic.visa"
   }
 ]
