@@ -919,5 +919,9 @@
   },
   {
     "tld": "chase"
+  },
+  {
+    "tld": "chat",
+    "h": "whois.nic.chat"
   }
 ]
