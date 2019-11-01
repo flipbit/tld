@@ -4975,5 +4975,9 @@
   {
     "tld": "verisign",
     "h": "whois.nic.verisign"
+  },
+  {
+    "tld": "versicherung",
+    "h": "whois.nic.versicherung"
   }
 ]
