@@ -3568,5 +3568,9 @@
   {
     "tld": "ovh",
     "h": "whois-ovh.nic.fr"
+  },
+  {
+    "tld": "pa",
+    "url": "http://www.nic.pa/"
   }
 ]
