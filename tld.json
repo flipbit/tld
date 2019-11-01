@@ -2034,5 +2034,9 @@
   {
     "tld": "got",
     "h": "whois.nic.got"
+  },
+  {
+    "tld": "gov",
+    "h": "whois.dotgov.gov"
   }
 ]
