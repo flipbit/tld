@@ -4097,5 +4097,9 @@
   {
     "tld": "samsclub",
     "h": "whois.nic.samsclub"
+  },
+  {
+    "tld": "samsung",
+    "h": "whois.nic.samsung"
   }
 ]
