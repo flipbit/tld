@@ -4888,5 +4888,9 @@
   {
     "tld": "ua",
     "h": "whois.ua"
+  },
+  {
+    "tld": "ubank",
+    "h": "whois.nic.ubank"
   }
 ]
