@@ -3645,5 +3645,9 @@
   {
     "tld": "philips",
     "h": "whois.nic.philips"
+  },
+  {
+    "tld": "phone",
+    "h": "whois.nic.phone"
   }
 ]
