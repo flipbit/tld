@@ -1325,5 +1325,9 @@
   {
     "tld": "diamonds",
     "h": "whois.nic.diamonds"
+  },
+  {
+    "tld": "diet",
+    "h": "whois.uniregistry.net"
   }
 ]
