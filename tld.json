@@ -5894,5 +5894,9 @@
   {
     "tld": "zero",
     "h": "whois.nic.zero"
+  },
+  {
+    "tld": "zip",
+    "h": "whois.nic.google"
   }
 ]
