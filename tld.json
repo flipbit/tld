@@ -3834,5 +3834,9 @@
   {
     "tld": "pub",
     "h": "whois.nic.pub"
+  },
+  {
+    "tld": "pw",
+    "h": "whois.nic.pw"
   }
 ]
