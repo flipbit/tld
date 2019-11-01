@@ -1329,5 +1329,9 @@
   {
     "tld": "diet",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "digital",
+    "h": "whois.nic.digital"
   }
 ]
