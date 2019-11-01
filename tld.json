@@ -3146,5 +3146,9 @@
   {
     "tld": "moda",
     "h": "whois.nic.moda"
+  },
+  {
+    "tld": "moe",
+    "h": "whois.nic.moe"
   }
 ]
