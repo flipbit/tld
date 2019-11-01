@@ -792,5 +792,9 @@
   },
   {
     "tld": "caravan"
+  },
+  {
+    "tld": "cards",
+    "h": "whois.nic.cards"
   }
 ]
