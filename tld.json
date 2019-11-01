@@ -3726,5 +3726,9 @@
   {
     "tld": "plumbing",
     "h": "whois.nic.plumbing"
+  },
+  {
+    "tld": "plus",
+    "h": "whois.nic.plus"
   }
 ]
