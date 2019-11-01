@@ -2367,5 +2367,9 @@
   {
     "tld": "industries",
     "h": "whois.nic.industries"
+  },
+  {
+    "tld": "infiniti",
+    "h": "whois.nic.gmo"
   }
 ]
