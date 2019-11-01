@@ -3240,5 +3240,9 @@
   {
     "tld": "mu",
     "h": "whois.nic.mu"
+  },
+  {
+    "tld": "museum",
+    "h": "whois.nic.museum"
   }
 ]
