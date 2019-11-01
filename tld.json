@@ -1680,5 +1680,9 @@
   {
     "tld": "fire",
     "h": "whois.nic.fire"
+  },
+  {
+    "tld": "firestone",
+    "h": "whois.nic.firestone"
   }
 ]
