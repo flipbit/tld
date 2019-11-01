@@ -158,5 +158,9 @@
   {
     "tld": "alibaba",
     "h": "whois.nic.alibaba"
+  },
+  {
+    "tld": "alipay",
+    "h": "whois.nic.alipay"
   }
 ]
