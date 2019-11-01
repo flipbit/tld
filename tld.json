@@ -2432,5 +2432,9 @@
   {
     "tld": "irish",
     "h": "whois.nic.irish"
+  },
+  {
+    "tld": "is",
+    "h": "whois.isnic.is"
   }
 ]
