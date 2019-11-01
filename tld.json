@@ -1614,5 +1614,9 @@
   {
     "tld": "fans",
     "h": "whois.nic.fans"
+  },
+  {
+    "tld": "farm",
+    "h": "whois.nic.farm"
   }
 ]
