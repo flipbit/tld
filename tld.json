@@ -1074,5 +1074,9 @@
   {
     "tld": "company",
     "h": "whois.nic.company"
+  },
+  {
+    "tld": "compare",
+    "h": "whois.nic.compare"
   }
 ]
