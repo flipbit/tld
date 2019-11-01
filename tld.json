@@ -1574,5 +1574,9 @@
   {
     "tld": "expert",
     "h": "whois.nic.expert"
+  },
+  {
+    "tld": "exposed",
+    "h": "whois.nic.exposed"
   }
 ]
