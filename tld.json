@@ -4963,5 +4963,9 @@
   {
     "tld": "ve",
     "h": "whois.nic.ve"
+  },
+  {
+    "tld": "vegas",
+    "h": "whois.afilias-srs.net"
   }
 ]
