@@ -306,5 +306,9 @@
   {
     "tld": "attorney",
     "h": "whois.nic.attorney"
+  },
+  {
+    "tld": "au",
+    "h": "whois.auda.org.au"
   }
 ]
