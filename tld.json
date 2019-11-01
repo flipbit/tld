@@ -2972,5 +2972,9 @@
   {
     "tld": "makeup",
     "h": "whois.nic.makeup"
+  },
+  {
+    "tld": "man",
+    "h": "whois.nic.man"
   }
 ]
