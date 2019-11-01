@@ -5078,5 +5078,9 @@
   {
     "tld": "voyage",
     "h": "whois.nic.voyage"
+  },
+  {
+    "tld": "vu",
+    "h": "vunic.vu"
   }
 ]
