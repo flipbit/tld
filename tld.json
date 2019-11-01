@@ -3529,5 +3529,8 @@
   {
     "tld": "ooo",
     "h": "whois.nic.ooo"
+  },
+  {
+    "tld": "open"
   }
 ]
