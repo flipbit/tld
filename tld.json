@@ -773,5 +773,9 @@
   {
     "tld": "canon",
     "h": "whois.nic.canon"
+  },
+  {
+    "tld": "capetown",
+    "h": "capetown-whois.registry.net.za"
   }
 ]
