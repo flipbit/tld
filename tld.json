@@ -851,5 +851,8 @@
   {
     "tld": "cba",
     "h": "whois.nic.cba"
+  },
+  {
+    "tld": "cbn"
   }
 ]
