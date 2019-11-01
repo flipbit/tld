@@ -295,5 +295,9 @@
   {
     "tld": "associates",
     "h": "whois.nic.associates"
+  },
+  {
+    "tld": "at",
+    "h": "whois.nic.at"
   }
 ]
