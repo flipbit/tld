@@ -5050,5 +5050,9 @@
   {
     "tld": "vn",
     "url": "http://www.vnnic.vn/en/domain"
+  },
+  {
+    "tld": "vodka",
+    "h": "whois.nic.vodka"
   }
 ]
