@@ -1983,5 +1983,9 @@
   {
     "tld": "gmbh",
     "h": "whois.nic.gmbh"
+  },
+  {
+    "tld": "gmo",
+    "h": "whois.nic.gmo"
   }
 ]
