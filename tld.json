@@ -3000,5 +3000,9 @@
   {
     "tld": "markets",
     "h": "whois.nic.markets"
+  },
+  {
+    "tld": "marriott",
+    "h": "whois.afilias-srs.net"
   }
 ]
