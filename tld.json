@@ -2894,5 +2894,9 @@
   {
     "tld": "love",
     "h": "whois.nic.love"
+  },
+  {
+    "tld": "lpl",
+    "h": "whois.nic.lpl"
   }
 ]
