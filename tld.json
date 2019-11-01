@@ -1219,5 +1219,9 @@
   {
     "tld": "cz",
     "h": "whois.nic.cz"
+  },
+  {
+    "tld": "dabur",
+    "h": "whois.afilias-srs.net"
   }
 ]
