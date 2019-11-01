@@ -283,5 +283,9 @@
   {
     "tld": "as",
     "h": "whois.nic.as"
+  },
+  {
+    "tld": "asda",
+    "h": "whois.nic.asda"
   }
 ]
