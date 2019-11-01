@@ -3134,5 +3134,9 @@
   {
     "tld": "mo",
     "h": "whois.monic.mo"
+  },
+  {
+    "tld": "mobi",
+    "h": "whois.afilias.net"
   }
 ]
