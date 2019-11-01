@@ -2747,5 +2747,9 @@
   {
     "tld": "lc",
     "h": "whois.afilias-grs.info"
+  },
+  {
+    "tld": "lds",
+    "h": "whois.nic.lds"
   }
 ]
