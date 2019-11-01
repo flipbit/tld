@@ -4789,5 +4789,9 @@
   {
     "tld": "toshiba",
     "h": "whois.nic.toshiba"
+  },
+  {
+    "tld": "total",
+    "h": "whois-total.nic.fr"
   }
 ]
