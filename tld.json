@@ -3440,5 +3440,9 @@
   {
     "tld": "nr",
     "url": "http://www.cenpac.net.nr/dns/whois.html"
+  },
+  {
+    "tld": "nra",
+    "h": "whois.afilias-srs.net"
   }
 ]
