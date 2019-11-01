@@ -3683,5 +3683,9 @@
   {
     "tld": "pid",
     "h": "whois.nic.pid"
+  },
+  {
+    "tld": "pin",
+    "h": "whois.nic.pin"
   }
 ]
