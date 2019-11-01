@@ -5119,5 +5119,8 @@
   },
   {
     "tld": "weather"
+  },
+  {
+    "tld": "weatherchannel"
   }
 ]
