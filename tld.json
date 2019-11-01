@@ -2080,5 +2080,9 @@
   {
     "tld": "gs",
     "h": "whois.nic.gs"
+  },
+  {
+    "tld": "gt",
+    "url": "http://www.gt/"
   }
 ]
