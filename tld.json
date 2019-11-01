@@ -529,5 +529,9 @@
   },
   {
     "tld": "bing"
+  },
+  {
+    "tld": "bingo",
+    "h": "whois.nic.bingo"
   }
 ]
