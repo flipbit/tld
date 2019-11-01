@@ -2798,5 +2798,9 @@
   },
   {
     "tld": "lifeinsurance"
+  },
+  {
+    "tld": "lifestyle",
+    "h": "whois.nic.lifestyle"
   }
 ]
