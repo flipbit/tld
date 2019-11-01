@@ -4785,5 +4785,9 @@
   {
     "tld": "toray",
     "h": "whois.nic.toray"
+  },
+  {
+    "tld": "toshiba",
+    "h": "whois.nic.toshiba"
   }
 ]
