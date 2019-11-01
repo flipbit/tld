@@ -3428,5 +3428,9 @@
   {
     "tld": "nowruz",
     "h": "whois.nic.nowruz"
+  },
+  {
+    "tld": "nowtv",
+    "h": "whois.nic.nowtv"
   }
 ]
