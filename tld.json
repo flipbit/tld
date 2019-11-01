@@ -4404,5 +4404,9 @@
   {
     "tld": "softbank",
     "h": "whois.nic.softbank"
+  },
+  {
+    "tld": "software",
+    "h": "whois.nic.software"
   }
 ]
