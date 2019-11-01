@@ -2806,5 +2806,9 @@
   {
     "tld": "lighting",
     "h": "whois.nic.lighting"
+  },
+  {
+    "tld": "like",
+    "h": "whois.nic.like"
   }
 ]
