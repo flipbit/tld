@@ -1188,5 +1188,9 @@
   {
     "tld": "cu",
     "url": "http://www.nic.cu/"
+  },
+  {
+    "tld": "cuisinella",
+    "h": "whois.nic.cuisinella"
   }
 ]
