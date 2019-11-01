@@ -935,5 +935,9 @@
   {
     "tld": "christmas",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "chrome",
+    "h": "whois.nic.google"
   }
 ]
