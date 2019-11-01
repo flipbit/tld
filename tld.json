@@ -1090,5 +1090,9 @@
   {
     "tld": "condos",
     "h": "whois.nic.condos"
+  },
+  {
+    "tld": "construction",
+    "h": "whois.nic.construction"
   }
 ]
