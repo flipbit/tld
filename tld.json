@@ -2129,5 +2129,9 @@
   {
     "tld": "hangout",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "haus",
+    "h": "whois.nic.haus"
   }
 ]
