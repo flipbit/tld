@@ -3826,5 +3826,9 @@
   {
     "tld": "ps",
     "h": "whois.pnina.ps"
+  },
+  {
+    "tld": "pt",
+    "h": "whois.dns.pt"
   }
 ]
