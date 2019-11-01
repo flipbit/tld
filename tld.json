@@ -1578,5 +1578,9 @@
   {
     "tld": "exposed",
     "h": "whois.nic.exposed"
+  },
+  {
+    "tld": "express",
+    "h": "whois.nic.express"
   }
 ]
