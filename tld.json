@@ -3991,5 +3991,9 @@
   {
     "tld": "rightathome",
     "h": "whois.nic.rightathome"
+  },
+  {
+    "tld": "ril",
+    "h": "whois.nic.ril"
   }
 ]
