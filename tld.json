@@ -1310,5 +1310,9 @@
   {
     "tld": "desi",
     "h": "whois.nic.desi"
+  },
+  {
+    "tld": "design",
+    "h": "whois.nic.design"
   }
 ]
