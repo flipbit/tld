@@ -1373,5 +1373,10 @@
   {
     "tld": "dnp",
     "h": "whois.nic.dnp"
+  },
+  {
+    "tld": "do",
+    "h": "whois.nic.do",
+    "url": "http://www.nic.do/whois-h.php3"
   }
 ]
