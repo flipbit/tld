@@ -4805,5 +4805,9 @@
   {
     "tld": "toyota",
     "h": "whois.nic.toyota"
+  },
+  {
+    "tld": "toys",
+    "h": "whois.nic.toys"
   }
 ]
