@@ -3083,5 +3083,8 @@
   {
     "tld": "miami",
     "h": "whois.nic.miami"
+  },
+  {
+    "tld": "microsoft"
   }
 ]
