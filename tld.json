@@ -2375,5 +2375,9 @@
   {
     "tld": "info",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "ing",
+    "h": "whois.nic.google"
   }
 ]
