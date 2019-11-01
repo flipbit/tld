@@ -3891,5 +3891,9 @@
   },
   {
     "tld": "realtor"
+  },
+  {
+    "tld": "realty",
+    "h": "whois.nic.realty"
   }
 ]
