@@ -5728,5 +5728,9 @@
   {
     "tld": "xn--qxa6a",
     "h": "whois.eu"
+  },
+  {
+    "tld": "xn--qxam",
+    "url": "https://grweb.ics.forth.gr/public/whois.jsp?lang=en"
   }
 ]
