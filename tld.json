@@ -2006,5 +2006,9 @@
   {
     "tld": "goldpoint",
     "h": "whois.nic.goldpoint"
+  },
+  {
+    "tld": "golf",
+    "h": "whois.nic.golf"
   }
 ]
