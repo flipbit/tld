@@ -2136,5 +2136,9 @@
   },
   {
     "tld": "hbo"
+  },
+  {
+    "tld": "hdfc",
+    "h": "whois.nic.hdfc"
   }
 ]
