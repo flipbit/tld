@@ -2949,5 +2949,9 @@
   {
     "tld": "ly",
     "h": "whois.nic.ly"
+  },
+  {
+    "tld": "ma",
+    "h": "whois.registre.ma"
   }
 ]
