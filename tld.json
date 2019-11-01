@@ -2072,5 +2072,9 @@
   },
   {
     "tld": "grocery"
+  },
+  {
+    "tld": "group",
+    "h": "whois.nic.group"
   }
 ]
