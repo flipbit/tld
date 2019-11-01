@@ -4571,5 +4571,9 @@
   {
     "tld": "sx",
     "h": "whois.sx"
+  },
+  {
+    "tld": "sy",
+    "h": "whois.tld.sy"
   }
 ]
