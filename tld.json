@@ -3653,5 +3653,9 @@
   {
     "tld": "photo",
     "h": "whois.uniregistry.net"
+  },
+  {
+    "tld": "photography",
+    "h": "whois.nic.photography"
   }
 ]
