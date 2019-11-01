@@ -3572,5 +3572,9 @@
   {
     "tld": "pa",
     "url": "http://www.nic.pa/"
+  },
+  {
+    "tld": "page",
+    "h": "whois.nic.google"
   }
 ]
