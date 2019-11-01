@@ -2320,5 +2320,8 @@
   {
     "tld": "ie",
     "h": "whois.iedr.ie"
+  },
+  {
+    "tld": "ieee"
   }
 ]
