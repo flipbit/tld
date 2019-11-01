@@ -3607,5 +3607,9 @@
   {
     "tld": "pay",
     "h": "whois.nic.pay"
+  },
+  {
+    "tld": "pccw",
+    "h": "whois.nic.pccw"
   }
 ]
