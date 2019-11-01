@@ -3864,5 +3864,9 @@
   },
   {
     "tld": "qvc"
+  },
+  {
+    "tld": "racing",
+    "h": "whois.nic.racing"
   }
 ]
