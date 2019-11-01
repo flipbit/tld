@@ -3564,5 +3564,9 @@
   {
     "tld": "ott",
     "h": "whois.nic.ott"
+  },
+  {
+    "tld": "ovh",
+    "h": "whois-ovh.nic.fr"
   }
 ]
