@@ -207,5 +207,8 @@
   {
     "tld": "amsterdam",
     "h": "whois.nic.amsterdam"
+  },
+  {
+    "tld": "analytics"
   }
 ]
