@@ -1704,5 +1704,9 @@
   {
     "tld": "fitness",
     "h": "whois.nic.fitness"
+  },
+  {
+    "tld": "fj",
+    "h": "whois.usp.ac.fj"
   }
 ]
