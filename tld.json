@@ -5202,5 +5202,9 @@
   {
     "tld": "works",
     "h": "whois.nic.works"
+  },
+  {
+    "tld": "world",
+    "h": "whois.nic.world"
   }
 ]
