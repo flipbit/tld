@@ -3792,5 +3792,9 @@
   {
     "tld": "productions",
     "h": "whois.nic.productions"
+  },
+  {
+    "tld": "prof",
+    "h": "whois.nic.google"
   }
 ]
