@@ -1971,5 +1971,9 @@
   {
     "tld": "globo",
     "h": "whois.gtlds.nic.br"
+  },
+  {
+    "tld": "gm",
+    "url": "http://www.nic.gm/htmlpages/whois.htm"
   }
 ]
