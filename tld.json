@@ -3521,5 +3521,9 @@
   {
     "tld": "online",
     "h": "whois.nic.online"
+  },
+  {
+    "tld": "onyourside",
+    "h": "whois.nic.onyourside"
   }
 ]
