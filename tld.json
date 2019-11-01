@@ -4117,5 +4117,9 @@
   {
     "tld": "sap",
     "h": "whois.nic.sap"
+  },
+  {
+    "tld": "sarl",
+    "h": "whois.nic.sarl"
   }
 ]
