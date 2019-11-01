@@ -1365,5 +1365,9 @@
     "tld": "dk",
     "h": "whois.dk-hostmaster.dk",
     "fmt": "--show-handles {query}"
+  },
+  {
+    "tld": "dm",
+    "h": "whois.nic.dm"
   }
 ]
