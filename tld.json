@@ -248,5 +248,9 @@
   {
     "tld": "aquarelle",
     "h": "whois-aquarelle.nic.fr"
+  },
+  {
+    "tld": "ar",
+    "h": "whois.nic.ar"
   }
 ]
