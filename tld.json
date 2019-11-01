@@ -4101,5 +4101,9 @@
   {
     "tld": "samsung",
     "h": "whois.nic.samsung"
+  },
+  {
+    "tld": "sandvik",
+    "h": "whois.nic.sandvik"
   }
 ]
