@@ -1803,5 +1803,8 @@
   {
     "tld": "frontdoor",
     "h": "whois.nic.frontdoor"
+  },
+  {
+    "tld": "frontier"
   }
 ]
