@@ -1410,5 +1410,9 @@
   {
     "tld": "drive",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "dtv",
+    "h": "whois.nic.dtv"
   }
 ]
