@@ -3665,5 +3665,8 @@
   {
     "tld": "physio",
     "h": "whois.nic.physio"
+  },
+  {
+    "tld": "piaget"
   }
 ]
