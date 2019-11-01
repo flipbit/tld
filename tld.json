@@ -3205,5 +3205,9 @@
   {
     "tld": "movistar",
     "h": "whois.nic.movistar"
+  },
+  {
+    "tld": "mp",
+    "h": "whois.nic.mp"
   }
 ]
