@@ -3278,5 +3278,9 @@
   {
     "tld": "nadex",
     "h": "whois.nic.nadex"
+  },
+  {
+    "tld": "nagoya",
+    "h": "whois.nic.nagoya"
   }
 ]
