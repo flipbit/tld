@@ -2219,5 +2219,8 @@
   {
     "tld": "homedepot",
     "h": "whois.nic.homedepot"
+  },
+  {
+    "tld": "homegoods"
   }
 ]
