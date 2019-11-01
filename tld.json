@@ -549,5 +549,9 @@
   {
     "tld": "black",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "blackfriday",
+    "h": "whois.uniregistry.net"
   }
 ]
