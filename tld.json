@@ -1531,5 +1531,9 @@
   {
     "tld": "esq",
     "h": "whois.nic.google"
+  },
+  {
+    "tld": "estate",
+    "h": "whois.nic.estate"
   }
 ]
