@@ -2863,5 +2863,9 @@
   {
     "tld": "loans",
     "h": "whois.nic.loans"
+  },
+  {
+    "tld": "locker",
+    "h": "whois.nic.locker"
   }
 ]
