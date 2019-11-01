@@ -2053,5 +2053,9 @@
   },
   {
     "tld": "grainger"
+  },
+  {
+    "tld": "graphics",
+    "h": "whois.nic.graphics"
   }
 ]
