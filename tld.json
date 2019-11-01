@@ -1070,5 +1070,9 @@
   {
     "tld": "community",
     "h": "whois.nic.community"
+  },
+  {
+    "tld": "company",
+    "h": "whois.nic.company"
   }
 ]
