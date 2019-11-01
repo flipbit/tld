@@ -398,5 +398,9 @@
   {
     "tld": "bar",
     "h": "whois.nic.bar"
+  },
+  {
+    "tld": "barcelona",
+    "h": "whois.nic.barcelona"
   }
 ]
