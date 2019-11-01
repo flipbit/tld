@@ -781,5 +781,9 @@
   {
     "tld": "capital",
     "h": "whois.nic.capital"
+  },
+  {
+    "tld": "capitalone",
+    "h": "whois.nic.capitalone"
   }
 ]
