@@ -3548,5 +3548,9 @@
   {
     "tld": "organic",
     "h": "whois.afilias.net"
+  },
+  {
+    "tld": "origins",
+    "h": "whois.nic.origins"
   }
 ]
