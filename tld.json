@@ -453,5 +453,9 @@
   {
     "tld": "bcg",
     "h": "whois.nic.bcg"
+  },
+  {
+    "tld": "bcn",
+    "h": "whois.nic.bcn"
   }
 ]
