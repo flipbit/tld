@@ -4026,5 +4026,9 @@
   {
     "tld": "rogers",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "room",
+    "h": "whois.nic.room"
   }
 ]
