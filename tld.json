@@ -1010,5 +1010,9 @@
   {
     "tld": "clothing",
     "h": "whois.nic.clothing"
+  },
+  {
+    "tld": "cloud",
+    "h": "whois.nic.cloud"
   }
 ]
