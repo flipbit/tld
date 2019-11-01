@@ -1955,5 +1955,9 @@
   {
     "tld": "glade",
     "h": "whois.nic.glade"
+  },
+  {
+    "tld": "glass",
+    "h": "whois.nic.glass"
   }
 ]
