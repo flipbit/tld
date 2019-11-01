@@ -730,5 +730,9 @@
   {
     "tld": "bzh",
     "h": "whois.nic.bzh"
+  },
+  {
+    "tld": "ca",
+    "h": "whois.cira.ca"
   }
 ]
