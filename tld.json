@@ -4709,5 +4709,9 @@
   {
     "tld": "tickets",
     "h": "whois.nic.tickets"
+  },
+  {
+    "tld": "tienda",
+    "h": "whois.nic.tienda"
   }
 ]
