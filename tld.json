@@ -241,5 +241,8 @@
   {
     "tld": "apple",
     "h": "whois.afilias-srs.net"
+  },
+  {
+    "tld": "aq"
   }
 ]
