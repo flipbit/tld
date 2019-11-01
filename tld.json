@@ -12,5 +12,9 @@
   },
   {
     "tld": "abb"
+  },
+  {
+    "tld": "abbott",
+    "h": "whois.afilias-srs.net"
   }
 ]
