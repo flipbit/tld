@@ -96,5 +96,9 @@
   {
     "tld": "af",
     "h": "whois.nic.af"
+  },
+  {
+    "tld": "afamilycompany",
+    "h": "whois.nic.afamilycompany"
   }
 ]
