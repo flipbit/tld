@@ -3963,5 +3963,9 @@
   {
     "tld": "restaurant",
     "h": "whois.nic.restaurant"
+  },
+  {
+    "tld": "review",
+    "h": "whois.nic.review"
   }
 ]
