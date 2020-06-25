@@ -3101,7 +3101,8 @@
     "h": "whois.nic.mls"
   },
   {
-    "tld": "mm"
+    "tld": "mm",
+    "h": "whois.registry.gov.mm"
   },
   {
     "tld": "mma",
