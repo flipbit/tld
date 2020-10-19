@@ -4381,6 +4381,10 @@
     "h": "whois.nic.google"
   },
   {
+    "tld": "spa",
+    "h": "whois.afilias-srs.net"
+  },
+  {
     "tld": "space",
     "h": "whois.nic.space"
   },
