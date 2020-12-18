@@ -5028,7 +5028,8 @@
     "h": "whois.nic.watch"
   },
   {
-    "tld": "watches"
+    "tld": "watches",
+    "h": "whois.nic.watches"
   },
   {
     "tld": "weather"
