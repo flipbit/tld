@@ -3797,7 +3797,8 @@
     "h": "whois.registry.qa"
   },
   {
-    "tld": "qpon"
+    "tld": "qpon",
+    "h": "whois.nic.qpon"
   },
   {
     "tld": "quebec",
