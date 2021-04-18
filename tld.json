@@ -3230,10 +3230,6 @@
     "fmt": "domain={query}"
   },
   {
-    "tld": "nationwide",
-    "h": "whois.nic.nationwide"
-  },
-  {
     "tld": "natura",
     "h": "whois.gtlds.nic.br"
   },
