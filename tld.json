@@ -1357,7 +1357,8 @@
     "h": "whois.nic.dm"
   },
   {
-    "tld": "dnp"
+    "tld": "dnp",
+    "h": "whois.nic.dnp"
   },
   {
     "tld": "do",
