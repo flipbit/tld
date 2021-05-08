@@ -1129,7 +1129,8 @@
     "h": "whois.nic.courses"
   },
   {
-    "tld": "cpa"
+    "tld": "cpa",
+    "h": "whois.nic.cpa"
   },
   {
     "tld": "cr",
