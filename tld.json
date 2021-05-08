@@ -1255,7 +1255,8 @@
     "h": "whois.nic.deal"
   },
   {
-    "tld": "dealer"
+    "tld": "dealer",
+    "h": "whois.nic.dealer"
   },
   {
     "tld": "deals",
