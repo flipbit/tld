@@ -3148,7 +3148,8 @@
     "h": "whois.nic.movie"
   },
   {
-    "tld": "mp"
+    "tld": "mp",
+    "h": "whois.nic.mp"
   },
   {
     "tld": "mq",
