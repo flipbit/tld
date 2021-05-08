@@ -184,7 +184,8 @@
     "h": "whois.amnic.net"
   },
   {
-    "tld": "amazon"
+    "tld": "amazon",
+    "h": "whois.nic.amazon"
   },
   {
     "tld": "americanexpress"
