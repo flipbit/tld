@@ -1429,7 +1429,8 @@
     "h": "whois.nic.dz"
   },
   {
-    "tld": "earth"
+    "tld": "earth",
+    "h": "whois.nic.earth"
   },
   {
     "tld": "eat",
