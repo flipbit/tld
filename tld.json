@@ -3155,7 +3155,8 @@
     "h": "whois.nic.museum"
   },
   {
-    "tld": "music"
+    "tld": "music",
+    "h": "whois.nic.music"
   },
   {
     "tld": "mutual"
