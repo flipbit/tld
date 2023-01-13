@@ -4600,7 +4600,8 @@
     "h": "whois.nic.tm"
   },
   {
-    "tld": "tmall"
+    "tld": "tmall",
+    "h": "whois.nic.tmall"
   },
   {
     "tld": "tn",
