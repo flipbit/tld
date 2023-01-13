@@ -4451,7 +4451,8 @@
     "h": "whois.nic.talk"
   },
   {
-    "tld": "taobao"
+    "tld": "taobao",
+    "h": "whois.nic.taobao"
   },
   {
     "tld": "target"
