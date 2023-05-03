@@ -3764,7 +3764,8 @@
     "h": "whois.nic.realestate"
   },
   {
-    "tld": "realtor"
+    "tld": "realtor",
+    "h": "whois.nic.realtor"
   },
   {
     "tld": "realty",
