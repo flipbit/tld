@@ -4976,7 +4976,8 @@
     "h": "whois.nic.weibo"
   },
   {
-    "tld": "weir"
+    "tld": "weir",
+    "h": "whois.nic.weir"
   },
   {
     "tld": "wf",
