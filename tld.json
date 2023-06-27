@@ -1122,7 +1122,8 @@
     "h": "whois.nic.cricket"
   },
   {
-    "tld": "crown"
+    "tld": "crown",
+    "h": "whois.nic.crown"
   },
   {
     "tld": "crs"
