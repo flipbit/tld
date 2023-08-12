@@ -1126,7 +1126,8 @@
     "h": "whois.nic.crown"
   },
   {
-    "tld": "crs"
+    "tld": "crs",
+    "h": "whois.nic.crs"
   },
   {
     "tld": "cruise",
