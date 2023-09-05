@@ -1316,7 +1316,7 @@
   },
   {
     "tld": "dk",
-    "h": "whois.dk-hostmaster.dk",
+    "h": "whois.punktum.dk",
     "fmt": "--show-handles {query}"
   },
   {
