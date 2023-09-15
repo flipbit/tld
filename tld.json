@@ -1994,7 +1994,8 @@
     "h": "whois.nic.gripe"
   },
   {
-    "tld": "grocery"
+    "tld": "grocery",
+    "h": "whois.nic.grocery"
   },
   {
     "tld": "group",
