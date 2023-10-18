@@ -923,7 +923,8 @@
     "tld": "cisco"
   },
   {
-    "tld": "citadel"
+    "tld": "citadel",
+    "h": "whois.nic.citadel"
   },
   {
     "tld": "citi"
