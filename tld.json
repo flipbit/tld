@@ -2165,7 +2165,8 @@
     "h": "whois.nic.hot"
   },
   {
-    "tld": "hotels"
+    "tld": "hotels",
+    "h": "whois.nic.hotels"
   },
   {
     "tld": "hotmail"
