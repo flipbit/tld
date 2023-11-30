@@ -405,7 +405,8 @@
     "h": "whois.nic.bargains"
   },
   {
-    "tld": "baseball"
+    "tld": "baseball",
+    "h": "whois.nic.baseball"
   },
   {
     "tld": "basketball",
