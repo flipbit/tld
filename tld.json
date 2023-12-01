@@ -3362,7 +3362,8 @@
     "h": "whois.nic.ooo"
   },
   {
-    "tld": "open"
+    "tld": "open",
+    "h": "whois.nic.open"
   },
   {
     "tld": "oracle",
