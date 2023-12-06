@@ -3501,7 +3501,8 @@
     "h": "whois.nic.pics"
   },
   {
-    "tld": "pictet"
+    "tld": "pictet",
+    "h": "whois.nic.pictet"
   },
   {
     "tld": "pictures",
