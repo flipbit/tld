@@ -550,7 +550,8 @@
     "h": "whois.nic.blog"
   },
   {
-    "tld": "bloomberg"
+    "tld": "bloomberg",
+    "h": "whois.nic.bloomberg"
   },
   {
     "tld": "blue",
