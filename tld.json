@@ -3517,7 +3517,8 @@
     "h": "whois.nic.pin"
   },
   {
-    "tld": "ping"
+    "tld": "ping",
+    "h": "whois.nic.ping"
   },
   {
     "tld": "pink",
