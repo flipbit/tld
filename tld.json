@@ -493,7 +493,8 @@
     "h": "whois.register.bg"
   },
   {
-    "tld": "bh"
+    "tld": "bh",
+    "h": "whois.nic.bh"
   },
   {
     "tld": "bharti"
