@@ -2683,7 +2683,8 @@
     "h": "whois.nic.life"
   },
   {
-    "tld": "lifeinsurance"
+    "tld": "lifeinsurance",
+    "h": "whois.nic.lifeinsurance"
   },
   {
     "tld": "lifestyle",
