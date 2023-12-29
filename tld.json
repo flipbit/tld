@@ -3050,7 +3050,8 @@
     "h": "whois.nic.moscow"
   },
   {
-    "tld": "moto"
+    "tld": "moto",
+    "h": "whois.nic.moto"
   },
   {
     "tld": "motorcycles",
