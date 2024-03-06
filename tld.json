@@ -2930,7 +2930,8 @@
     "h": "whois.nic.menu"
   },
   {
-    "tld": "merckmsd"
+    "tld": "merckmsd",
+    "h": "whois.nic.merckmsd"
   },
   {
     "tld": "mg",
