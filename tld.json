@@ -3076,7 +3076,8 @@
     "h": "whois.nic.ms"
   },
   {
-    "tld": "msd"
+    "tld": "msd",
+    "h": "whois.nic.msd"
   },
   {
     "tld": "mt",
