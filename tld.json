@@ -2825,7 +2825,8 @@
     "h": "whois.nic.madrid"
   },
   {
-    "tld": "maif"
+    "tld": "maif",
+    "h": "whois.nic.maif"
   },
   {
     "tld": "maison",
