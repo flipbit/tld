@@ -2944,7 +2944,8 @@
     "h": "whois.nic.miami"
   },
   {
-    "tld": "microsoft"
+    "tld": "microsoft",
+    "h": "whois.nic.microsoft"
   },
   {
     "tld": "mil"
