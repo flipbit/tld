@@ -349,7 +349,8 @@
     "url": "http://www.nic.az/"
   },
   {
-    "tld": "azure"
+    "tld": "azure",
+    "h": "whois.nic.azure"
   },
   {
     "tld": "ba",
