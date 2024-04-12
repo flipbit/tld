@@ -4979,7 +4979,8 @@
     "h": "whois.nic.wtf"
   },
   {
-    "tld": "xbox"
+    "tld": "xbox",
+    "h": "whois.nic.xbox"
   },
   {
     "tld": "xerox",
