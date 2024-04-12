@@ -2163,7 +2163,8 @@
     "h": "whois.nic.hotels"
   },
   {
-    "tld": "hotmail"
+    "tld": "hotmail",
+    "h": "whois.nic.hotmail"
   },
   {
     "tld": "house",
