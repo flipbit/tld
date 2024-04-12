@@ -3313,7 +3313,8 @@
     "h": "whois.nic.observer"
   },
   {
-    "tld": "office"
+    "tld": "office",
+    "h": "whois.nic.office"
   },
   {
     "tld": "okinawa",
