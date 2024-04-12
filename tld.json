@@ -4148,7 +4148,8 @@
     "h": "whois.nic.sky"
   },
   {
-    "tld": "skype"
+    "tld": "skype",
+    "h": "whois.nic.skype"
   },
   {
     "tld": "sl",
