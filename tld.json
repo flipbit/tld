@@ -511,7 +511,8 @@
     "h": "whois.nic.bike"
   },
   {
-    "tld": "bing"
+    "tld": "bing",
+    "h": "whois.nic.bing"
   },
   {
     "tld": "bingo",
