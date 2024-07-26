@@ -5583,7 +5583,8 @@
     "h": "whois.nic.yachts"
   },
   {
-    "tld": "yahoo"
+    "tld": "yahoo",
+    "h": "whois.nic.yahoo"
   },
   {
     "tld": "yamaxun",
