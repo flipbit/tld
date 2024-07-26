@@ -4026,7 +4026,8 @@
     "h": "whois.nic.select"
   },
   {
-    "tld": "sener"
+    "tld": "sener",
+    "h": "whois.nic.rwe"
   },
   {
     "tld": "services",
