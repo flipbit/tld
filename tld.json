@@ -62,7 +62,8 @@
     "h": "whois.nic.actor"
   },
   {
-    "tld": "ad"
+    "tld": "ad",
+    "h": "whois.nic.ad"
   },
   {
     "tld": "ads",
