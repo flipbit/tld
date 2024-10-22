@@ -1665,7 +1665,8 @@
     "h": "whois.nic.google"
   },
   {
-    "tld": "food"
+    "tld": "food",
+    "h": "whois.nic.food"
   },
   {
     "tld": "football",
