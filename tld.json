@@ -2715,7 +2715,8 @@
     "h": "whois.nic.live"
   },
   {
-    "tld": "living"
+    "tld": "living",
+    "h": "whois.nic.living"
   },
   {
     "tld": "lk",
