@@ -5590,7 +5590,8 @@
     "h": "whois.nic.yamaxun"
   },
   {
-    "tld": "yandex"
+    "tld": "yandex",
+    "h": "whois.nic.yandex"
   },
   {
     "tld": "ye",
