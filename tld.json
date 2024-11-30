@@ -2432,7 +2432,8 @@
     "tld": "jpmorgan"
   },
   {
-    "tld": "jprs"
+    "tld": "jprs",
+    "h": "whois.nic.jprs"
   },
   {
     "tld": "juegos",
