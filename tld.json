@@ -3892,7 +3892,8 @@
     "h": "whois.nic.safety"
   },
   {
-    "tld": "sakura"
+    "tld": "sakura",
+    "h": "whois.nic.sakura"
   },
   {
     "tld": "sale",
