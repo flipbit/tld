@@ -3286,7 +3286,8 @@
     "h": "whois.nic.nrw"
   },
   {
-    "tld": "ntt"
+    "tld": "ntt",
+    "h": "whois.nic.ntt"
   },
   {
     "tld": "nu",
