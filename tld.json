@@ -3439,7 +3439,8 @@
     "tld": "pfizer"
   },
   {
-    "tld": "pg"
+    "tld": "pg",
+    "h": "whois.nic.pg"
   },
   {
     "tld": "ph",
