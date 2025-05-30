@@ -1282,7 +1282,8 @@
     "h": "whois.nic.discount"
   },
   {
-    "tld": "discover"
+    "tld": "discover",
+    "h": "whois.nic.discover"
   },
   {
     "tld": "dish",
