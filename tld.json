@@ -4208,7 +4208,8 @@
     "h": "whois.nic.spot"
   },
   {
-    "tld": "sr"
+    "tld": "sr",
+    "h": "whois.sr"
   },
   {
     "tld": "srl",
