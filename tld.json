@@ -488,7 +488,8 @@
     "h": "whois.nic.bh"
   },
   {
-    "tld": "bharti"
+    "tld": "bharti",
+    "h": "whois.nic.bharti"
   },
   {
     "tld": "bi",
