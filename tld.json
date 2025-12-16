@@ -2860,7 +2860,8 @@
     "h": "whois.nic.mba"
   },
   {
-    "tld": "mc"
+    "tld": "mc",
+    "h": "whois.nic.mc"
   },
   {
     "tld": "mckinsey",
