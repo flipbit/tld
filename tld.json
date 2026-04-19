@@ -2904,6 +2904,10 @@
     "h": "whois.nic.menu"
   },
   {
+    "tld": "merck",
+    "h": "whois.nic.merck"
+  },
+  {
     "tld": "merckmsd",
     "h": "whois.nic.merckmsd"
   },
