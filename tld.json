@@ -4839,6 +4839,9 @@
     "tld": "weatherchannel"
   },
   {
+    "tld": "web"
+  },
+  {
     "tld": "webcam",
     "h": "whois.nic.webcam"
   },
